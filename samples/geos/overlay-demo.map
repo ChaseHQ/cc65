@@ -1,0 +1,535 @@
+Modules list:
+-------------
+overlay-demores.o:
+    DIRENTRY          Offs=000000  Size=00003A  Align=00001  Fill=0000
+    FILEINFO          Offs=000000  Size=0000E5  Align=00001  Fill=0000
+    RECORDS           Offs=000000  Size=000008  Align=00001  Fill=0000
+overlay-demo.o:
+    CODE              Offs=000000  Size=0000FE  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000128  Align=00001  Fill=0000
+    OVERLAY1          Offs=000000  Size=000007  Align=00001  Fill=0000
+    OVERLAY2          Offs=000000  Size=000007  Align=00001  Fill=0000
+    OVERLAY3          Offs=000000  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_directerrno.o):
+    CODE              Offs=0000FE  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_hextab.o):
+    RODATA            Offs=000128  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_longminstr.o):
+    RODATA            Offs=000138  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_oserror.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_poserror.o):
+    CODE              Offs=000108  Size=000040  Align=00001  Fill=0000
+    RODATA            Offs=000144  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_printf.o):
+    CODE              Offs=000148  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_seterrno.o):
+    CODE              Offs=0004ED  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(addysp.o):
+    CODE              Offs=0004F6  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(axlong.o):
+    CODE              Offs=000504  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(callmain.o):
+    CODE              Offs=000511  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000003  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(closerecordfile.o):
+    CODE              Offs=000528  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(condes.o):
+    CODE              Offs=00052E  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000007  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(ctype.o):
+    RODATA            Offs=000145  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(ctypemask.o):
+    CODE              Offs=00053A  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(dbget2lines.o):
+    CODE              Offs=000558  Size=000024  Align=00001  Fill=0000
+    RODATA            Offs=0001D0  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(decsp4.o):
+    CODE              Offs=00057C  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(decsp6.o):
+    CODE              Offs=000589  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(dlgboxok.o):
+    CODE              Offs=000596  Size=00000A  Align=00001  Fill=0000
+    RODATA            Offs=0001D1  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(dodlgbox.o):
+    CODE              Offs=0005A0  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(errno.o):
+    BSS               Offs=00002C  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(exitturbo.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(incsp2.o):
+    CODE              Offs=0005AC  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(incsp4.o):
+    CODE              Offs=0005C2  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(incsp6.o):
+    CODE              Offs=0005C7  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(ldaxi.o):
+    CODE              Offs=0005CC  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(ldaxsp.o):
+    CODE              Offs=0005D9  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(lneg.o):
+    CODE              Offs=0005E2  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(lpush.o):
+    CODE              Offs=000600  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(ltoa.o):
+    CODE              Offs=000621  Size=000095  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(mainargs.o):
+    DATA              Offs=00002C  Size=000008  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=000039  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(memcpy.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(movedata.o):
+    CODE              Offs=0006B6  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(openrecordfile.o):
+    CODE              Offs=0006D0  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(oserrlist.o):
+    RODATA            Offs=0001DE  Size=00035E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pointrecord.o):
+    CODE              Offs=0006DA  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(popptr1.o):
+    CODE              Offs=0006E0  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(push1.o):
+    CODE              Offs=0006EE  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pushax.o):
+    CODE              Offs=0006F3  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pushwsp.o):
+    CODE              Offs=00070D  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(readrecord.o):
+    CODE              Offs=000729  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(setoserror.o):
+    CODE              Offs=00073A  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(sprintf.o):
+    CODE              Offs=000742  Size=00002B  Align=00001  Fill=0000
+    BSS               Offs=00002E  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(staxsp.o):
+    CODE              Offs=00076D  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(strlen.o):
+    CODE              Offs=000778  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(strlower.o):
+    CODE              Offs=00078E  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(stroserr.o):
+    CODE              Offs=0007B5  Size=000030  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(subysp.o):
+    CODE              Offs=0007E5  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(vsnprintf.o):
+    CODE              Offs=0007F2  Size=0000DA  Align=00001  Fill=0000
+    DATA              Offs=000034  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(vsprintf.o):
+    CODE              Offs=0008CC  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zerobss.o):
+    CODE              Offs=0008DE  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+DIRENTRY              000000  000039  00003A  00001
+ZEROPAGE              000058  000071  00001A  00001
+FILEINFO              0000FE  0001E2  0000E5  00001
+RECORDS               0001FC  000203  000008  00001
+STARTUP               000400  000420  000021  00001
+ONCE                  000421  000467  000047  00001
+CODE                  000468  000D58  0008F1  00001
+RODATA                000D59  001294  00053C  00001
+DATA                  001295  0012D0  00003C  00001
+INIT                  0012D1  0012E1  000011  00001
+BSS                   0012E2  001310  00002F  00001
+OVERLAY1              005000  005006  000007  00001
+OVERLAY2              005000  005006  000007  00001
+OVERLAY3              005000  005006  000007  00001
+
+
+Exports list by name:
+---------------------
+DB_get2lines              0009C0 RLA    _CloseRecordFile          000990 RLA    
+_DlgBoxOk                 0009FE RLA    _DoDlgBox                 000A08 RLA    
+_ExitTurbo                00C232 REA    _MoveData                 000B1E RLA    
+_OpenRecordFile           000B38 RLA    _PointRecord              000B42 RLA    
+_ReadRecord               000B91 RLA    __BACKBUFSIZE__           002000 REA    
+__BSS_RUN__               0012E2 RLA    __BSS_SIZE__              00002F REA    
+__CONSTRUCTOR_COUNT__     000001 REA    __CONSTRUCTOR_TABLE__     000466 RLA    
+__DESTRUCTOR_COUNT__      000000 REA    __DESTRUCTOR_TABLE__      001295 RLA    
+__HIMEM__                 006000 REA    __OVERLAYADDR__           005000 REA    
+__OVERLAYSIZE__           001000 REA    __STACKADDR__             004C00 REA    
+__STACKSIZE__             000400 REA    __STARTUP_RUN__           000400 RLA    
+__STARTUP__               000001 REA    __VLIR0_LAST__            001311 RLA    
+__VLIR0_START__           000400 RLA    __VLIR1_LAST__            005007 RLA    
+__VLIR1_START__           005000 RLA    __VLIR2_LAST__            005007 RLA    
+__VLIR2_START__           005000 RLA    __VLIR3_LAST__            005007 RLA    
+__VLIR3_START__           005000 RLA    __argc                    001298 RLA    
+__argv                    00129A RLA    __ctype                   000E9E RLA    
+__ctypeidx                000EA9 RLA    __directerrno             000566 RLA    
+__errno                   00130E RLA    __hextab                  000E81 RLA    
+__longminstr              000E91 RLA    __oserror                 0012E2 RLA    
+__poserror                000570 RLA    __printf                  0006A3 RLA    
+__seterrno                000955 RLA    __stroserror              000C1D RLA    
+__sys_oserrlist           000F37 RLA    _ltoa                     000AA1 RLA    
+_main                     00049B RLA    _memcpy                   000B1E REA    
+_sprintf                  000BAA RLA    _strlen                   000BE0 RLA    
+_strlower                 000BF6 RLA    _ultoa                    000AE2 RLA    
+_vsprintf                 000D34 RLA    addysp                    00095F RLA    
+axlong                    00096C RLA    axulong                   000972 RLA    
+callmain                  000979 RLA    ctypemaskdirect           0009A6 RLA    
+decsp4                    0009E4 RLA    decsp6                    0009F1 RLA    
+donelib                   000996 RLA    incsp2                    000A1C RLA    
+incsp4                    000A2A RLA    incsp6                    000A2F RLA    
+initlib                   000421 RLA    initmainargs              00042D RLAI   
+ldax0sp                   000A41 RLA    ldaxi                     000A34 RLA    
+ldaxysp                   000A43 RLA    negeax                    000A4A RLA    
+popax                     000A14 RLA    popptr1                   000B48 RLA    
+ptr1                      000060 RLZ    ptr2                      000062 RLZ    
+ptr3                      000064 RLZ    ptr4                      000066 RLZ    
+push1                     000B56 RLA    pusha0                    000B5D RLA    
+pushax                    000B5F RLA    pusheax                   000A71 RLA    
+pushw0sp                  000B75 RLA    pushwysp                  000B77 RLA    
+regbank                   00006C RLZ    setoserror                000BA2 RLA    
+sp                        000058 RLZ    sreg                      00005A RLZ    
+staxysp                   000BD7 RLA    subysp                    000C4D RLA    
+tmp1                      000068 RLZ    vsnprintf                 000C5D RLA    
+zerobss                   000D46 RLA    
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000000 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__STARTUP__               000001 REA    __BSS_SIZE__              00002F REA    
+sp                        000058 RLZ    sreg                      00005A RLZ    
+ptr1                      000060 RLZ    ptr2                      000062 RLZ    
+ptr3                      000064 RLZ    ptr4                      000066 RLZ    
+tmp1                      000068 RLZ    regbank                   00006C RLZ    
+__STACKSIZE__             000400 REA    __STARTUP_RUN__           000400 RLA    
+__VLIR0_START__           000400 RLA    initlib                   000421 RLA    
+initmainargs              00042D RLAI   __CONSTRUCTOR_TABLE__     000466 RLA    
+_main                     00049B RLA    __directerrno             000566 RLA    
+__poserror                000570 RLA    __printf                  0006A3 RLA    
+__seterrno                000955 RLA    addysp                    00095F RLA    
+axlong                    00096C RLA    axulong                   000972 RLA    
+callmain                  000979 RLA    _CloseRecordFile          000990 RLA    
+donelib                   000996 RLA    ctypemaskdirect           0009A6 RLA    
+DB_get2lines              0009C0 RLA    decsp4                    0009E4 RLA    
+decsp6                    0009F1 RLA    _DlgBoxOk                 0009FE RLA    
+_DoDlgBox                 000A08 RLA    popax                     000A14 RLA    
+incsp2                    000A1C RLA    incsp4                    000A2A RLA    
+incsp6                    000A2F RLA    ldaxi                     000A34 RLA    
+ldax0sp                   000A41 RLA    ldaxysp                   000A43 RLA    
+negeax                    000A4A RLA    pusheax                   000A71 RLA    
+_ltoa                     000AA1 RLA    _ultoa                    000AE2 RLA    
+_MoveData                 000B1E RLA    _memcpy                   000B1E REA    
+_OpenRecordFile           000B38 RLA    _PointRecord              000B42 RLA    
+popptr1                   000B48 RLA    push1                     000B56 RLA    
+pusha0                    000B5D RLA    pushax                    000B5F RLA    
+pushw0sp                  000B75 RLA    pushwysp                  000B77 RLA    
+_ReadRecord               000B91 RLA    setoserror                000BA2 RLA    
+_sprintf                  000BAA RLA    staxysp                   000BD7 RLA    
+_strlen                   000BE0 RLA    _strlower                 000BF6 RLA    
+__stroserror              000C1D RLA    subysp                    000C4D RLA    
+vsnprintf                 000C5D RLA    _vsprintf                 000D34 RLA    
+zerobss                   000D46 RLA    __hextab                  000E81 RLA    
+__longminstr              000E91 RLA    __ctype                   000E9E RLA    
+__ctypeidx                000EA9 RLA    __sys_oserrlist           000F37 RLA    
+__OVERLAYSIZE__           001000 REA    __DESTRUCTOR_TABLE__      001295 RLA    
+__argc                    001298 RLA    __argv                    00129A RLA    
+__BSS_RUN__               0012E2 RLA    __oserror                 0012E2 RLA    
+__errno                   00130E RLA    __VLIR0_LAST__            001311 RLA    
+__BACKBUFSIZE__           002000 REA    __STACKADDR__             004C00 REA    
+__OVERLAYADDR__           005000 REA    __VLIR3_START__           005000 RLA    
+__VLIR2_START__           005000 RLA    __VLIR1_START__           005000 RLA    
+__VLIR2_LAST__            005007 RLA    __VLIR1_LAST__            005007 RLA    
+__VLIR3_LAST__            005007 RLA    __HIMEM__                 006000 REA    
+_ExitTurbo                00C232 REA    
+
+
+Imports list:
+-------------
+DB_get2lines (dbget2lines.o):
+    dlgboxok.o                geos-common/dlgbox/dlgboxok.s:9
+_CloseRecordFile (closerecordfile.o):
+    overlay-demo.o            overlay-demo.s:18
+_DlgBoxOk (dlgboxok.o):
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:17
+    overlay-demo.o            overlay-demo.s:21
+_DoDlgBox (dodlgbox.o):
+    dlgboxok.o                geos-common/dlgbox/dlgboxok.s:9
+_ExitTurbo (exitturbo.o):
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:16
+_MoveData (movedata.o):
+    memcpy.o                  geos-common/common/memcpy.s:8
+_OpenRecordFile (openrecordfile.o):
+    overlay-demo.o            overlay-demo.s:17
+_PointRecord (pointrecord.o):
+    overlay-demo.o            overlay-demo.s:19
+_ReadRecord (readrecord.o):
+    overlay-demo.o            overlay-demo.s:20
+__BACKBUFSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:10
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:6
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+    overlay-demores.o         overlay-demores.s:66
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__OVERLAYADDR__ ([linker generated]):
+    overlay-demo.o            overlay-demo.s:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__OVERLAYSIZE__ (overlay-demores.o):
+    overlay-demo.o            overlay-demo.s:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__STACKADDR__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:15
+__STACKSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__STARTUP_RUN__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:25
+__STARTUP__ (crt0.o):
+    overlay-demo.o            overlay-demo.s:13
+__VLIR0_LAST__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:66
+__VLIR0_START__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:25
+__VLIR1_LAST__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:67
+__VLIR1_START__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:67
+__VLIR2_LAST__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:68
+__VLIR2_START__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:68
+__VLIR3_LAST__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:69
+__VLIR3_START__ ([linker generated]):
+    overlay-demores.o         overlay-demores.s:69
+__argc (callmain.o):
+    mainargs.o                geos-common/system/mainargs.s:16
+__argv (callmain.o):
+    mainargs.o                geos-common/system/mainargs.s:16
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__directerrno (_directerrno.o):
+    vsnprintf.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__errno (errno.o):
+    _seterrno.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s:10
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__oserror (_oserror.o):
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    setoserror.o              geos-common/system/setoserror.s:8
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:15
+__poserror (_poserror.o):
+    overlay-demo.o            overlay-demo.s:16
+__printf (_printf.o):
+    vsnprintf.o               common/vsnprintf.s:10
+__seterrno (_seterrno.o):
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+__stroserror (stroserr.o):
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:14
+__sys_oserrlist (oserrlist.o):
+    stroserr.o                common/stroserr.s:9
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (overlay-demo.o):
+    callmain.o                runtime/callmain.s:11
+_memcpy (memcpy.o):
+    vsnprintf.o               common/vsnprintf.s:10
+_sprintf (sprintf.o):
+    overlay-demo.o            overlay-demo.s:15
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s:13
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vsprintf (vsprintf.o):
+    sprintf.o                 common/sprintf.s:8
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    sprintf.o                 common/sprintf.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    overlay-demo.o            overlay-demo.s:259
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+callmain (callmain.o):
+    crt0.o                    geos-common/system/crt0.s:12
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s:14
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    sprintf.o                 common/sprintf.s:8
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+donelib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+    vsnprintf.o               common/vsnprintf.s:9
+incsp4 (incsp4.o):
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:63
+    overlay-demo.o            overlay-demo.s:259
+incsp6 (incsp6.o):
+    vsnprintf.o               common/vsnprintf.s:9
+initlib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+initmainargs (mainargs.o):
+    overlay-demo.o            overlay-demo.s:14
+ldax0sp (ldaxsp.o):
+    overlay-demo.o            overlay-demo.s:259
+ldaxi (ldaxi.o):
+    overlay-demo.o            overlay-demo.s:259
+ldaxysp (ldaxsp.o):
+    vsnprintf.o               common/vsnprintf.s:9
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:63
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+popax (incsp2.o):
+    movedata.o                geos-common/memory/movedata.s:8
+    ltoa.o                    common/ltoa.s:9
+    _printf.o                 common/_printf.s:11
+    vsnprintf.o               common/vsnprintf.s:9
+    dbget2lines.o             geos-common/dlgbox/dbget2lines.s:8
+    readrecord.o              geos-common/file/readrecord.s:9
+popptr1 (popptr1.o):
+    ltoa.o                    common/ltoa.s:9
+ptr1 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    popptr1.o                 runtime/popptr1.s:9
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    vsnprintf.o               common/vsnprintf.s:11
+    stroserr.o                common/stroserr.s:10
+    sprintf.o                 common/sprintf.s:9
+    ldaxi.o                   runtime/ldaxi.s:8
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:11
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    strlen.o                  common/strlen.s:12
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+ptr3 (zeropage.o):
+    ltoa.o                    common/ltoa.s:11
+    dbget2lines.o             geos-common/dlgbox/dbget2lines.s:7
+    dlgboxok.o                geos-common/dlgbox/dlgboxok.s:10
+ptr4 (zeropage.o):
+    dbget2lines.o             geos-common/dlgbox/dbget2lines.s:7
+    dlgboxok.o                geos-common/dlgbox/dlgboxok.s:10
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+pushax (pushax.o):
+    _printf.o                 common/_printf.s:11
+    callmain.o                runtime/callmain.s:11
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:63
+    overlay-demo.o            overlay-demo.s:259
+    overlay-demo.o            overlay-demo.s:259
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+pushw0sp (pushwsp.o):
+    vsprintf.o                common/vsprintf.s:8
+pushwysp (pushwsp.o):
+    overlay-demo.o            overlay-demo.s:259
+regbank (zeropage.o):
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+setoserror (setoserror.o):
+    readrecord.o              geos-common/file/readrecord.s:9
+    pointrecord.o             geos-common/file/pointrecord.s:8
+    openrecordfile.o          geos-common/file/openrecordfile.s:8
+    closerecordfile.o         geos-common/file/closerecordfile.s:8
+sp (zeropage.o):
+    popptr1.o                 runtime/popptr1.s:9
+    lpush.o                   runtime/lpush.s:13
+    decsp6.o                  runtime/decsp6.s:8
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    vsnprintf.o               common/vsnprintf.s:11
+    staxsp.o                  runtime/staxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    subysp.o                  runtime/subysp.s:9
+    sprintf.o                 common/sprintf.s:9
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    crt0.o                    geos-common/system/crt0.s:14
+    addysp.o                  runtime/addysp.s:8
+    _poserror.o               ../libwrk/geos-cbm/_poserror.s:10
+    overlay-demo.o            overlay-demo.s:10
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    ltoa.o                    common/ltoa.s:11
+    lpush.o                   runtime/lpush.s:13
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+staxysp (staxsp.o):
+    vsprintf.o                common/vsprintf.s:8
+subysp (subysp.o):
+    overlay-demo.o            overlay-demo.s:259
+tmp1 (zeropage.o):
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    stroserr.o                common/stroserr.s:10
+vsnprintf (vsnprintf.o):
+    vsprintf.o                common/vsprintf.s:9
+zerobss (zerobss.o):
+    crt0.o                    geos-common/system/crt0.s:13
+

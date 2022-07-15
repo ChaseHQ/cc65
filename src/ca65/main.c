@@ -341,6 +341,10 @@ static void SetSys (const char* Sys)
         case TGT_SYM1:
             NewSymbol ("__SYM1__", 1);
             break;
+        
+        case TGT_DANI1:
+            NewSymbol ("__DANI1__",1);
+            break;
 
         default:
             AbEnd ("Invalid target name: '%s'", Sys);

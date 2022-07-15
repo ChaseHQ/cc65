@@ -1,0 +1,282 @@
+Modules list:
+-------------
+vector-demores.o:
+    DIRENTRY          Offs=000000  Size=00003A  Align=00001  Fill=0000
+    FILEINFO          Offs=000000  Size=0000CF  Align=00001  Fill=0000
+vector-demo.o:
+    CODE              Offs=000000  Size=0000AD  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000012  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_cursor.o):
+    BSS               Offs=000006  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_scrsize.o):
+    CODE              Offs=0000AD  Size=000007  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_seterrno.o):
+    CODE              Offs=0000B4  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(atexit.o):
+    CODE              Offs=0000BD  Size=000038  Align=00001  Fill=0000
+    BSS               Offs=000007  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(call.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(callmain.o):
+    CODE              Offs=0000F5  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(clrscr.o):
+    CODE              Offs=00010C  Size=000034  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(condes.o):
+    CODE              Offs=000140  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000004  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=00001A  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(cputc.o):
+    CODE              Offs=00014C  Size=000055  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(cputs.o):
+    CODE              Offs=0001A1  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(cursor.o):
+    CODE              Offs=0001C4  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(errno.o):
+    BSS               Offs=000012  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(extzp.o):
+    EXTZP             Offs=000000  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(gotoxy.o):
+    CODE              Offs=0001CE  Size=00002B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(mainloop.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(popa.o):
+    CODE              Offs=0001F9  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pusha.o):
+    CODE              Offs=000205  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pushax.o):
+    CODE              Offs=00021B  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zerobss.o):
+    CODE              Offs=000235  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+DIRENTRY              000000  000039  00003A  00001
+ZEROPAGE              000058  000071  00001A  00001
+EXTZP                 000072  000076  000005  00001
+FILEINFO              0000FE  0001CC  0000CF  00001
+STARTUP               000400  000420  000021  00001
+ONCE                  000421  000448  000028  00001
+CODE                  000449  000690  000248  00001
+RODATA                000691  0006A4  000014  00001
+DATA                  0006A5  0006CD  000029  00001
+INIT                  0006CE  0006CF  000002  00001
+BSS                   0006D0  0006E3  000014  00001
+
+
+Exports list by name:
+---------------------
+_MainLoop                 00C1C3 REA    __BACKBUFSIZE__           002000 REA    
+__BSS_RUN__               0006D0 RLA    __BSS_SIZE__              000014 REA    
+__CONSTRUCTOR_COUNT__     000001 REA    __CONSTRUCTOR_TABLE__     000447 RLA    
+__DESTRUCTOR_COUNT__      000001 REA    __DESTRUCTOR_TABLE__      0006A3 RLA    
+__HIMEM__                 006000 REA    __OVERLAYADDR__           006000 REA    
+__OVERLAYSIZE__           000000 REA    __STACKADDR__             005C00 REA    
+__STACKSIZE__             000400 REA    __STARTUP_RUN__           000400 RLA    
+__STARTUP__               000001 REA    __VLIR0_START__           000400 RLA    
+__errno                   0006E2 RLA    __seterrno                0004FD RLA    
+_atexit                   000506 RLA    _clrscr                   000555 RLA    
+_cputc                    00059A RLA    _cputsxy                  0005EA RLA    
+_cursor                   00060D RLA    _gotoxy                   000624 RLA    
+_main                     0004C9 RLA    callax                    00C1D8 REA    
+callmain                  00053E RLA    cursor                    0006D6 RLA    
+cursor_c                  000075 RLZ    cursor_r                  000076 RLZ    
+cursor_x                  000072 RLZ    cursor_y                  000074 RLZ    
+doatexit                  000526  LAI   donelib                   000589 RLA    
+fixcursor                 00062B RLA    gotoxy                    000621 RLA    
+initlib                   00043B RLA    initscrsize               000421  LAI   
+popa                      000642 RLA    ptr1                      000060 RLZ    
+pusha                     000652 RLA    pushax                    000668 RLA    
+sp                        000058 RLZ    tmp1                      000068 RLZ    
+xsize                     0006CE RLA    ysize                     0006CF RLA    
+zerobss                   00067E RLA    
+
+
+Exports list by value:
+----------------------
+__OVERLAYSIZE__           000000 REA    __STARTUP__               000001 REA    
+__DESTRUCTOR_COUNT__      000001 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__BSS_SIZE__              000014 REA    sp                        000058 RLZ    
+ptr1                      000060 RLZ    tmp1                      000068 RLZ    
+cursor_x                  000072 RLZ    cursor_y                  000074 RLZ    
+cursor_c                  000075 RLZ    cursor_r                  000076 RLZ    
+__VLIR0_START__           000400 RLA    __STARTUP_RUN__           000400 RLA    
+__STACKSIZE__             000400 REA    initscrsize               000421  LAI   
+initlib                   00043B RLA    __CONSTRUCTOR_TABLE__     000447 RLA    
+_main                     0004C9 RLA    __seterrno                0004FD RLA    
+_atexit                   000506 RLA    doatexit                  000526  LAI   
+callmain                  00053E RLA    _clrscr                   000555 RLA    
+donelib                   000589 RLA    _cputc                    00059A RLA    
+_cputsxy                  0005EA RLA    _cursor                   00060D RLA    
+gotoxy                    000621 RLA    _gotoxy                   000624 RLA    
+fixcursor                 00062B RLA    popa                      000642 RLA    
+pusha                     000652 RLA    pushax                    000668 RLA    
+zerobss                   00067E RLA    __DESTRUCTOR_TABLE__      0006A3 RLA    
+xsize                     0006CE RLA    ysize                     0006CF RLA    
+__BSS_RUN__               0006D0 RLA    cursor                    0006D6 RLA    
+__errno                   0006E2 RLA    __BACKBUFSIZE__           002000 REA    
+__STACKADDR__             005C00 REA    __HIMEM__                 006000 REA    
+__OVERLAYADDR__           006000 REA    _MainLoop                 00C1C3 REA    
+callax                    00C1D8 REA    
+
+
+Imports list:
+-------------
+_MainLoop (mainloop.o):
+    vector-demo.o             vector-demo.s:14
+__BACKBUFSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:10
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:6
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__OVERLAYADDR__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__OVERLAYSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__STACKADDR__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:15
+__STACKSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__STARTUP_RUN__ ([linker generated]):
+    vector-demores.o          vector-demores.s:25
+__STARTUP__ (crt0.o):
+    vector-demo.o             vector-demo.s:13
+__VLIR0_START__ ([linker generated]):
+    vector-demores.o          vector-demores.s:25
+__errno (errno.o):
+    _seterrno.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__seterrno (_seterrno.o):
+    atexit.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+_atexit (atexit.o):
+    vector-demo.o             vector-demo.s:19
+_clrscr (clrscr.o):
+    vector-demo.o             vector-demo.s:15
+_cputc (cputc.o):
+    cputs.o                   conio/cputs.s:9
+    vector-demo.o             vector-demo.s:17
+_cputsxy (cputs.o):
+    vector-demo.o             vector-demo.s:18
+_cursor (cursor.o):
+    _scrsize.o                geos-common/conio/_scrsize.s:12
+_gotoxy (gotoxy.o):
+    vector-demo.o             vector-demo.s:16
+_main (vector-demo.o):
+    callmain.o                runtime/callmain.s:11
+callax (call.o):
+    atexit.o                  common/atexit.s:9
+    vector-demo.o             vector-demo.s:176
+    vector-demo.o             vector-demo.s:176
+callmain (callmain.o):
+    crt0.o                    geos-common/system/crt0.s:12
+cursor (_cursor.o):
+    cursor.o                  conio/cursor.s:8
+cursor_c (extzp.o):
+    _scrsize.o                geos-common/conio/_scrsize.s:11
+    gotoxy.o                  geos-common/conio/gotoxy.s:13
+    cputc.o                   geos-common/conio/cputc.s:28
+    clrscr.o                  geos-common/conio/clrscr.s:10
+cursor_r (extzp.o):
+    _scrsize.o                geos-common/conio/_scrsize.s:11
+    gotoxy.o                  geos-common/conio/gotoxy.s:13
+    cputc.o                   geos-common/conio/cputc.s:28
+    clrscr.o                  geos-common/conio/clrscr.s:10
+cursor_x (extzp.o):
+    gotoxy.o                  geos-common/conio/gotoxy.s:13
+    cputc.o                   geos-common/conio/cputc.s:28
+cursor_y (extzp.o):
+    gotoxy.o                  geos-common/conio/gotoxy.s:13
+    cputc.o                   geos-common/conio/cputc.s:28
+donelib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+fixcursor (gotoxy.o):
+    cputc.o                   geos-common/conio/cputc.s:26
+    clrscr.o                  geos-common/conio/clrscr.s:9
+gotoxy (gotoxy.o):
+    cputs.o                   conio/cputs.s:9
+    cputc.o                   geos-common/conio/cputc.s:26
+initlib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+popa (popa.o):
+    gotoxy.o                  geos-common/conio/gotoxy.s:12
+ptr1 (zeropage.o):
+    cputs.o                   conio/cputs.s:10
+pusha (pusha.o):
+    vector-demo.o             vector-demo.s:176
+    vector-demo.o             vector-demo.s:176
+    vector-demo.o             vector-demo.s:176
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+sp (zeropage.o):
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popa.o                    runtime/popa.s:8
+    crt0.o                    geos-common/system/crt0.s:14
+tmp1 (zeropage.o):
+    cputs.o                   conio/cputs.s:10
+xsize (_scrsize.o):
+    cputc.o                   geos-common/conio/cputc.s:27
+ysize (_scrsize.o):
+    cputc.o                   geos-common/conio/cputc.s:27
+zerobss (zerobss.o):
+    crt0.o                    geos-common/system/crt0.s:13
+

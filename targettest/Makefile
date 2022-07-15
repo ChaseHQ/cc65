@@ -725,6 +725,7 @@ all:
 # --------------------------------------------------------------------------
 # List of every supported platform
 TARGETS :=     \
+  dani1        \
   apple2       \
   apple2enh    \
   atari        \
@@ -754,7 +755,7 @@ TARGETS :=     \
   supervision  \
   sym1         \
   telestrat    \
-  vic20
+  vic20	       
 
 # --------------------------------------------------------------------------
 # Rule to make the binaries for every platform

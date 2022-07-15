@@ -298,6 +298,10 @@ static void SetSys (const char* Sys)
         case TGT_SYM1:
             DefineNumericMacro ("__SYM1__", 1);
             break;
+        
+        case TGT_DANI1:
+            DefineNumericMacro ("__DANI1__", 1);
+            break;
 
         default:
             AbEnd ("Unknown target system '%s'", Sys);

@@ -1,0 +1,1166 @@
+Modules list:
+-------------
+nachtm.o:
+    CODE              Offs=000000  Size=0003AD  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=0000F4  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000009  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=003F0F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_cursor.o):
+    BSS               Offs=000009  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_hextab.o):
+    RODATA            Offs=0000F4  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_longminstr.o):
+    RODATA            Offs=000104  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_printf.o):
+    CODE              Offs=0003AD  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=00000A  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=003F0F  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_scrsize.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(add.o):
+    CODE              Offs=000752  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addeqsp.o):
+    CODE              Offs=00076E  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addysp.o):
+    CODE              Offs=00077F  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax1.o):
+    CODE              Offs=00078D  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax2.o):
+    CODE              Offs=000795  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax3.o):
+    CODE              Offs=0007A0  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax4.o):
+    CODE              Offs=0007AE  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(asmtab.o):
+    RODATA            Offs=000110  Size=0000DE  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(axlong.o):
+    CODE              Offs=0007BF  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(bordercolor.o):
+    CODE              Offs=0007CC  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(break.o):
+    CODE              Offs=0007D4  Size=000074  Align=00001  Fill=0000
+    BSS               Offs=000035  Size=000008  Align=00001  Fill=0000
+    DATA              Offs=003F12  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(call.o):
+    CODE              Offs=000848  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(callmain.o):
+    CODE              Offs=00084F  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=003F15  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cclear.o):
+    CODE              Offs=000866  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cgetc.o):
+    CODE              Offs=00087B  Size=000047  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(chline.o):
+    CODE              Offs=0008C2  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clinechars.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clock.o):
+    CODE              Offs=0008D7  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clrscr.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(color.o):
+    CODE              Offs=0008E1  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(condes.o):
+    CODE              Offs=0008F1  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=003F19  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(conio.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cprintf.o):
+    CODE              Offs=0008FD  Size=00002A  Align=00001  Fill=0000
+    BSS               Offs=00003D  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputc.o):
+    CODE              Offs=000927  Size=00006D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputhex.o):
+    CODE              Offs=000994  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputs.o):
+    CODE              Offs=0009B0  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctype.o):
+    RODATA            Offs=0001EE  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctypemask.o):
+    CODE              Offs=0009D3  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cursor.o):
+    CODE              Offs=0009F1  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cvline.o):
+    CODE              Offs=0009FB  Size=000018  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbg.o):
+    CODE              Offs=000A13  Size=001139  Align=00001  Fill=0000
+    RODATA            Offs=000279  Size=000332  Align=00001  Fill=0000
+    BSS               Offs=00003E  Size=00003A  Align=00001  Fill=0000
+    DATA              Offs=003F3E  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgdasm.o):
+    CODE              Offs=001B4C  Size=000164  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgdump.o):
+    CODE              Offs=001CB0  Size=00006C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgisram.o):
+    CODE              Offs=001D1C  Size=00002B  Align=00001  Fill=0000
+    RODATA            Offs=0005AB  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgsupp.o):
+    CODE              Offs=001D47  Size=0000E9  Align=00001  Fill=0000
+    BSS               Offs=000078  Size=000117  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decaxy.o):
+    CODE              Offs=001E30  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp1.o):
+    CODE              Offs=001E39  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp2.o):
+    CODE              Offs=001E42  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp3.o):
+    CODE              Offs=001E4F  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp4.o):
+    CODE              Offs=001E5C  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp6.o):
+    CODE              Offs=001E69  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp8.o):
+    CODE              Offs=001E76  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(div.o):
+    CODE              Offs=001E83  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(gotoxy.o):
+    CODE              Offs=001E98  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax1.o):
+    CODE              Offs=001EA5  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax2.o):
+    CODE              Offs=001EAC  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax3.o):
+    CODE              Offs=001EB3  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incaxy.o):
+    CODE              Offs=001EB8  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp1.o):
+    CODE              Offs=001EC3  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp2.o):
+    CODE              Offs=001ECA  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp3.o):
+    CODE              Offs=001EE0  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp4.o):
+    CODE              Offs=001EE5  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp6.o):
+    CODE              Offs=001EEA  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp8.o):
+    CODE              Offs=001EEF  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isalnum.o):
+    CODE              Offs=001EF4  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isdigit.o):
+    CODE              Offs=001EFC  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isxdigit.o):
+    CODE              Offs=001F04  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kbhit.o):
+    CODE              Offs=001F0C  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kernal.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kplot.o):
+    CODE              Offs=001F15  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldai.o):
+    CODE              Offs=001F20  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxi.o):
+    CODE              Offs=001F2C  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxsp.o):
+    CODE              Offs=001F39  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldeaxi.o):
+    CODE              Offs=001F42  Size=000017  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldeaxysp.o):
+    CODE              Offs=001F59  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(leaaxsp.o):
+    CODE              Offs=001F6C  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lneg.o):
+    CODE              Offs=001F78  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lpop.o):
+    CODE              Offs=001F96  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lpush.o):
+    CODE              Offs=001FAB  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lshr.o):
+    CODE              Offs=001FCC  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lsub.o):
+    CODE              Offs=001FE6  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ltoa.o):
+    CODE              Offs=00200D  Size=000095  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ludiv.o):
+    CODE              Offs=0020A2  Size=00007A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lumod.o):
+    CODE              Offs=00211C  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(makebool.o):
+    CODE              Offs=002135  Size=00002C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mulax3.o):
+    CODE              Offs=002161  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(negabs.o):
+    CODE              Offs=002172  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popa.o):
+    CODE              Offs=002184  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popptr1.o):
+    CODE              Offs=002190  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(push1.o):
+    CODE              Offs=00219E  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pusha.o):
+    CODE              Offs=0021A3  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushax.o):
+    CODE              Offs=0021B9  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushw.o):
+    CODE              Offs=0021D3  Size=00000F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushwsp.o):
+    CODE              Offs=0021E2  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(regswap2.o):
+    CODE              Offs=0021FE  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(return0.o):
+    CODE              Offs=002214  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(return1.o):
+    CODE              Offs=002218  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(revers.o):
+    CODE              Offs=00221D  Size=000014  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(scrsize.o):
+    CODE              Offs=002231  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(shelp.o):
+    CODE              Offs=002244  Size=000020  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(shrax1.o):
+    CODE              Offs=002264  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(status.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(staxsp.o):
+    CODE              Offs=00226C  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(staxspi.o):
+    CODE              Offs=002277  Size=00001B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlen.o):
+    CODE              Offs=002292  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlower.o):
+    CODE              Offs=0022A8  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(sub.o):
+    CODE              Offs=0022CF  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(subysp.o):
+    CODE              Offs=0022E4  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(toupper.o):
+    CODE              Offs=0022F1  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(udiv.o):
+    CODE              Offs=002303  Size=00004F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(vcprintf.o):
+    CODE              Offs=002352  Size=000078  Align=00001  Fill=0000
+    DATA              Offs=003F44  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(wherex.o):
+    CODE              Offs=0023CA  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zerobss.o):
+    CODE              Offs=0023CF  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  002C31  0023F2  00001
+RODATA                002C32  0031E2  0005B1  00001
+DATA                  0031E3  00712E  003F4C  00001
+INIT                  00712F  00714A  00001C  00001
+BSS                   00714B  0072D9  00018F  00001
+ONCE                  00714B  007170  000026  00001
+
+
+Exports list by name:
+---------------------
+AdrFlagTab                002D86 RLA    BSOUT                     00FFD2 RLA    
+CURS_X                    0000D3 RLZ    CURS_Y                    0000D6 RLZ    
+MnemoTab1                 002DA0 RLA    MnemoTab2                 002DE0 RLA    
+OffsetTab                 002D42 RLA    PLOT                      002755 RLA    
+RDTIM                     00FFDE RLA    SCREEN                    00FFED RLA    
+ST                        000090 RLZ    SymbolTab1                002D94 RLA    
+SymbolTab2                002D9A RLA    _DbgBreaks                007192 RLA    
+_DbgCS                    0072C3 RLA    _DbgDisAsm                00238C RLA    
+_DbgDisAsmLen             0023BB RLA    _DbgEntry                 00221F RLA    
+_DbgGetBreakSlot          00261B RLA    _DbgHI                    0072C5 RLA    
+_DbgInit                  002587 RLA    _DbgIsBreak               00263C RLA    
+_DbgIsRAM                 00255C RLA    _DbgMemDump               0024F0 RLA    
+_DbgSP                    0072D7 RLA    __BSS_RUN__               00714B RLA    
+__BSS_SIZE__              00018F REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__CONSTRUCTOR_TABLE__     007171 RLA    __DESTRUCTOR_COUNT__      000001 REA    
+__DESTRUCTOR_TABLE__      0031E1 RLA    __EXEHDR__                000001 REA    
+__HEADER_LAST__           00080D RLA    __HIMEM__                 00D000 REA    
+__LOADADDR__              000001 REA    __MAIN_SIZE__             00C7F3 REA    
+__MAIN_START__            00080D RLA    __ONCE_RUN__              00714B RLA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+__ZP_START__              000002 RLA    __ctype                   002E20 RLA    
+__ctypeidx                002E2B RLA    __hextab                  002D26 RLA    
+__longminstr              002D36 RLA    __printf                  000CE0 RLA    
+_bgcolor                  001129 RLA    _bordercolor              00100C RLA    
+_brk_a                    007180 RLA    _brk_pc                   007184 RLA    
+_brk_sr                   007183 RLA    _brk_x                    007181 RLA    
+_brk_y                    007182 RLA    _cclearxy                 0010A6 RLA    
+_cgetc                    0010BB RLA    _chline                   001107 RLA    
+_chlinexy                 001102 RLA    _clock                    001117 RLA    
+_clrscr                   00E544 REA    _cprintf                  00113D RLA    
+_cputc                    00116C RLA    _cputcxy                  001167 RLA    
+_cputhex16                0011D4 RLA    _cputhex8                 0011DA RLA    
+_cputsxy                  0011F0 RLA    _cursor                   001231 RLA    
+_cvlinexy                 00123B RLA    _exit                     000825 RLA    
+_gotoxy                   0026DB RLA    _isalnum                  002734 RLA    
+_isdigit                  00273C RLA    _isxdigit                 002744 RLA    
+_kbhit                    00274C RLA    _ltoa                     002865 RLA    
+_main                     0009C3 RLA    _reset_brk                001039  LAI   
+_revers                   002A5D RLA    _screensize               002A71 RLA    
+_set_brk                  001014 RLA    _strlen                   002AD2 RLA    
+_strlower                 002AE8 RLA    _textcolor                001121 RLA    
+_toupper                  002B31 RLA    _ultoa                    0028A6 RLA    
+_vcprintf                 002BDA RLA    _wherex                   002C0A RLA    
+addeq0sp                  000FAE RLA    addeqysp                  000FB0 RLA    
+addysp                    000FC0 RLA    addysp1                   000FBF RLA    
+aslax1                    000FCD RLA    aslax2                    000FD5 RLA    
+axlong                    000FFF RLA    axulong                   001005 RLA    
+booleq                    00297B RLA    callax                    001088 RLA    
+callmain                  00108F RLA    chlinechar                000040 REZ    
+cputdirect                00118B RLA    ctypemask                 001213 RLA    
+ctypemaskdirect           001217 RLA    cursor                    007154 RLA    
+cvlinechar                00005D REZ    decaxy                    002670 RLA    
+decsp1                    002679 RLA    decsp2                    002682 RLA    
+decsp3                    00268F RLA    decsp4                    00269C RLA    
+decsp6                    0026A9 RLA    decsp8                    0026B6 RLA    
+donelib                   001131 RLA    getlop                    0028F3 RLA    
+gotoxy                    0026D8 RLA    incax1                    0026E5 RLA    
+incax2                    0026EC RLA    incax3                    0026F3 RLA    
+incax4                    0026F8 RLA    incaxy                    0026FA RLA    
+incsp1                    002703 RLA    incsp2                    002712 RLA    
+incsp3                    002720 RLA    incsp4                    002725 RLA    
+incsp6                    00272A RLA    incsp8                    00272F RLA    
+initlib                   00714B RLA    ldaidx                    002760 RLA    
+ldax0sp                   002779 RLA    ldaxi                     00276C RLA    
+ldaxidx                   00276E RLA    ldaxysp                   00277B RLA    
+ldeax0sp                  002799 RLA    ldeaxi                    002782 RLA    
+ldeaxysp                  00279B RLA    leaa0sp                   0027AC RLA    
+leaaxsp                   0027AE RLA    mulax3                    0029A1 RLA    
+negax                     0029B6 RLA    negeax                    0027B8 RLA    
+newline                   00119B RLA    plot                      0011C0 RLA    
+popa                      0029C4 RLA    popax                     00270A RLA    
+popeax                    0027D6 RLA    popptr1                   0029D0 RLA    
+popsargsudiv16            002A84 RLA    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    push1                     0029DE RLA    
+pusha                     0029E7 RLA    pusha0                    0029FB RLA    
+pushax                    0029FD RLA    pusheax                   0027F4 RLA    
+pushw                     002A13 RLA    pushw0sp                  002A22 RLA    
+pushwysp                  002A24 RLA    putchar                   0011C8 RLA    
+regbank                   000016 RLZ    regswap2                  002A3E RLA    
+return0                   002A54 RLA    return1                   002A58 RLA    
+screensize                00FFED REA    shlax3                    000FE0 RLA    
+shlax4                    000FEE RLA    shrax1                    002AA4 RLA    
+sp                        000002 RLZ    sreg                      000004 RLZ    
+stax0sp                   002AAC RLA    staxspidx                 002AB7 RLA    
+staxysp                   002AAE RLA    subysp                    002B24 RLA    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+tosaddax                  000F94 RLA    tosdiva0                  0026C3 RLA    
+tosshreax                 00280C RLA    tossubax                  002B11 RLA    
+tossubeax                 00282C RLA    tosudiv0ax                0028E2 RLA    
+tosumod0ax                00295C RLA    udiv16                    002B54 RLA    
+udiv32                    002917 RLA    zerobss                   002C0F RLA    
+
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __DESTRUCTOR_COUNT__      000001 REA    
+__LOADADDR__              000001 REA    __STARTUP__               000001 REA    
+__EXEHDR__                000001 REA    __ZP_START__              000002 RLA    
+sp                        000002 RLZ    sreg                      000004 RLZ    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+regbank                   000016 RLZ    chlinechar                000040 REZ    
+cvlinechar                00005D REZ    ST                        000090 RLZ    
+CURS_X                    0000D3 RLZ    CURS_Y                    0000D6 RLZ    
+__BSS_SIZE__              00018F REA    __STACKSIZE__             000800 REA    
+__MAIN_START__            00080D RLA    __HEADER_LAST__           00080D RLA    
+_exit                     000825 RLA    _main                     0009C3 RLA    
+__printf                  000CE0 RLA    tosaddax                  000F94 RLA    
+addeq0sp                  000FAE RLA    addeqysp                  000FB0 RLA    
+addysp1                   000FBF RLA    addysp                    000FC0 RLA    
+aslax1                    000FCD RLA    aslax2                    000FD5 RLA    
+shlax3                    000FE0 RLA    shlax4                    000FEE RLA    
+axlong                    000FFF RLA    axulong                   001005 RLA    
+_bordercolor              00100C RLA    _set_brk                  001014 RLA    
+_reset_brk                001039  LAI   callax                    001088 RLA    
+callmain                  00108F RLA    _cclearxy                 0010A6 RLA    
+_cgetc                    0010BB RLA    _chlinexy                 001102 RLA    
+_chline                   001107 RLA    _clock                    001117 RLA    
+_textcolor                001121 RLA    _bgcolor                  001129 RLA    
+donelib                   001131 RLA    _cprintf                  00113D RLA    
+_cputcxy                  001167 RLA    _cputc                    00116C RLA    
+cputdirect                00118B RLA    newline                   00119B RLA    
+plot                      0011C0 RLA    putchar                   0011C8 RLA    
+_cputhex16                0011D4 RLA    _cputhex8                 0011DA RLA    
+_cputsxy                  0011F0 RLA    ctypemask                 001213 RLA    
+ctypemaskdirect           001217 RLA    _cursor                   001231 RLA    
+_cvlinexy                 00123B RLA    _DbgEntry                 00221F RLA    
+_DbgDisAsm                00238C RLA    _DbgDisAsmLen             0023BB RLA    
+_DbgMemDump               0024F0 RLA    _DbgIsRAM                 00255C RLA    
+_DbgInit                  002587 RLA    _DbgGetBreakSlot          00261B RLA    
+_DbgIsBreak               00263C RLA    decaxy                    002670 RLA    
+decsp1                    002679 RLA    decsp2                    002682 RLA    
+decsp3                    00268F RLA    decsp4                    00269C RLA    
+decsp6                    0026A9 RLA    decsp8                    0026B6 RLA    
+tosdiva0                  0026C3 RLA    gotoxy                    0026D8 RLA    
+_gotoxy                   0026DB RLA    incax1                    0026E5 RLA    
+incax2                    0026EC RLA    incax3                    0026F3 RLA    
+incax4                    0026F8 RLA    incaxy                    0026FA RLA    
+incsp1                    002703 RLA    popax                     00270A RLA    
+incsp2                    002712 RLA    incsp3                    002720 RLA    
+incsp4                    002725 RLA    incsp6                    00272A RLA    
+incsp8                    00272F RLA    _isalnum                  002734 RLA    
+_isdigit                  00273C RLA    _isxdigit                 002744 RLA    
+_kbhit                    00274C RLA    PLOT                      002755 RLA    
+ldaidx                    002760 RLA    ldaxi                     00276C RLA    
+ldaxidx                   00276E RLA    ldax0sp                   002779 RLA    
+ldaxysp                   00277B RLA    ldeaxi                    002782 RLA    
+ldeax0sp                  002799 RLA    ldeaxysp                  00279B RLA    
+leaa0sp                   0027AC RLA    leaaxsp                   0027AE RLA    
+negeax                    0027B8 RLA    popeax                    0027D6 RLA    
+pusheax                   0027F4 RLA    tosshreax                 00280C RLA    
+tossubeax                 00282C RLA    _ltoa                     002865 RLA    
+_ultoa                    0028A6 RLA    tosudiv0ax                0028E2 RLA    
+getlop                    0028F3 RLA    udiv32                    002917 RLA    
+tosumod0ax                00295C RLA    booleq                    00297B RLA    
+mulax3                    0029A1 RLA    negax                     0029B6 RLA    
+popa                      0029C4 RLA    popptr1                   0029D0 RLA    
+push1                     0029DE RLA    pusha                     0029E7 RLA    
+pusha0                    0029FB RLA    pushax                    0029FD RLA    
+pushw                     002A13 RLA    pushw0sp                  002A22 RLA    
+pushwysp                  002A24 RLA    regswap2                  002A3E RLA    
+return0                   002A54 RLA    return1                   002A58 RLA    
+_revers                   002A5D RLA    _screensize               002A71 RLA    
+popsargsudiv16            002A84 RLA    shrax1                    002AA4 RLA    
+stax0sp                   002AAC RLA    staxysp                   002AAE RLA    
+staxspidx                 002AB7 RLA    _strlen                   002AD2 RLA    
+_strlower                 002AE8 RLA    tossubax                  002B11 RLA    
+subysp                    002B24 RLA    _toupper                  002B31 RLA    
+udiv16                    002B54 RLA    _vcprintf                 002BDA RLA    
+_wherex                   002C0A RLA    zerobss                   002C0F RLA    
+__hextab                  002D26 RLA    __longminstr              002D36 RLA    
+OffsetTab                 002D42 RLA    AdrFlagTab                002D86 RLA    
+SymbolTab1                002D94 RLA    SymbolTab2                002D9A RLA    
+MnemoTab1                 002DA0 RLA    MnemoTab2                 002DE0 RLA    
+__ctype                   002E20 RLA    __ctypeidx                002E2B RLA    
+__DESTRUCTOR_TABLE__      0031E1 RLA    initlib                   00714B RLA    
+__ONCE_RUN__              00714B RLA    __BSS_RUN__               00714B RLA    
+cursor                    007154 RLA    __CONSTRUCTOR_TABLE__     007171 RLA    
+_brk_a                    007180 RLA    _brk_x                    007181 RLA    
+_brk_y                    007182 RLA    _brk_sr                   007183 RLA    
+_brk_pc                   007184 RLA    _DbgBreaks                007192 RLA    
+_DbgCS                    0072C3 RLA    _DbgHI                    0072C5 RLA    
+_DbgSP                    0072D7 RLA    __MAIN_SIZE__             00C7F3 REA    
+__HIMEM__                 00D000 REA    _clrscr                   00E544 REA    
+BSOUT                     00FFD2 RLA    RDTIM                     00FFDE RLA    
+SCREEN                    00FFED RLA    screensize                00FFED REA    
+
+
+
+Imports list:
+-------------
+AdrFlagTab (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:13
+BSOUT (kernal.o):
+    crt0.o                    c64/crt0.s:10
+CURS_X (conio.o):
+    wherex.o                  cbm/wherex.s:8
+    gotoxy.o                  cbm/gotoxy.s:9
+CURS_Y (conio.o):
+    gotoxy.o                  cbm/gotoxy.s:9
+MnemoTab1 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+MnemoTab2 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+OffsetTab (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:13
+PLOT (kplot.o):
+    cputc.o                   c64/cputc.s:11
+RDTIM (kernal.o):
+    clock.o                   cbm/cbm.inc:40
+SCREEN (kernal.o):
+    _scrsize.o                c64/_scrsize.s:8
+ST (status.o):
+    crt0.o                    c64/crt0.s:13
+SymbolTab1 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+SymbolTab2 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+_DbgBreaks (dbg.o):
+    dbgsupp.o                 dbg/dbgsupp.s:10
+_DbgCS (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:48
+_DbgDisAsm (dbgdasm.o):
+    dbg.o                     ../libwrk/c64/dbg.s:43
+_DbgDisAsmLen (dbgdasm.o):
+    dbg.o                     ../libwrk/c64/dbg.s:44
+_DbgEntry (dbg.o):
+    dbgsupp.o                 dbg/dbgsupp.s:9
+_DbgGetBreakSlot (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:52
+_DbgHI (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:49
+_DbgInit (dbgsupp.o):
+    nachtm.o                  nachtm.s:31
+_DbgIsBreak (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:53
+_DbgIsRAM (dbgisram.o):
+    dbg.o                     ../libwrk/c64/dbg.s:45
+_DbgMemDump (dbgdump.o):
+    dbg.o                     ../libwrk/c64/dbg.s:46
+_DbgSP (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:47
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    nachtm.o                  nachtm.s:13
+__ZP_START__ ([linker generated]):
+    dbgsupp.o                 dbg/dbgsupp.s:12
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__hextab (_hextab.o):
+    cputhex.o                 conio/cputhex.s:10
+    ltoa.o                    common/ltoa.s:10
+    dbgdump.o                 dbg/dbgdump.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:13
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__printf (_printf.o):
+    vcprintf.o                conio/vcprintf.s:9
+_bgcolor (color.o):
+    dbg.o                     ../libwrk/c64/dbg.s:26
+    nachtm.o                  nachtm.s:26
+_bordercolor (bordercolor.o):
+    dbg.o                     ../libwrk/c64/dbg.s:27
+    nachtm.o                  nachtm.s:27
+_brk_a (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:38
+_brk_pc (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:42
+_brk_sr (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:41
+_brk_x (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:39
+_brk_y (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:40
+_cclearxy (cclear.o):
+    dbg.o                     ../libwrk/c64/dbg.s:31
+_cgetc (cgetc.o):
+    dbg.o                     ../libwrk/c64/dbg.s:22
+    nachtm.o                  nachtm.s:23
+_chline (chline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:28
+    nachtm.o                  nachtm.s:28
+_chlinexy (chline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:29
+_clock (clock.o):
+    nachtm.o                  nachtm.s:15
+_clrscr (clrscr.o):
+    dbg.o                     ../libwrk/c64/dbg.s:15
+    nachtm.o                  nachtm.s:16
+_cprintf (cprintf.o):
+    nachtm.o                  nachtm.s:22
+_cputc (cputc.o):
+    cputhex.o                 conio/cputhex.s:9
+    dbg.o                     ../libwrk/c64/dbg.s:19
+    vcprintf.o                conio/vcprintf.s:9
+    cputs.o                   conio/cputs.s:9
+    nachtm.o                  nachtm.s:19
+_cputcxy (cputc.o):
+    dbg.o                     ../libwrk/c64/dbg.s:20
+    nachtm.o                  nachtm.s:20
+_cputhex16 (cputhex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:33
+_cputhex8 (cputhex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:32
+_cputsxy (cputs.o):
+    dbg.o                     ../libwrk/c64/dbg.s:21
+    nachtm.o                  nachtm.s:21
+_cursor (cursor.o):
+    dbg.o                     ../libwrk/c64/dbg.s:23
+    nachtm.o                  nachtm.s:24
+_cvlinexy (cvline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:30
+    nachtm.o                  nachtm.s:29
+_exit (crt0.o):
+    dbg.o                     ../libwrk/c64/dbg.s:13
+_gotoxy (gotoxy.o):
+    dbg.o                     ../libwrk/c64/dbg.s:17
+    nachtm.o                  nachtm.s:18
+_isalnum (isalnum.o):
+    dbg.o                     ../libwrk/c64/dbg.s:34
+_isdigit (isdigit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:35
+_isxdigit (isxdigit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:36
+_kbhit (kbhit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:16
+    nachtm.o                  nachtm.s:17
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (nachtm.o):
+    callmain.o                runtime/callmain.s:11
+_revers (revers.o):
+    dbg.o                     ../libwrk/c64/dbg.s:24
+_screensize (scrsize.o):
+    nachtm.o                  nachtm.s:30
+_set_brk (break.o):
+    dbgsupp.o                 dbg/dbgsupp.s:9
+_strlen (strlen.o):
+    dbg.o                     ../libwrk/c64/dbg.s:14
+    _printf.o                 common/_printf.s:13
+    nachtm.o                  nachtm.s:14
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_textcolor (color.o):
+    dbg.o                     ../libwrk/c64/dbg.s:25
+    nachtm.o                  nachtm.s:25
+_toupper (toupper.o):
+    dbg.o                     ../libwrk/c64/dbg.s:37
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vcprintf (vcprintf.o):
+    cprintf.o                 conio/cprintf.s:8
+_wherex (wherex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:18
+addeq0sp (addeqsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+addeqysp (addeqsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    incsp8.o                  runtime/incsp8.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    cprintf.o                 conio/cprintf.s:8
+    nachtm.o                  nachtm.s:8641
+addysp1 (addysp.o):
+    dbgdump.o                 dbg/dbgdump.s:8
+    sub.o                     runtime/sub.s:8
+    ludiv.o                   runtime/ludiv.s:9
+    lsub.o                    runtime/lsub.s:11
+aslax1 (aslax1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+aslax2 (aslax2.o):
+    nachtm.o                  nachtm.s:8641
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+booleq (makebool.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+callax (call.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+chlinechar (clinechars.o):
+    chline.o                  cbm/chline.s:10
+cputdirect (cputc.o):
+    cclear.o                  cbm/cclear.s:9
+    chline.o                  cbm/chline.s:9
+ctypemask (ctypemask.o):
+    isxdigit.o                common/isxdigit.s:15
+    isdigit.o                 common/isdigit.s:15
+    isalnum.o                 common/isalnum.s:15
+ctypemaskdirect (ctypemask.o):
+    toupper.o                 common/toupper.s:15
+    strlower.o                common/strlower.s:14
+cursor (_cursor.o):
+    cursor.o                  conio/cursor.s:8
+    cgetc.o                   c64/cgetc.s:8
+cvlinechar (clinechars.o):
+    cvline.o                  cbm/cvline.s:10
+decaxy (decaxy.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp1 (decsp1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp2 (decsp2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp3 (decsp3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    nachtm.o                  nachtm.s:8641
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+decsp8 (decsp8.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+getlop (ludiv.o):
+    lumod.o                   runtime/lumod.s:9
+gotoxy (gotoxy.o):
+    cclear.o                  cbm/cclear.s:9
+    cvline.o                  cbm/cvline.s:9
+    cputs.o                   conio/cputs.s:9
+    cputc.o                   c64/cputc.s:10
+    chline.o                  cbm/chline.s:9
+incax1 (incax1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incax2 (incax2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+incax3 (incax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incax4 (incaxy.o):
+    nachtm.o                  nachtm.s:8641
+incaxy (incaxy.o):
+    incax3.o                  runtime/incax3.s:8
+incsp1 (incsp1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+incsp2 (incsp2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    staxspi.o                 runtime/staxspi.s:9
+    popptr1.o                 runtime/popptr1.s:8
+incsp3 (incsp3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incsp4 (incsp4.o):
+    lpop.o                    runtime/lpop.s:9
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+incsp6 (incsp6.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incsp8 (incsp8.o):
+    nachtm.o                  nachtm.s:8641
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+ldaidx (ldai.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+ldax0sp (ldaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+ldaxi (ldaxi.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+ldaxidx (ldaxi.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+ldaxysp (ldaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+ldeax0sp (ldeaxysp.o):
+    nachtm.o                  nachtm.s:8641
+ldeaxi (ldeaxi.o):
+    nachtm.o                  nachtm.s:8641
+ldeaxysp (ldeaxysp.o):
+    nachtm.o                  nachtm.s:8641
+leaa0sp (leaaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+leaaxsp (leaaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+mulax3 (mulax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    div.o                     runtime/div.s:11
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+newline (cputc.o):
+    cvline.o                  cbm/cvline.s:9
+plot (cputc.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popa (popa.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popax (incsp2.o):
+    shelp.o                   runtime/shelp.s:11
+    ltoa.o                    common/ltoa.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:12
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+popeax (lpop.o):
+    lshr.o                    runtime/lshr.s:15
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    ltoa.o                    common/ltoa.s:9
+    vcprintf.o                conio/vcprintf.s:8
+    scrsize.o                 conio/scrsize.s:9
+    dbgsupp.o                 dbg/dbgsupp.s:9
+popsargsudiv16 (shelp.o):
+    div.o                     runtime/div.s:11
+ptr1 (zeropage.o):
+    call.o                    runtime/call.s:8
+    udiv.o                    runtime/udiv.s:10
+    strlower.o                common/strlower.s:13
+    shelp.o                   runtime/shelp.s:12
+    pushw.o                   runtime/pushw.s:9
+    mulax3.o                  runtime/mulax3.s:9
+    ltoa.o                    common/ltoa.s:11
+    ldai.o                    runtime/ldai.s:8
+    div.o                     runtime/div.s:12
+    dbgisram.o                dbg/dbgisram.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    vcprintf.o                conio/vcprintf.s:10
+    staxspi.o                 runtime/staxspi.s:10
+    scrsize.o                 conio/scrsize.s:11
+    popptr1.o                 runtime/popptr1.s:9
+    ludiv.o                   runtime/ludiv.s:10
+    ldeaxi.o                  runtime/ldeaxi.s:8
+    ldaxi.o                   runtime/ldaxi.s:8
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    cputs.o                   conio/cputs.s:10
+    cprintf.o                 conio/cprintf.s:9
+    nachtm.o                  nachtm.s:11
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    ltoa.o                    common/ltoa.s:11
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    vcprintf.o                conio/vcprintf.s:10
+    strlen.o                  common/strlen.s:12
+    scrsize.o                 conio/scrsize.s:11
+    lumod.o                   runtime/lumod.s:10
+    ludiv.o                   runtime/ludiv.s:10
+ptr3 (zeropage.o):
+    ltoa.o                    common/ltoa.s:11
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    vcprintf.o                conio/vcprintf.s:10
+    ludiv.o                   runtime/ludiv.s:10
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    shelp.o                   runtime/shelp.s:12
+    dbgdump.o                 dbg/dbgdump.s:10
+    ludiv.o                   runtime/ludiv.s:10
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+pusha (pusha.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+pushax (pushax.o):
+    pushw.o                   runtime/pushw.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    callmain.o                runtime/callmain.s:11
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+    cprintf.o                 conio/cprintf.s:8
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+pushw (pushw.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+pushw0sp (pushwsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+pushwysp (pushwsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+putchar (cputc.o):
+    cvline.o                  cbm/cvline.s:9
+regbank (zeropage.o):
+    regswap2.o                runtime/regswap2.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+regswap2 (regswap2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+return0 (return0.o):
+    dbgisram.o                dbg/dbgisram.s:8
+    dbgsupp.o                 dbg/dbgsupp.s:9
+return1 (return1.o):
+    dbgisram.o                dbg/dbgisram.s:8
+screensize (_scrsize.o):
+    scrsize.o                 conio/scrsize.s:10
+shlax3 (aslax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+shlax4 (aslax4.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+shrax1 (shrax1.o):
+    nachtm.o                  nachtm.s:8641
+sp (zeropage.o):
+    add.o                     runtime/add.s:12
+    regswap2.o                runtime/regswap2.s:8
+    lpop.o                    runtime/lpop.s:10
+    leaaxsp.o                 runtime/leaaxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    decsp8.o                  runtime/decsp8.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    vcprintf.o                conio/vcprintf.s:10
+    subysp.o                  runtime/subysp.s:9
+    sub.o                     runtime/sub.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    staxsp.o                  runtime/staxsp.s:8
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    popa.o                    runtime/popa.s:8
+    ludiv.o                   runtime/ludiv.s:10
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    cprintf.o                 conio/cprintf.s:9
+    addysp.o                  runtime/addysp.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    nachtm.o                  nachtm.s:10
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    udiv.o                    runtime/udiv.s:10
+    ltoa.o                    common/ltoa.s:11
+    lpop.o                    runtime/lpop.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    lumod.o                   runtime/lumod.s:10
+    ludiv.o                   runtime/ludiv.s:10
+    lsub.o                    runtime/lsub.s:12
+    lshr.o                    runtime/lshr.s:16
+    lpush.o                   runtime/lpush.s:13
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    ldeaxi.o                  runtime/ldeaxi.s:8
+    clock.o                   cbm/clock.s:9
+    nachtm.o                  nachtm.s:10
+stax0sp (staxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+staxspidx (staxspi.o):
+    nachtm.o                  nachtm.s:8641
+staxysp (staxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+    nachtm.o                  nachtm.s:8641
+subysp (subysp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+tmp1 (zeropage.o):
+    cclear.o                  cbm/cclear.s:10
+    aslax4.o                  runtime/aslax4.s:8
+    aslax3.o                  runtime/aslax3.s:8
+    aslax1.o                  runtime/aslax1.s:8
+    add.o                     runtime/add.s:12
+    shelp.o                   runtime/shelp.s:12
+    ltoa.o                    common/ltoa.s:11
+    div.o                     runtime/div.s:12
+    decaxy.o                  runtime/decaxy.s:8
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    vcprintf.o                conio/vcprintf.s:10
+    staxspi.o                 runtime/staxspi.s:10
+    shrax1.o                  runtime/shrax1.s:8
+    lshr.o                    runtime/lshr.s:16
+    incaxy.o                  runtime/incaxy.s:8
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    cvline.o                  cbm/cvline.s:10
+    cputs.o                   conio/cputs.s:10
+    chline.o                  cbm/chline.s:10
+    aslax2.o                  runtime/aslax2.s:8
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s:12
+    div.o                     runtime/div.s:12
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+tmp3 (zeropage.o):
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    lumod.o                   runtime/lumod.s:10
+    ludiv.o                   runtime/ludiv.s:10
+tmp4 (zeropage.o):
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    lumod.o                   runtime/lumod.s:10
+    ludiv.o                   runtime/ludiv.s:10
+tosaddax (add.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+tosdiva0 (div.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+tosshreax (lshr.o):
+    nachtm.o                  nachtm.s:8641
+tossubax (sub.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    nachtm.o                  nachtm.s:8641
+tossubeax (lsub.o):
+    nachtm.o                  nachtm.s:8641
+tosudiv0ax (ludiv.o):
+    nachtm.o                  nachtm.s:8641
+tosumod0ax (lumod.o):
+    nachtm.o                  nachtm.s:8641
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s:11
+udiv32 (ludiv.o):
+    lumod.o                   runtime/lumod.s:9
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

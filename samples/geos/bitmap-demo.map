@@ -1,0 +1,199 @@
+Modules list:
+-------------
+bitmap-demores.o:
+    DIRENTRY          Offs=000000  Size=00003A  Align=00001  Fill=0000
+    FILEINFO          Offs=000000  Size=0000E4  Align=00001  Fill=0000
+bitmap-demo.o:
+    CODE              Offs=000000  Size=00000A  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000C44  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(_cursor.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(bitmapregs.o):
+    CODE              Offs=00000A  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(bitmapup.o):
+    CODE              Offs=00001B  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(callmain.o):
+    CODE              Offs=000021  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000006  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(cgetc.o):
+    CODE              Offs=000038  Size=00002A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(condes.o):
+    CODE              Offs=000062  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=00000A  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(extzp.o):
+    EXTZP             Offs=000000  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(promptoff.o):
+    CODE              Offs=00006E  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(pushax.o):
+    CODE              Offs=00007A  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zerobss.o):
+    CODE              Offs=000094  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/geos-cbm.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+DIRENTRY              000000  000039  00003A  00001
+ZEROPAGE              000058  000071  00001A  00001
+EXTZP                 000072  000076  000005  00001
+FILEINFO              0000FE  0001E1  0000E4  00001
+STARTUP               000400  000420  000021  00001
+ONCE                  000421  00042C  00000C  00001
+CODE                  00042D  0004D3  0000A7  00001
+RODATA                0004D4  001117  000C44  00001
+DATA                  001118  001146  00002F  00001
+BSS                   001147  001147  000001  00001
+
+
+Exports list by name:
+---------------------
+BitmapRegs                000437 RLA    _BitmapUp                 000448 RLA    
+_PromptOff                00049B RLA    __BACKBUFSIZE__           002000 REA    
+__BSS_RUN__               001147 RLA    __BSS_SIZE__              000001 REA    
+__CONSTRUCTOR_COUNT__     000000 REA    __CONSTRUCTOR_TABLE__     00042D RLA    
+__DESTRUCTOR_COUNT__      000000 REA    __DESTRUCTOR_TABLE__      001118 RLA    
+__HIMEM__                 006000 REA    __OVERLAYADDR__           006000 REA    
+__OVERLAYSIZE__           000000 REA    __STACKADDR__             005C00 REA    
+__STACKSIZE__             000400 REA    __STARTUP_RUN__           000400 RLA    
+__STARTUP__               000001 REA    __VLIR0_START__           000400 RLA    
+_cgetc                    000465 RLA    _main                     00042D RLA    
+callmain                  00044E RLA    cursor                    001147 RLA    
+cursor_x                  000072 RLZ    cursor_y                  000074 RLZ    
+donelib                   00048F RLA    initlib                   000421 RLA    
+ptr4                      000066 RLZ    pushax                    0004AB RLA    
+sp                        000058 RLZ    zerobss                   0004C1 RLA    
+
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__OVERLAYSIZE__           000000 REA    __STARTUP__               000001 REA    
+__BSS_SIZE__              000001 REA    sp                        000058 RLZ    
+ptr4                      000066 RLZ    cursor_x                  000072 RLZ    
+cursor_y                  000074 RLZ    __VLIR0_START__           000400 RLA    
+__STACKSIZE__             000400 REA    __STARTUP_RUN__           000400 RLA    
+initlib                   000421 RLA    _main                     00042D RLA    
+__CONSTRUCTOR_TABLE__     00042D RLA    BitmapRegs                000437 RLA    
+_BitmapUp                 000448 RLA    callmain                  00044E RLA    
+_cgetc                    000465 RLA    donelib                   00048F RLA    
+_PromptOff                00049B RLA    pushax                    0004AB RLA    
+zerobss                   0004C1 RLA    __DESTRUCTOR_TABLE__      001118 RLA    
+cursor                    001147 RLA    __BSS_RUN__               001147 RLA    
+__BACKBUFSIZE__           002000 REA    __STACKADDR__             005C00 REA    
+__OVERLAYADDR__           006000 REA    __HIMEM__                 006000 REA    
+
+
+
+Imports list:
+-------------
+BitmapRegs (bitmapregs.o):
+    bitmapup.o                geos-common/graph/bitmapup.s:8
+_BitmapUp (bitmapup.o):
+    bitmap-demo.o             bitmap-demo.s:14
+_PromptOff (promptoff.o):
+    cgetc.o                   geos-common/conio/cgetc.s:10
+__BACKBUFSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:10
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:6
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 geos-common/common/zerobss.s:9
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__OVERLAYADDR__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__OVERLAYSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:16
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:8
+__STACKADDR__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:15
+__STACKSIZE__ ([linker generated]):
+    crt0.o                    geos-common/system/crt0.s:9
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/geos-cbm.cfg:10
+__STARTUP_RUN__ ([linker generated]):
+    bitmap-demores.o          bitmap-demores.s:25
+__STARTUP__ (crt0.o):
+    bitmap-demo.o             bitmap-demo.s:13
+__VLIR0_START__ ([linker generated]):
+    bitmap-demores.o          bitmap-demores.s:25
+_cgetc (cgetc.o):
+    bitmap-demo.o             bitmap-demo.s:15
+_main (bitmap-demo.o):
+    callmain.o                runtime/callmain.s:11
+callmain (callmain.o):
+    crt0.o                    geos-common/system/crt0.s:12
+cursor (_cursor.o):
+    cgetc.o                   geos-common/conio/cgetc.s:10
+cursor_x (extzp.o):
+    cgetc.o                   geos-common/conio/cgetc.s:11
+cursor_y (extzp.o):
+    cgetc.o                   geos-common/conio/cgetc.s:11
+donelib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+initlib (condes.o):
+    crt0.o                    geos-common/system/crt0.s:11
+ptr4 (zeropage.o):
+    bitmapregs.o              geos-common/graph/bitmapregs.s:6
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+sp (zeropage.o):
+    pushax.o                  runtime/pushax.s:8
+    crt0.o                    geos-common/system/crt0.s:14
+zerobss (zerobss.o):
+    crt0.o                    geos-common/system/crt0.s:13
+

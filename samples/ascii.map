@@ -1,0 +1,380 @@
+Modules list:
+-------------
+ascii.o:
+    CODE              Offs=000000  Size=0000D6  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000053  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_cursor.o):
+    BSS               Offs=000006  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_hextab.o):
+    RODATA            Offs=000053  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_longminstr.o):
+    RODATA            Offs=000063  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_printf.o):
+    CODE              Offs=0000D6  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000007  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_scrsize.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addysp.o):
+    CODE              Offs=00047B  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(axlong.o):
+    CODE              Offs=000489  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(callmain.o):
+    CODE              Offs=000496  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000003  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cgetc.o):
+    CODE              Offs=0004AD  Size=000047  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clrscr.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(condes.o):
+    CODE              Offs=0004F4  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000007  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(conio.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cprintf.o):
+    CODE              Offs=000500  Size=00002A  Align=00001  Fill=0000
+    BSS               Offs=000032  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputc.o):
+    CODE              Offs=00052A  Size=00006D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctype.o):
+    RODATA            Offs=00006F  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctypemask.o):
+    CODE              Offs=000597  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cursor.o):
+    CODE              Offs=0005B5  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp4.o):
+    CODE              Offs=0005BF  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp6.o):
+    CODE              Offs=0005CC  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(gotoxy.o):
+    CODE              Offs=0005D9  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp2.o):
+    CODE              Offs=0005E6  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kernal.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kplot.o):
+    CODE              Offs=0005FC  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lneg.o):
+    CODE              Offs=000607  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lpush.o):
+    CODE              Offs=000625  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ltoa.o):
+    CODE              Offs=000646  Size=000095  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popa.o):
+    CODE              Offs=0006DB  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popptr1.o):
+    CODE              Offs=0006E7  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(push1.o):
+    CODE              Offs=0006F5  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushax.o):
+    CODE              Offs=0006FA  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(scrsize.o):
+    CODE              Offs=000714  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(status.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlen.o):
+    CODE              Offs=000727  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlower.o):
+    CODE              Offs=00073D  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(udiv.o):
+    CODE              Offs=000764  Size=00004F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(vcprintf.o):
+    CODE              Offs=0007B3  Size=000078  Align=00001  Fill=0000
+    DATA              Offs=00002C  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zerobss.o):
+    CODE              Offs=00082B  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  00108D  00084E  00001
+RODATA                00108E  001187  0000FA  00001
+DATA                  001188  0011BB  000034  00001
+INIT                  0011BC  0011D7  00001C  00001
+BSS                   0011D8  00120A  000033  00001
+ONCE                  0011D8  0011FD  000026  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     00FFD2 RLA    CURS_X                    0000D3 RLZ    
+CURS_Y                    0000D6 RLZ    PLOT                      000E3C RLA    
+SCREEN                    00FFED RLA    ST                        000090 RLZ    
+__BSS_RUN__               0011D8 RLA    __BSS_SIZE__              000033 REA    
+__CONSTRUCTOR_COUNT__     000000 REA    __CONSTRUCTOR_TABLE__     0011FE RLA    
+__DESTRUCTOR_COUNT__      000000 REA    __DESTRUCTOR_TABLE__      001188 RLA    
+__EXEHDR__                000001 REA    __HEADER_LAST__           00080D RLA    
+__HIMEM__                 00D000 REA    __LOADADDR__              000001 REA    
+__MAIN_SIZE__             00C7F3 REA    __MAIN_START__            00080D RLA    
+__ONCE_RUN__              0011D8 RLA    __STACKSIZE__             000800 REA    
+__STARTUP__               000001 REA    __ctype                   0010FD RLA    
+__ctypeidx                001108 RLA    __hextab                  0010E1 RLA    
+__longminstr              0010F1 RLA    __printf                  000A09 RLA    
+_cgetc                    000CED RLA    _clrscr                   00E544 REA    
+_cprintf                  000D40 RLA    _cputc                    000D6F RLA    
+_cursor                   000DF5 RLA    _ltoa                     000E9E RLA    
+_main                     000853 RLA    _screensize               000F54 RLA    
+_strlen                   000F67 RLA    _strlower                 000F7D RLA    
+_ultoa                    000EDF RLA    _vcprintf                 00103B RLA    
+addysp                    000CBC RLA    axlong                    000CC9 RLA    
+axulong                   000CCF RLA    callmain                  000CD6 RLA    
+ctypemaskdirect           000DDB RLA    cursor                    0011DE RLA    
+decsp4                    000DFF RLA    decsp6                    000E0C RLA    
+donelib                   000D34 RLA    gotoxy                    000E19 RLA    
+incsp2                    000E2E RLA    initlib                   0011D8 RLA    
+negeax                    000E47 RLA    plot                      000DC3 RLA    
+popa                      000F1B RLA    popax                     000E26 RLA    
+popptr1                   000F27 RLA    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    push1                     000F35 RLA    
+pusha0                    000F3C RLA    pushax                    000F3E RLA    
+pusheax                   000E6E RLA    regbank                   000016 RLZ    
+screensize                00FFED REA    sp                        000002 RLZ    
+sreg                      000004 RLZ    tmp1                      000012 RLZ    
+tosudiva0                 000FA4 RLA    zerobss                   00106B RLA    
+
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000000 REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__STARTUP__               000001 REA    __EXEHDR__                000001 REA    
+__LOADADDR__              000001 REA    sp                        000002 RLZ    
+sreg                      000004 RLZ    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    tmp1                      000012 RLZ    
+regbank                   000016 RLZ    __BSS_SIZE__              000033 REA    
+ST                        000090 RLZ    CURS_X                    0000D3 RLZ    
+CURS_Y                    0000D6 RLZ    __STACKSIZE__             000800 REA    
+__HEADER_LAST__           00080D RLA    __MAIN_START__            00080D RLA    
+_main                     000853 RLA    __printf                  000A09 RLA    
+addysp                    000CBC RLA    axlong                    000CC9 RLA    
+axulong                   000CCF RLA    callmain                  000CD6 RLA    
+_cgetc                    000CED RLA    donelib                   000D34 RLA    
+_cprintf                  000D40 RLA    _cputc                    000D6F RLA    
+plot                      000DC3 RLA    ctypemaskdirect           000DDB RLA    
+_cursor                   000DF5 RLA    decsp4                    000DFF RLA    
+decsp6                    000E0C RLA    gotoxy                    000E19 RLA    
+popax                     000E26 RLA    incsp2                    000E2E RLA    
+PLOT                      000E3C RLA    negeax                    000E47 RLA    
+pusheax                   000E6E RLA    _ltoa                     000E9E RLA    
+_ultoa                    000EDF RLA    popa                      000F1B RLA    
+popptr1                   000F27 RLA    push1                     000F35 RLA    
+pusha0                    000F3C RLA    pushax                    000F3E RLA    
+_screensize               000F54 RLA    _strlen                   000F67 RLA    
+_strlower                 000F7D RLA    tosudiva0                 000FA4 RLA    
+_vcprintf                 00103B RLA    zerobss                   00106B RLA    
+__hextab                  0010E1 RLA    __longminstr              0010F1 RLA    
+__ctype                   0010FD RLA    __ctypeidx                001108 RLA    
+__DESTRUCTOR_TABLE__      001188 RLA    __BSS_RUN__               0011D8 RLA    
+initlib                   0011D8 RLA    __ONCE_RUN__              0011D8 RLA    
+cursor                    0011DE RLA    __CONSTRUCTOR_TABLE__     0011FE RLA    
+__MAIN_SIZE__             00C7F3 REA    __HIMEM__                 00D000 REA    
+_clrscr                   00E544 REA    BSOUT                     00FFD2 RLA    
+screensize                00FFED REA    SCREEN                    00FFED RLA    
+
+
+
+Imports list:
+-------------
+BSOUT (kernal.o):
+    crt0.o                    c64/crt0.s:10
+CURS_X (conio.o):
+    gotoxy.o                  cbm/gotoxy.s:9
+CURS_Y (conio.o):
+    gotoxy.o                  cbm/gotoxy.s:9
+PLOT (kplot.o):
+    cputc.o                   c64/cputc.s:11
+SCREEN (kernal.o):
+    _scrsize.o                c64/_scrsize.s:8
+ST (status.o):
+    crt0.o                    c64/crt0.s:13
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    ascii.o                   ascii.s:27
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s:10
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__printf (_printf.o):
+    vcprintf.o                conio/vcprintf.s:9
+_cgetc (cgetc.o):
+    ascii.o                   ascii.s:37
+_clrscr (clrscr.o):
+    ascii.o                   ascii.s:34
+_cprintf (cprintf.o):
+    ascii.o                   ascii.s:36
+_cputc (cputc.o):
+    vcprintf.o                conio/vcprintf.s:9
+    ascii.o                   ascii.s:35
+_cursor (cursor.o):
+    ascii.o                   ascii.s:38
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (ascii.o):
+    callmain.o                runtime/callmain.s:11
+_screensize (scrsize.o):
+    ascii.o                   ascii.s:39
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s:13
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vcprintf (vcprintf.o):
+    cprintf.o                 conio/cprintf.s:8
+addysp (addysp.o):
+    cprintf.o                 conio/cprintf.s:8
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s:14
+cursor (_cursor.o):
+    cursor.o                  conio/cursor.s:8
+    cgetc.o                   c64/cgetc.s:8
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+gotoxy (gotoxy.o):
+    cputc.o                   c64/cputc.s:10
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+plot (cputc.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popa (popa.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popax (incsp2.o):
+    ltoa.o                    common/ltoa.s:9
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+popptr1 (popptr1.o):
+    ltoa.o                    common/ltoa.s:9
+    vcprintf.o                conio/vcprintf.s:8
+    udiv.o                    runtime/udiv.s:9
+    scrsize.o                 conio/scrsize.s:9
+ptr1 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    popptr1.o                 runtime/popptr1.s:9
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    vcprintf.o                conio/vcprintf.s:10
+    udiv.o                    runtime/udiv.s:10
+    scrsize.o                 conio/scrsize.s:11
+    cprintf.o                 conio/cprintf.s:9
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    strlen.o                  common/strlen.s:12
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    vcprintf.o                conio/vcprintf.s:10
+    scrsize.o                 conio/scrsize.s:11
+ptr3 (zeropage.o):
+    ltoa.o                    common/ltoa.s:11
+    vcprintf.o                conio/vcprintf.s:10
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+    ascii.o                   ascii.s:297
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+    cprintf.o                 conio/cprintf.s:8
+    ascii.o                   ascii.s:297
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+regbank (zeropage.o):
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+screensize (_scrsize.o):
+    scrsize.o                 conio/scrsize.s:10
+sp (zeropage.o):
+    decsp4.o                  runtime/decsp4.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    lpush.o                   runtime/lpush.s:13
+    incsp2.o                  runtime/incsp2.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    addysp.o                  runtime/addysp.s:8
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    vcprintf.o                conio/vcprintf.s:10
+    pushax.o                  runtime/pushax.s:8
+    popa.o                    runtime/popa.s:8
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    cprintf.o                 conio/cprintf.s:9
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    ltoa.o                    common/ltoa.s:11
+    lpush.o                   runtime/lpush.s:13
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    udiv.o                    runtime/udiv.s:10
+tmp1 (zeropage.o):
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    vcprintf.o                conio/vcprintf.s:10
+tosudiva0 (udiv.o):
+    ascii.o                   ascii.s:297
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

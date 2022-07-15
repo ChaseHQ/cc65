@@ -1,0 +1,849 @@
+Modules list:
+-------------
+dhgrshow.o:
+    CODE              Offs=000000  Size=00011E  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_cursor.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_cwd.o):
+    INIT              Offs=000000  Size=000041  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_directerrno.o):
+    CODE              Offs=00011E  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_heap.o):
+    DATA              Offs=000000  Size=00000A  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_mappederrno.o):
+    CODE              Offs=000127  Size=00000F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_oserror.o):
+    BSS               Offs=000001  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(_seterrno.o):
+    CODE              Offs=000136  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(add.o):
+    CODE              Offs=00013F  Size=000018  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(addysp.o):
+    CODE              Offs=000157  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(callmain.o):
+    CODE              Offs=000165  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=00000A  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(cgetc.o):
+    CODE              Offs=00017C  Size=00002D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(close.o):
+    CODE              Offs=0001A9  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(closedir.o):
+    CODE              Offs=0001C5  Size=000022  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(compl.o):
+    CODE              Offs=0001E7  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(condes.o):
+    CODE              Offs=0001F0  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=00000E  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000010  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(cout.o):
+    LOWCODE           Offs=000000  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(cputc.o):
+    CODE              Offs=0001FC  Size=00005B  Align=00001  Fill=0000
+    ONCE              Offs=00001C  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(crt0.o):
+    CODE              Offs=000257  Size=000012  Align=00001  Fill=0000
+    RODATA            Offs=000008  Size=000007  Align=00001  Fill=0000
+    DATA              Offs=000033  Size=000003  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=000034  Align=00001  Fill=0000
+    ONCE              Offs=000023  Size=00006A  Align=00001  Fill=0000
+    INIT              Offs=000041  Size=00001D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(ctype.o):
+    RODATA            Offs=00000F  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(ctypemask.o):
+    CODE              Offs=000269  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decax1.o):
+    CODE              Offs=000287  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decax4.o):
+    CODE              Offs=00028E  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decsp1.o):
+    CODE              Offs=000295  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decsp2.o):
+    CODE              Offs=00029E  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decsp4.o):
+    CODE              Offs=0002AB  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(decsp6.o):
+    CODE              Offs=0002B8  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(dosdetect.o):
+    DATA              Offs=000036  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=00008D  Size=000014  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(errno.o):
+    BSS               Offs=000002  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00003A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(filedes.o):
+    CODE              Offs=0002C5  Size=000016  Align=00001  Fill=0000
+    DATA              Offs=000037  Size=000020  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(filename.o):
+    CODE              Offs=0002DB  Size=00006C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(free.o):
+    CODE              Offs=000347  Size=0001D3  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(gotoxy.o):
+    CODE              Offs=00051A  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(incax5.o):
+    CODE              Offs=00052B  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(incaxy.o):
+    CODE              Offs=000530  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(incsp2.o):
+    CODE              Offs=00053B  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(incsp4.o):
+    CODE              Offs=000550  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(incsp6.o):
+    CODE              Offs=000555  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(initcwd.o):
+    CODE              Offs=00055A  Size=00002C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(iobuf.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(ldaxi.o):
+    CODE              Offs=000586  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(ldaxsp.o):
+    CODE              Offs=000593  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(ldeaxi.o):
+    CODE              Offs=00059C  Size=000017  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(libref.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(malloc.o):
+    CODE              Offs=0005B3  Size=00010E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(mli.o):
+    BSS               Offs=000004  Size=000012  Align=00001  Fill=0000
+    DATA              Offs=000057  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(mul8.o):
+    CODE              Offs=0006C1  Size=00003A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(open.o):
+    CODE              Offs=0006FB  Size=0000F9  Align=00001  Fill=0000
+    DATA              Offs=00007B  Size=000009  Align=00001  Fill=0000
+    ONCE              Offs=0000A1  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(opendir.o):
+    CODE              Offs=0007F4  Size=0000E7  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(oserror.o):
+    CODE              Offs=0008DB  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=00009A  Size=000032  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(pmemalign.o):
+    CODE              Offs=0008F1  Size=000204  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(popa.o):
+    CODE              Offs=000AF5  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(popptr1.o):
+    CODE              Offs=000AFF  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(pusha.o):
+    CODE              Offs=000B0D  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(pushax.o):
+    CODE              Offs=000B23  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(pushwsp.o):
+    CODE              Offs=000B3D  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(rdkey.o):
+    LOWCODE           Offs=00000A  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(read.o):
+    CODE              Offs=000B59  Size=00005A  Align=00001  Fill=0000
+    ONCE              Offs=0000AA  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(readdir.o):
+    CODE              Offs=000BB3  Size=0000FE  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(regswap2.o):
+    CODE              Offs=000CB1  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(rwcommon.o):
+    CODE              Offs=000CC7  Size=00003D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(staxsp.o):
+    CODE              Offs=000D04  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(staxspi.o):
+    CODE              Offs=000D0F  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(steaxspi.o):
+    CODE              Offs=000D29  Size=000022  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(stricmp.o):
+    CODE              Offs=000D4B  Size=000043  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(strrchr.o):
+    CODE              Offs=000D8E  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(sub.o):
+    CODE              Offs=000DB2  Size=000014  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(subeqsp.o):
+    CODE              Offs=000DC6  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(subysp.o):
+    CODE              Offs=000DDB  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi-kernel.o):
+    CODE              Offs=000DE8  Size=00007F  Align=00001  Fill=0000
+    RODATA            Offs=0000CC  Size=000004  Align=00001  Fill=0000
+    BSS               Offs=000016  Size=000028  Align=00001  Fill=0000
+    DATA              Offs=000084  Size=000039  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_colors.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_done.o):
+    CODE              Offs=000E67  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_getxres.o):
+    CODE              Offs=000E75  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_getyres.o):
+    CODE              Offs=000E7C  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_init.o):
+    CODE              Offs=000E83  Size=000058  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_setcolor.o):
+    CODE              Offs=000EDB  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(tgi_settextstyle.o):
+    CODE              Offs=000EEE  Size=000042  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(umul8x16r24.o):
+    CODE              Offs=000F30  Size=00002B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(videomode.o):
+    LOWCODE           Offs=000014  Size=000029  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(vtabz.o):
+    LOWCODE           Offs=00003D  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(zerobss.o):
+    CODE              Offs=000F5B  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/apple2enh.lib(a2.hi-tgi.o):
+    CODE              Offs=000F7E  Size=00014E  Align=00001  Fill=0000
+    RODATA            Offs=0000D0  Size=000533  Align=00001  Fill=0000
+    BSS               Offs=00003E  Size=000001  Align=00001  Fill=0000
+    DATA              Offs=0000BD  Size=000037  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000080  000099  00001A  00001
+EXEHDR                003FC6  003FFF  00003A  00001
+STARTUP               004000  004033  000034  00001
+LOWCODE               004034  00407A  000047  00001
+CODE                  00407B  005146  0010CC  00001
+RODATA                005147  00574B  000605  00001
+DATA                  00574C  00583F  0000F4  00001
+INIT                  005840  00589D  00005E  00001
+BSS                   00589E  0058DC  00003F  00001
+ONCE                  00589E  00595A  0000BD  00001
+
+
+Exports list by name:
+---------------------
+COUT                      004034 RLA    RDKEY                     00403E RLA    
+VTABZ                     004071 RLA    __BSS_RUN__               00589E RLA    
+__BSS_SIZE__              00003F REA    __CONSTRUCTOR_COUNT__     000006 REA    
+__CONSTRUCTOR_TABLE__     00594F RLA    __DESTRUCTOR_COUNT__      000001 REA    
+__DESTRUCTOR_TABLE__      00574A RLA    __EXEHDR__                000001 REA    
+__FILETYPE__              000006 REA    __HIMEM__                 009600 REA    
+__LCADDR__                00D400 REA    __LCSIZE__                000C00 REA    
+__LC_LAST__               00D400 RLA    __LC_START__              00D400 RLA    
+__MAIN_LAST__             00595B RLA    __MAIN_START__            004000 RLA    
+__ONCE_LOAD__             00589E RLA    __ONCE_RUN__              00589E RLA    
+__ONCE_SIZE__             0000BD REA    __STACKSIZE__             000800 REA    
+__STARTUP__               000001 REA    __ctype                   005156 RLA    
+__ctypeidx                005161 RLA    __cwd                     005840 RLA    
+__directerrno             004199 RLA    __dos_type                005782 RLA    
+__errno                   0058A0 RLA    __heapend                 005750 RLA    
+__heapfirst               005752 RLA    __heaplast                005754 RLA    
+__heapptr                 00574E RLA    __mappederrno             0041A2 RLA    
+__oserror                 00589F RLA    __osmaperrno              004956 RLA    
+__seterrno                0041B1 RLA    _a2e_hi_tgi               005809 RLA    
+_cgetc                    0041F7 RLA    _close                    004224 RLA    
+_closedir                 004240 RLA    _exit                     00400C RLA    
+_free                     0043C2 RLA    _main                     00407B RLA    
+_malloc                   00462E RLA    _open                     004776 RLA    
+_opendir                  00486F RLA    _posix_memalign           00496C RLA    
+_read                     004BD4 RLA    _readdir                  004C2E RLA    
+_strcasecmp               004DC6 RLA    _strrchr                  004E09 RLA    
+_tgi_color                0058BC RLA    _tgi_colorcount           0058D5 RLA    
+_tgi_done                 004EE2 RLA    _tgi_error                0058B6 RLA    
+_tgi_flags                0058DB RLA    _tgi_font                 0058BD RLA    
+_tgi_fontheight           0058D8 RLA    _tgi_fontwidth            0058D7 RLA    
+_tgi_getxres              004EF0 RLA    _tgi_getyres              004EF7 RLA    
+_tgi_gmode                0058B7 RLA    _tgi_init                 004EFE RLA    
+_tgi_install              004E63 RLA    _tgi_setcolor             004F56 RLA    
+_tgi_settextstyle         004F69 RLA    _tgi_textdir              0058BE RLA    
+_tgi_textscalew           0058C1 RLA    _tgi_uninstall            004ED0 RLA    
+_tgi_xmax                 0058CD RLA    _tgi_xres                 0058D1 RLA    
+_tgi_ymax                 0058CF RLA    _tgi_yres                 0058D3 RLA    
+_videomode                004048 RLA    addysp                    0041D3 RLA    
+addysp1                   0041D2 RLA    callmain                  0041E0 RLA    
+callmli                   0057A3 RLA    closeallfiles             004861  LAI   
+closedirect               004857 RLA    complax                   004262 RLA    
+ctypemaskdirect           0042E8 RLA    cursor                    00589E RLA    
+cwd_init                  0045D5  LAI   decax1                    004302 RLA    
+decax4                    004309 RLA    decsp1                    004310 RLA    
+decsp2                    004319 RLA    decsp4                    004326 RLA    
+decsp6                    004333 RLA    donelib                   00426B RLA    
+fdtab                     005783 RLA    freebuffer                00484F RLA    
+getfd                     004340 RLA    gotoxy                    004595 RLA    
+incax4                    0045AB RLA    incax5                    0045A6 RLA    
+incaxy                    0045AD RLA    incsp2                    0045BD RLA    
+incsp4                    0045CB RLA    incsp6                    0045D0 RLA    
+initconio                 0058BA  LAI   initcwd                   0045D5 RLA    
+initdostype               00592B  LAI   initheap                  00589E  LAI   
+initlib                   0058AE RLA    initprompt                005948  LAI   
+iobuf_alloc               00496C RLA    iobuf_free                0043C2 RLA    
+ldax0sp                   00460E RLA    ldaxi                     004601 RLA    
+ldaxidx                   004603 RLA    ldaxysp                   004610 RLA    
+ldeaxi                    004617 RLA    mliparam                  0058A2 RLA    
+popa                      004B70 RLA    popax                     0045B6 RLA    
+popname                   0043BD RLA    popptr1                   004B7A RLA    
+ptr1                      000088 RLZ    ptr2                      00008A RLZ    
+ptr3                      00008C RLZ    ptr4                      00008E RLZ    
+pusha                     004B8C RLA    pusha0                    004BA0 RLA    
+pushax                    004BA2 RLA    pushname                  004356 RLA    
+pushwysp                  004BBA RLA    putchardirect             0042B8 RLA    
+raisefilelevel            00593F  LAI   regbank                   000094 RLZ    
+regswap2                  004D2C RLA    rwcommon                  004D4F RLA    
+rwprolog                  004D42 RLA    sp                        000080 RLZ    
+sreg                      000082 RLZ    stax0sp                   004D7F RLA    
+staxspidx                 004D8A RLA    staxysp                   004D81 RLA    
+steaxspidx                004DA4 RLA    subeqysp                  004E43 RLA    
+subysp                    004E56 RLA    tgi_color_white           000003 REZ    
+tgi_done                  0057D9 RLA    tgi_getdefpalette         0057F4 RLA    
+tgi_geterror              0057DC RLA    tgi_init                  0057D6 RLA    
+tgi_inv_arg               004EB9 RLA    tgi_libref                00400C RLA    
+tgi_setcolor              0057EB RLA    tgi_setdrawpage           0057E8 RLA    
+tgi_setpalette            0057EE RLA    tgi_setviewpage           0057E5 RLA    
+tmp1                      000090 RLZ    tmp2                      000091 RLZ    
+tmp3                      000092 RLZ    tosaddax                  0041BC RLA    
+tossubax                  004E2F RLA    tosumula0                 00473C RLA    
+umul8x16r24               004FAB RLA    zerobss                   004FD6 RLA    
+
+
+
+Exports list by value:
+----------------------
+__STARTUP__               000001 REA    __DESTRUCTOR_COUNT__      000001 REA    
+__EXEHDR__                000001 REA    tgi_color_white           000003 REZ    
+__FILETYPE__              000006 REA    __CONSTRUCTOR_COUNT__     000006 REA    
+__BSS_SIZE__              00003F REA    sp                        000080 RLZ    
+sreg                      000082 RLZ    ptr1                      000088 RLZ    
+ptr2                      00008A RLZ    ptr3                      00008C RLZ    
+ptr4                      00008E RLZ    tmp1                      000090 RLZ    
+tmp2                      000091 RLZ    tmp3                      000092 RLZ    
+regbank                   000094 RLZ    __ONCE_SIZE__             0000BD REA    
+__STACKSIZE__             000800 REA    __LCSIZE__                000C00 REA    
+__MAIN_START__            004000 RLA    tgi_libref                00400C RLA    
+_exit                     00400C RLA    COUT                      004034 RLA    
+RDKEY                     00403E RLA    _videomode                004048 RLA    
+VTABZ                     004071 RLA    _main                     00407B RLA    
+__directerrno             004199 RLA    __mappederrno             0041A2 RLA    
+__seterrno                0041B1 RLA    tosaddax                  0041BC RLA    
+addysp1                   0041D2 RLA    addysp                    0041D3 RLA    
+callmain                  0041E0 RLA    _cgetc                    0041F7 RLA    
+_close                    004224 RLA    _closedir                 004240 RLA    
+complax                   004262 RLA    donelib                   00426B RLA    
+putchardirect             0042B8 RLA    ctypemaskdirect           0042E8 RLA    
+decax1                    004302 RLA    decax4                    004309 RLA    
+decsp1                    004310 RLA    decsp2                    004319 RLA    
+decsp4                    004326 RLA    decsp6                    004333 RLA    
+getfd                     004340 RLA    pushname                  004356 RLA    
+popname                   0043BD RLA    iobuf_free                0043C2 RLA    
+_free                     0043C2 RLA    gotoxy                    004595 RLA    
+incax5                    0045A6 RLA    incax4                    0045AB RLA    
+incaxy                    0045AD RLA    popax                     0045B6 RLA    
+incsp2                    0045BD RLA    incsp4                    0045CB RLA    
+incsp6                    0045D0 RLA    cwd_init                  0045D5  LAI   
+initcwd                   0045D5 RLA    ldaxi                     004601 RLA    
+ldaxidx                   004603 RLA    ldax0sp                   00460E RLA    
+ldaxysp                   004610 RLA    ldeaxi                    004617 RLA    
+_malloc                   00462E RLA    tosumula0                 00473C RLA    
+_open                     004776 RLA    freebuffer                00484F RLA    
+closedirect               004857 RLA    closeallfiles             004861  LAI   
+_opendir                  00486F RLA    __osmaperrno              004956 RLA    
+_posix_memalign           00496C RLA    iobuf_alloc               00496C RLA    
+popa                      004B70 RLA    popptr1                   004B7A RLA    
+pusha                     004B8C RLA    pusha0                    004BA0 RLA    
+pushax                    004BA2 RLA    pushwysp                  004BBA RLA    
+_read                     004BD4 RLA    _readdir                  004C2E RLA    
+regswap2                  004D2C RLA    rwprolog                  004D42 RLA    
+rwcommon                  004D4F RLA    stax0sp                   004D7F RLA    
+staxysp                   004D81 RLA    staxspidx                 004D8A RLA    
+steaxspidx                004DA4 RLA    _strcasecmp               004DC6 RLA    
+_strrchr                  004E09 RLA    tossubax                  004E2F RLA    
+subeqysp                  004E43 RLA    subysp                    004E56 RLA    
+_tgi_install              004E63 RLA    tgi_inv_arg               004EB9 RLA    
+_tgi_uninstall            004ED0 RLA    _tgi_done                 004EE2 RLA    
+_tgi_getxres              004EF0 RLA    _tgi_getyres              004EF7 RLA    
+_tgi_init                 004EFE RLA    _tgi_setcolor             004F56 RLA    
+_tgi_settextstyle         004F69 RLA    umul8x16r24               004FAB RLA    
+zerobss                   004FD6 RLA    __ctype                   005156 RLA    
+__ctypeidx                005161 RLA    __DESTRUCTOR_TABLE__      00574A RLA    
+__heapptr                 00574E RLA    __heapend                 005750 RLA    
+__heapfirst               005752 RLA    __heaplast                005754 RLA    
+__dos_type                005782 RLA    fdtab                     005783 RLA    
+callmli                   0057A3 RLA    tgi_init                  0057D6 RLA    
+tgi_done                  0057D9 RLA    tgi_geterror              0057DC RLA    
+tgi_setviewpage           0057E5 RLA    tgi_setdrawpage           0057E8 RLA    
+tgi_setcolor              0057EB RLA    tgi_setpalette            0057EE RLA    
+tgi_getdefpalette         0057F4 RLA    _a2e_hi_tgi               005809 RLA    
+__cwd                     005840 RLA    __ONCE_RUN__              00589E RLA    
+initheap                  00589E  LAI   __ONCE_LOAD__             00589E RLA    
+cursor                    00589E RLA    __BSS_RUN__               00589E RLA    
+__oserror                 00589F RLA    __errno                   0058A0 RLA    
+mliparam                  0058A2 RLA    initlib                   0058AE RLA    
+_tgi_error                0058B6 RLA    _tgi_gmode                0058B7 RLA    
+initconio                 0058BA  LAI   _tgi_color                0058BC RLA    
+_tgi_font                 0058BD RLA    _tgi_textdir              0058BE RLA    
+_tgi_textscalew           0058C1 RLA    _tgi_xmax                 0058CD RLA    
+_tgi_ymax                 0058CF RLA    _tgi_xres                 0058D1 RLA    
+_tgi_yres                 0058D3 RLA    _tgi_colorcount           0058D5 RLA    
+_tgi_fontwidth            0058D7 RLA    _tgi_fontheight           0058D8 RLA    
+_tgi_flags                0058DB RLA    initdostype               00592B  LAI   
+raisefilelevel            00593F  LAI   initprompt                005948  LAI   
+__CONSTRUCTOR_TABLE__     00594F RLA    __MAIN_LAST__             00595B RLA    
+__HIMEM__                 009600 REA    __LCADDR__                00D400 REA    
+__LC_LAST__               00D400 RLA    __LC_START__              00D400 RLA    
+
+
+
+Imports list:
+-------------
+COUT (cout.o):
+    videomode.o               apple2/videomode.s:9
+    read.o                    apple2/read.s:10
+RDKEY (rdkey.o):
+    read.o                    apple2/read.s:10
+VTABZ (vtabz.o):
+    gotoxy.o                  apple2/gotoxy.s:9
+    cputc.o                   apple2/cputc.s:13
+__BSS_RUN__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:7
+__FILETYPE__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:9
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:17
+__LCADDR__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:19
+__LCSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:19
+__LC_LAST__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:13
+__LC_START__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:13
+__MAIN_LAST__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__MAIN_START__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__ONCE_LOAD__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:12
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:18
+__ONCE_SIZE__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:12
+__STACKSIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/apple2enh.cfg:18
+__STARTUP__ (crt0.o):
+    dhgrshow.o                dhgrshow.s:13
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__cwd (_cwd.o):
+    initcwd.o                 apple2/initcwd.s:6
+    opendir.o                 ../libwrk/apple2enh/opendir.s:21
+__directerrno (_directerrno.o):
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    opendir.o                 ../libwrk/apple2enh/opendir.s:19
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__dos_type (dosdetect.o):
+    mli.o                     apple2/mli.s:7
+    open.o                    apple2/open.s:12
+__errno (errno.o):
+    _seterrno.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__heapend (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:33
+__heapfirst (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+__heaplast (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+__heapptr (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+__mappederrno (_mappederrno.o):
+    rwcommon.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__oserror (_oserror.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    rwcommon.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    opendir.o                 ../libwrk/apple2enh/opendir.s:18
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__osmaperrno (oserror.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:8
+__seterrno (_seterrno.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+_a2e_hi_tgi (a2.hi-tgi.o):
+    dhgrshow.o                dhgrshow.s:14
+_cgetc (cgetc.o):
+    dhgrshow.o                dhgrshow.s:19
+_close (close.o):
+    opendir.o                 ../libwrk/apple2enh/opendir.s:17
+    closedir.o                ../libwrk/apple2enh/closedir.s:14
+    dhgrshow.o                dhgrshow.s:21
+_closedir (closedir.o):
+    dhgrshow.o                dhgrshow.s:27
+_exit (crt0.o):
+    libref.o                  apple2/libref.s:6
+_free (free.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:14
+    iobuf.o                   apple2/iobuf.s:8
+    opendir.o                 ../libwrk/apple2enh/opendir.s:14
+    closedir.o                ../libwrk/apple2enh/closedir.s:13
+_main (dhgrshow.o):
+    callmain.o                runtime/callmain.s:11
+_malloc (malloc.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:13
+    opendir.o                 ../libwrk/apple2enh/opendir.s:13
+_open (open.o):
+    opendir.o                 ../libwrk/apple2enh/opendir.s:16
+    dhgrshow.o                dhgrshow.s:20
+_opendir (opendir.o):
+    dhgrshow.o                dhgrshow.s:25
+_posix_memalign (pmemalign.o):
+    iobuf.o                   apple2/iobuf.s:8
+_read (read.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:13
+    opendir.o                 ../libwrk/apple2enh/opendir.s:15
+    dhgrshow.o                dhgrshow.s:24
+_readdir (readdir.o):
+    dhgrshow.o                dhgrshow.s:26
+_strcasecmp (stricmp.o):
+    dhgrshow.o                dhgrshow.s:23
+_strrchr (strrchr.o):
+    dhgrshow.o                dhgrshow.s:22
+_tgi_color (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:120
+_tgi_colorcount (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:132
+_tgi_done (tgi_done.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:193
+    tgi-kernel.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:193
+_tgi_error (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:116
+_tgi_flags (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:137
+_tgi_font (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:121
+_tgi_fontheight (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:135
+_tgi_fontwidth (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:134
+_tgi_getxres (tgi_getxres.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:209
+_tgi_getyres (tgi_getyres.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:210
+_tgi_gmode (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:117
+    tgi_done.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:117
+_tgi_init (tgi_init.o):
+    dhgrshow.o                dhgrshow.s:18
+_tgi_install (tgi-kernel.o):
+    dhgrshow.o                dhgrshow.s:16
+_tgi_setcolor (tgi_setcolor.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:224
+_tgi_settextstyle (tgi_settextstyle.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:230
+_tgi_textdir (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:122
+_tgi_textscalew (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:124
+_tgi_uninstall (tgi-kernel.o):
+    dhgrshow.o                dhgrshow.s:17
+_tgi_xmax (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:130
+_tgi_xres (tgi-kernel.o):
+    tgi_getxres.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:128
+_tgi_ymax (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:131
+_tgi_yres (tgi-kernel.o):
+    tgi_getyres.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:129
+_videomode (videomode.o):
+    dhgrshow.o                dhgrshow.s:15
+addysp (addysp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    filename.o                apple2/filename.s:8
+    open.o                    apple2/open.s:14
+    incsp6.o                  runtime/incsp6.s:8
+    incsp4.o                  runtime/incsp4.s:8
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+callmain (callmain.o):
+    crt0.o                    apple2/crt0.s:11
+callmli (mli.o):
+    initcwd.o                 apple2/mli.inc:131
+    filename.o                apple2/mli.inc:131
+    rwcommon.o                apple2/mli.inc:131
+    open.o                    apple2/mli.inc:131
+closedirect (open.o):
+    close.o                   apple2/close.s:9
+complax (compl.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+ctypemaskdirect (ctypemask.o):
+    stricmp.o                 common/stricmp.s:17
+cursor (_cursor.o):
+    cgetc.o                   apple2/cgetc.s:10
+decax1 (decax1.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    tgi_init.o                tgi/tgi_init.s:11
+decax4 (decax4.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+decsp1 (decsp1.o):
+    filename.o                apple2/filename.s:8
+decsp2 (decsp2.o):
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+decsp4 (decsp4.o):
+    dhgrshow.o                dhgrshow.s:182
+decsp6 (decsp6.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    dhgrshow.o                dhgrshow.s:182
+donelib (condes.o):
+    crt0.o                    apple2/crt0.s:10
+fdtab (filedes.o):
+    read.o                    apple2/filedes.inc:13
+    open.o                    apple2/filedes.inc:13
+    close.o                   apple2/filedes.inc:13
+freebuffer (open.o):
+    close.o                   apple2/close.s:9
+getfd (filedes.o):
+    rwcommon.o                apple2/filedes.inc:14
+    close.o                   apple2/filedes.inc:14
+gotoxy (gotoxy.o):
+    cputc.o                   apple2/cputc.s:13
+incax4 (incaxy.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+incax5 (incax5.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+incaxy (incaxy.o):
+    incax5.o                  runtime/incax5.s:8
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+    open.o                    apple2/open.s:14
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+    staxspi.o                 runtime/staxspi.s:9
+incsp4 (incsp4.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+    open.o                    apple2/open.s:14
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+    dhgrshow.o                dhgrshow.s:182
+incsp6 (incsp6.o):
+    dhgrshow.o                dhgrshow.s:182
+initcwd (initcwd.o):
+    _cwd.o                    common/_cwd.s:14
+initlib (condes.o):
+    crt0.o                    apple2/crt0.s:10
+iobuf_alloc (iobuf.o):
+    open.o                    apple2/open.s:13
+iobuf_free (iobuf.o):
+    open.o                    apple2/open.s:13
+ldax0sp (ldaxsp.o):
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+ldaxi (ldaxi.o):
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+ldaxidx (ldaxi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+ldaxysp (ldaxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+ldeaxi (ldeaxi.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+mliparam (mli.o):
+    initcwd.o                 apple2/mli.inc:130
+    filename.o                apple2/mli.inc:130
+    rwcommon.o                apple2/mli.inc:130
+    open.o                    apple2/mli.inc:130
+popa (popa.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:10
+    gotoxy.o                  apple2/gotoxy.s:9
+popax (incsp2.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:10
+    strrchr.o                 common/strrchr.s:9
+    rwcommon.o                apple2/rwcommon.s:6
+    open.o                    apple2/open.s:14
+popname (filename.o):
+    open.o                    apple2/open.s:12
+popptr1 (popptr1.o):
+    mul8.o                    runtime/mul8.s:9
+    stricmp.o                 common/stricmp.s:15
+    steaxspi.o                runtime/steaxspi.s:9
+    rwcommon.o                apple2/rwcommon.s:6
+ptr1 (zeropage.o):
+    popptr1.o                 runtime/popptr1.s:9
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:11
+    mul8.o                    runtime/mul8.s:10
+    malloc.o                  common/malloc.s:108
+    ldeaxi.o                  runtime/ldeaxi.s:8
+    filename.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    a2.hi-tgi.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    tgi_init.o                tgi/tgi_init.s:12
+    tgi-kernel.o              tgi/tgi-kernel.s:8
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    steaxspi.o                runtime/steaxspi.s:10
+    staxspi.o                 runtime/staxspi.s:10
+    rwcommon.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    readdir.o                 ../libwrk/apple2enh/readdir.s:11
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    opendir.o                 ../libwrk/apple2enh/opendir.s:11
+    ldaxi.o                   runtime/ldaxi.s:8
+    free.o                    common/free.s:62
+ptr2 (zeropage.o):
+    malloc.o                  common/malloc.s:108
+    a2.hi-tgi.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    stricmp.o                 common/stricmp.s:16
+    rwcommon.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    free.o                    common/free.s:62
+ptr3 (zeropage.o):
+    malloc.o                  common/malloc.s:108
+    a2.hi-tgi.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    free.o                    common/free.s:62
+ptr4 (zeropage.o):
+    mul8.o                    runtime/mul8.s:10
+    a2.hi-tgi.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    free.o                    common/free.s:62
+pusha (pusha.o):
+    tgi_init.o                tgi/tgi_init.s:11
+pusha0 (pushax.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+pushax (pushax.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    callmain.o                runtime/callmain.s:11
+    tgi_init.o                tgi/tgi_init.s:11
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+    open.o                    apple2/open.s:14
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+pushname (filename.o):
+    open.o                    apple2/open.s:12
+pushwysp (pushwsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    dhgrshow.o                dhgrshow.s:182
+putchardirect (cputc.o):
+    cgetc.o                   apple2/cgetc.s:10
+regbank (zeropage.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+    regswap2.o                runtime/regswap2.s:8
+    readdir.o                 ../libwrk/apple2enh/readdir.s:10
+    opendir.o                 ../libwrk/apple2enh/opendir.s:10
+regswap2 (regswap2.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+rwcommon (rwcommon.o):
+    read.o                    apple2/read.s:9
+rwprolog (rwcommon.o):
+    read.o                    apple2/read.s:9
+sp (zeropage.o):
+    decsp1.o                  runtime/decsp1.s:8
+    subysp.o                  runtime/subysp.s:9
+    subeqsp.o                 runtime/subeqsp.s:8
+    sub.o                     runtime/sub.s:9
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+    incsp2.o                  runtime/incsp2.s:8
+    filename.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    add.o                     runtime/add.s:12
+    _heap.o                   common/_heap.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    staxsp.o                  runtime/staxsp.s:8
+    regswap2.o                runtime/regswap2.s:8
+    readdir.o                 ../libwrk/apple2enh/readdir.s:10
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    popa.o                    runtime/popa.s:8
+    opendir.o                 ../libwrk/apple2enh/opendir.s:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    dhgrshow.o                dhgrshow.s:10
+sreg (zeropage.o):
+    ldeaxi.o                  runtime/ldeaxi.s:8
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    steaxspi.o                runtime/steaxspi.s:10
+    readdir.o                 ../libwrk/apple2enh/readdir.s:10
+stax0sp (staxsp.o):
+    closedir.o                ../libwrk/apple2enh/closedir.s:41
+    dhgrshow.o                dhgrshow.s:182
+staxspidx (staxspi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    opendir.o                 ../libwrk/apple2enh/opendir.s:142
+staxysp (staxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+    dhgrshow.o                dhgrshow.s:182
+steaxspidx (steaxspi.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+subeqysp (subeqsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+subysp (subysp.o):
+    filename.o                apple2/filename.s:8
+tgi_color_white (tgi_colors.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:110
+tgi_done (tgi-kernel.o):
+    tgi_done.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:153
+tgi_getdefpalette (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:162
+tgi_geterror (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:154
+tgi_init (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:152
+tgi_inv_arg (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:178
+tgi_libref (libref.o):
+    tgi-kernel.o              tgi/tgi-kernel.s:7
+tgi_setcolor (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:159
+tgi_setdrawpage (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:158
+tgi_setpalette (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:160
+tgi_setviewpage (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:157
+tmp1 (zeropage.o):
+    initcwd.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    incaxy.o                  runtime/incaxy.s:8
+    filename.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    a2.hi-tgi.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    steaxspi.o                runtime/steaxspi.s:10
+    staxspi.o                 runtime/staxspi.s:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    dhgrshow.o                dhgrshow.s:11
+tmp2 (zeropage.o):
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    steaxspi.o                runtime/steaxspi.s:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+tmp3 (zeropage.o):
+    steaxspi.o                runtime/steaxspi.s:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+tosaddax (add.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+tossubax (sub.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:293
+tosumula0 (mul8.o):
+    readdir.o                 ../libwrk/apple2enh/readdir.s:150
+umul8x16r24 (umul8x16r24.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:9
+zerobss (zerobss.o):
+    crt0.o                    apple2/crt0.s:11
+

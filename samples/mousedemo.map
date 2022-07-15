@@ -1,0 +1,1635 @@
+Modules list:
+-------------
+mousedemo.o:
+    CODE              Offs=000000  Size=000488  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000182  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_cursor.o):
+    BSS               Offs=000002  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_directerrno.o):
+    CODE              Offs=000488  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_heap.o):
+    DATA              Offs=000000  Size=00000A  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_hextab.o):
+    RODATA            Offs=000182  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_longminstr.o):
+    RODATA            Offs=000192  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_mappederrno.o):
+    CODE              Offs=000492  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_oserror.o):
+    BSS               Offs=000003  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_printf.o):
+    CODE              Offs=0004A2  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000004  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=00000A  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_scrsize.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_seterrno.o):
+    CODE              Offs=000847  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(add.o):
+    CODE              Offs=000850  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addeqsp.o):
+    CODE              Offs=00086C  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addysp.o):
+    CODE              Offs=00087D  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax1.o):
+    CODE              Offs=00088B  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax3.o):
+    CODE              Offs=000893  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(aslax4.o):
+    CODE              Offs=0008A1  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(asmtab.o):
+    RODATA            Offs=00019E  Size=0000DE  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(axlong.o):
+    CODE              Offs=0008B2  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(bordercolor.o):
+    CODE              Offs=0008BF  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(break.o):
+    CODE              Offs=0008C7  Size=000074  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000008  Align=00001  Fill=0000
+    DATA              Offs=00000D  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(call.o):
+    CODE              Offs=00093B  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(callirq.o):
+    DATA              Offs=000010  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(callmain.o):
+    CODE              Offs=000942  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=00002E  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cclear.o):
+    CODE              Offs=000959  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cgetc.o):
+    CODE              Offs=00096E  Size=000047  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(chline.o):
+    CODE              Offs=0009B5  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clinechars.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(close.o):
+    CODE              Offs=0009CA  Size=000038  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(clrscr.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(color.o):
+    CODE              Offs=000A02  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(condes.o):
+    CODE              Offs=000A12  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000032  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000010  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(conio.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cprintf.o):
+    CODE              Offs=000A1E  Size=00002A  Align=00001  Fill=0000
+    BSS               Offs=000037  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputc.o):
+    CODE              Offs=000A48  Size=00006D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputhex.o):
+    CODE              Offs=000AB5  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cputs.o):
+    CODE              Offs=000AD1  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00001C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctype.o):
+    RODATA            Offs=00027C  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctypemask.o):
+    CODE              Offs=000AF4  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cursor.o):
+    CODE              Offs=000B12  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cvline.o):
+    CODE              Offs=000B1C  Size=000018  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbg.o):
+    CODE              Offs=000B34  Size=001139  Align=00001  Fill=0000
+    RODATA            Offs=000307  Size=000332  Align=00001  Fill=0000
+    BSS               Offs=000038  Size=00003A  Align=00001  Fill=0000
+    DATA              Offs=000057  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgdasm.o):
+    CODE              Offs=001C6D  Size=000164  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgdump.o):
+    CODE              Offs=001DD1  Size=00006C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgisram.o):
+    CODE              Offs=001E3D  Size=00002B  Align=00001  Fill=0000
+    RODATA            Offs=000639  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dbgsupp.o):
+    CODE              Offs=001E68  Size=0000E9  Align=00001  Fill=0000
+    BSS               Offs=000072  Size=000117  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decax1.o):
+    CODE              Offs=001F51  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decaxy.o):
+    CODE              Offs=001F58  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp1.o):
+    CODE              Offs=001F61  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp2.o):
+    CODE              Offs=001F6A  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp3.o):
+    CODE              Offs=001F77  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp4.o):
+    CODE              Offs=001F84  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp6.o):
+    CODE              Offs=001F91  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp8.o):
+    CODE              Offs=001F9E  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(devnum.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(diskcmd.o):
+    CODE              Offs=001FAB  Size=0000C4  Align=00001  Fill=0000
+    BSS               Offs=000189  Size=000017  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(div.o):
+    CODE              Offs=00206F  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(doesclrscr.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(errno.o):
+    BSS               Offs=0001A0  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filedes.o):
+    CODE              Offs=002084  Size=00000E  Align=00001  Fill=0000
+    DATA              Offs=00005D  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filename.o):
+    CODE              Offs=002092  Size=0000A0  Align=00001  Fill=0000
+    BSS               Offs=0001A2  Size=000003  Align=00001  Fill=0000
+    DATA              Offs=00006D  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filetype.o):
+    DATA              Offs=000091  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filevars.o):
+    INIT              Offs=00001C  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=000036  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(free.o):
+    CODE              Offs=002132  Size=0001D3  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(gotoxy.o):
+    CODE              Offs=002305  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(icmp.o):
+    CODE              Offs=002312  Size=00002E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax1.o):
+    CODE              Offs=002340  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax2.o):
+    CODE              Offs=002347  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax3.o):
+    CODE              Offs=00234E  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incaxy.o):
+    CODE              Offs=002353  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp1.o):
+    CODE              Offs=00235E  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp2.o):
+    CODE              Offs=002365  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp3.o):
+    CODE              Offs=00237B  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp4.o):
+    CODE              Offs=002380  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp6.o):
+    CODE              Offs=002385  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(irq.o):
+    CODE              Offs=00238A  Size=00000F  Align=00001  Fill=0000
+    DATA              Offs=000092  Size=000003  Align=00001  Fill=0000
+    ONCE              Offs=000042  Size=000013  Align=00001  Fill=0000
+    LOWCODE           Offs=000000  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isalnum.o):
+    CODE              Offs=002399  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isdigit.o):
+    CODE              Offs=0023A1  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(isxdigit.o):
+    CODE              Offs=0023A9  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kbhit.o):
+    CODE              Offs=0023B1  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kernal.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kplot.o):
+    CODE              Offs=0023BA  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldai.o):
+    CODE              Offs=0023C5  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxi.o):
+    CODE              Offs=0023D1  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxsp.o):
+    CODE              Offs=0023DE  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(leaaxsp.o):
+    CODE              Offs=0023E7  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lneg.o):
+    CODE              Offs=0023F3  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lpush.o):
+    CODE              Offs=002411  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ltoa.o):
+    CODE              Offs=002432  Size=000095  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mainargs.o):
+    DATA              Offs=000095  Size=000016  Align=00001  Fill=0000
+    ONCE              Offs=000055  Size=000069  Align=00001  Fill=0000
+    INIT              Offs=00001D  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(makebool.o):
+    CODE              Offs=0024C7  Size=00002C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(malloc.o):
+    CODE              Offs=0024F3  Size=00010E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mcbdefault.o):
+    CODE              Offs=002601  Size=000036  Align=00001  Fill=0000
+    RODATA            Offs=00063D  Size=00000C  Align=00001  Fill=0000
+    ONCE              Offs=0000BE  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mcbpointershape.o):
+    ONCE              Offs=0000DF  Size=00003F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mcbspritedata.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(memset.o):
+    CODE              Offs=002637  Size=00005D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(modfree.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(modload.o):
+    CODE              Offs=002694  Size=000205  Align=00001  Fill=0000
+    RODATA            Offs=000649  Size=000008  Align=00001  Fill=0000
+    BSS               Offs=0001A5  Size=000023  Align=00001  Fill=0000
+    DATA              Offs=0000AB  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse-kernel.o):
+    CODE              Offs=002899  Size=0000A2  Align=00001  Fill=0000
+    RODATA            Offs=000651  Size=000004  Align=00001  Fill=0000
+    BSS               Offs=0001C8  Size=000003  Align=00001  Fill=0000
+    DATA              Offs=0000AE  Size=000025  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_buttons.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_getbox.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_geterrormsg.o):
+    CODE              Offs=00293B  Size=000013  Align=00001  Fill=0000
+    RODATA            Offs=000655  Size=000080  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_hide.o):
+    CODE              Offs=00294E  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_info.o):
+    CODE              Offs=00295A  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_load.o):
+    CODE              Offs=002961  Size=00005A  Align=00001  Fill=0000
+    DATA              Offs=0000D3  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_move.o):
+    CODE              Offs=0029BB  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_setbox.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_show.o):
+    CODE              Offs=0029C1  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_stddrv.o):
+    RODATA            Offs=0006D5  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouse_unload.o):
+    CODE              Offs=0029CF  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mouseref.o):
+    DATA              Offs=0000DD  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mul8.o):
+    CODE              Offs=0029ED  Size=00003A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mulax3.o):
+    CODE              Offs=002A27  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(negabs.o):
+    CODE              Offs=002A38  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(open.o):
+    CODE              Offs=002A4A  Size=0000BE  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(oserror.o):
+    CODE              Offs=002B08  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0006E2  Size=00005A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(penadjust.o):
+    CODE              Offs=002B1E  Size=0000A4  Align=00001  Fill=0000
+    BSS               Offs=0001CB  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pencalib.o):
+    CODE              Offs=002BC2  Size=00018A  Align=00001  Fill=0000
+    RODATA            Offs=00073C  Size=000038  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popa.o):
+    CODE              Offs=002D4C  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popptr1.o):
+    CODE              Offs=002D58  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popsreg.o):
+    CODE              Offs=002D66  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(push1.o):
+    CODE              Offs=002D76  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pusha.o):
+    CODE              Offs=002D7B  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushax.o):
+    CODE              Offs=002D91  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushw.o):
+    CODE              Offs=002DAB  Size=00000F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushwsp.o):
+    CODE              Offs=002DBA  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(read.o):
+    CODE              Offs=002DD6  Size=00007C  Align=00001  Fill=0000
+    BSS               Offs=0001CD  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=00011E  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(regswap2.o):
+    CODE              Offs=002E52  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(return0.o):
+    CODE              Offs=002E68  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(return1.o):
+    CODE              Offs=002E6C  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(revers.o):
+    CODE              Offs=002E71  Size=000014  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(rwcommon.o):
+    CODE              Offs=002E85  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(scratch.o):
+    CODE              Offs=002E9F  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(scrsize.o):
+    CODE              Offs=002EB8  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(shelp.o):
+    CODE              Offs=002ECB  Size=000020  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(staspidx.o):
+    CODE              Offs=002EEB  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(status.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(staxsp.o):
+    CODE              Offs=002F01  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlen.o):
+    CODE              Offs=002F0C  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlower.o):
+    CODE              Offs=002F22  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(sub.o):
+    CODE              Offs=002F49  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(subysp.o):
+    CODE              Offs=002F5E  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(tolower.o):
+    CODE              Offs=002F6B  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(toupper.o):
+    CODE              Offs=002F7D  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(udiv.o):
+    CODE              Offs=002F8F  Size=00004F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(vcprintf.o):
+    CODE              Offs=002FDE  Size=000078  Align=00001  Fill=0000
+    DATA              Offs=0000DF  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(wherex.o):
+    CODE              Offs=003056  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(write.o):
+    CODE              Offs=00305B  Size=000052  Align=00001  Fill=0000
+    ONCE              Offs=00012A  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zerobss.o):
+    CODE              Offs=0030AD  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+LOWCODE               000840  000846  000007  00001
+CODE                  000847  003916  0030D0  00001
+RODATA                003917  004092  00077C  00001
+DATA                  004093  004179  0000E7  00001
+INIT                  00417A  0041A8  00002F  00001
+BSS                   0041A9  004376  0001CE  00001
+ONCE                  0041A9  0042F1  000149  00001
+
+
+Exports list by name:
+---------------------
+AdrFlagTab                003AF9 RLA    BASIN                     00FFCF RLA    
+BSOUT                     00FFD2 RLA    CHKIN                     00FFC6 RLA    
+CKOUT                     00FFC9 RLA    CLOSE                     00FFC3 RLA    
+CLRCH                     00FFCC RLA    CURS_X                    0000D3 RLZ    
+CURS_Y                    0000D6 RLZ    MnemoTab1                 003B13 RLA    
+MnemoTab2                 003B53 RLA    OPEN                      00FFC0 RLA    
+OffsetTab                 003AB5 RLA    PLOT                      002C01 RLA    
+READST                    00FFB7 RLA    SCREEN                    00FFED RLA    
+SETLFS                    00FFBA RLA    SETNAM                    00FFBD RLA    
+ST                        000090 RLZ    SymbolTab1                003B07 RLA    
+SymbolTab2                003B0D RLA    _DbgBreaks                0041EA RLA    
+_DbgCS                    00431B RLA    _DbgDisAsm                0024B4 RLA    
+_DbgDisAsmLen             0024E3 RLA    _DbgEntry                 002347 RLA    
+_DbgGetBreakSlot          002743 RLA    _DbgHI                    00431D RLA    
+_DbgInit                  0026AF RLA    _DbgIsBreak               002764 RLA    
+_DbgIsRAM                 002684 RLA    _DbgMemDump               002618 RLA    
+_DbgSP                    00432F RLA    __BSS_RUN__               0041A9 RLA    
+__BSS_SIZE__              0001CE REA    __CALLIRQ__               000001 REA    
+__CONSTRUCTOR_COUNT__     000007 REA    __CONSTRUCTOR_TABLE__     0042E4 RLA    
+__DESTRUCTOR_COUNT__      000003 REA    __DESTRUCTOR_TABLE__      00408B RLA    
+__EXEHDR__                000001 REA    __HEADER_LAST__           00080D RLA    
+__HIMEM__                 00D000 REA    __INTERRUPTOR_COUNT__     000001 REA    
+__INTERRUPTOR_TABLE__     004091 RLA    __LOADADDR__              000001 REA    
+__MAIN_SIZE__             00C7F3 REA    __MAIN_START__            00080D RLA    
+__ONCE_RUN__              0041A9 RLA    __STACKSIZE__             000800 REA    
+__STARTUP__               000001 REA    __ZP_START__              000002 RLA    
+__argc                    0040C1 RLA    __argv                    0040C3 RLA    
+__ctype                   003B93 RLA    __ctypeidx                003B9E RLA    
+__directerrno             000CCF RLA    __errno                   004349 RLA    
+__filetype                004124 RLA    __heapend                 004097 RLA    
+__heapfirst               004099 RLA    __heaplast                00409B RLA    
+__heapptr                 004095 RLA    __hextab                  003A99 RLA    
+__longminstr              003AA9 RLA    __mappederrno             000CD9 RLA    
+__oserror                 0041AC RLA    __osmaperrno              00334F RLA    
+__printf                  000DDC RLA    __seterrno                00108E RLA    
+_bgcolor                  001251 RLA    _bordercolor              001106 RLA    
+_brk_a                    0041D8 RLA    _brk_pc                   0041DC RLA    
+_brk_sr                   0041DB RLA    _brk_x                    0041D9 RLA    
+_brk_y                    0041DA RLA    _bzero                    002E7E RLA    
+_cclearxy                 0011A0 RLA    _cgetc                    0011B5 RLA    
+_chline                   001201 RLA    _chlinexy                 0011FC RLA    
+_close                    001211 RLA    _clrscr                   00E544 REA    
+_cprintf                  001265 RLA    _cputc                    001294 RLA    
+_cputcxy                  00128F RLA    _cputhex16                0012FC RLA    
+_cputhex8                 001302 RLA    _cputs                    001322 RLA    
+_cputsxy                  001318 RLA    _cursor                   001359 RLA    
+_cvlinexy                 001363 RLA    _doesclrscrafterexit      0036AF REA    
+_exit                     000825 RLA    _free                     002979 RLA    
+_gotoxy                   002B4F RLA    _isalnum                  002BE0 RLA    
+_isdigit                  002BE8 RLA    _isxdigit                 002BF0 RLA    
+_kbhit                    002BF8 RLA    _ltoa                     002C91 RLA    
+_main                     00090F RLA    _malloc                   002D3A RLA    
+_mod_free                 002979 REA    _mod_load                 002FB6 RLA    
+_mouse_buttons            004156 REA    _mouse_clear_ptr          003178 RLA    
+_mouse_def_callbacks      003F54 RLA    _mouse_def_pointercolor   003917 RLA    
+_mouse_def_pointershape   004288 RLA    _mouse_drv                004371 RLA    
+_mouse_getbox             004150 RLA    _mouse_geterrormsg        003182 RLA    
+_mouse_hidden             004373 RLA    _mouse_hide               003195 RLA    
+_mouse_info               0031A1 RLA    _mouse_install            0030E0 RLA    
+_mouse_load_driver        0031A8 RLA    _mouse_move               003202 RLA    
+_mouse_setbox             00414D RLA    _mouse_show               003208 RLA    
+_mouse_stddrv             003FEC RLA    _mouse_uninstall          00316A RLA    
+_mouse_unload             003216 RLA    _open                     0032A5 RLA    
+_pen_adjust               003365 RLA    _pen_adjuster             004170 RLA    
+_pen_calibrate            003409 RLA    _read                     00361D RLA    
+_reset_brk                001133  LAI   _revers                   0036B8 RLA    
+_screensize               0036FF RLA    _set_brk                  00110E RLA    
+_strlen                   003753 RLA    _strlower                 003769 RLA    
+_textcolor                001249 RLA    _tolower                  0037B2 RLA    
+_toupper                  0037C4 RLA    _ultoa                    002CD2 RLA    
+_vcprintf                 00386D RLA    _wherex                   00389D RLA    
+_write                    0038A2 RLA    addeq0sp                  0010B3 RLA    
+addeqysp                  0010B5 RLA    addysp                    0010C5 RLA    
+addysp1                   0010C4 RLA    aslax1                    0010D2 RLA    
+axlong                    0010F9 RLA    axulong                   0010FF RLA    
+booleq                    002D14 RLA    callax                    001182 RLA    
+callirq                   0040A3 RLA    callmain                  001189 RLA    
+chlinechar                000040 REZ    closeallfiles             003291  LAI   
+closecmdchannel           002828 RLA    cputdirect                0012B3 RLA    
+ctypemask                 00133B RLA    ctypemaskdirect           00133F RLA    
+cursor                    0041AB RLA    curunit                   004196 RLA    
+cvlinechar                00005D REZ    decax1                    002798 RLA    
+decaxy                    00279F RLA    decsp1                    0027A8 RLA    
+decsp2                    0027B1 RLA    decsp3                    0027BE RLA    
+decsp4                    0027CB RLA    decsp6                    0027D8 RLA    
+decsp8                    0027E5 RLA    devnum                    0000BA RLZ    
+doneirq                   002BD1 RLA    donelib                   001259 RLA    
+fdtab                     0040F0 RLA    fnaddmode                 002968 RLA    
+fncmd                     004100 RLA    fncomplete                002960 RLA    
+fnisfile                  00434D RLA    fnlen                     00434C RLA    
+fnparse                   0028F4 RLA    fnset                     002956 RLA    
+fnunit                    00434B RLA    freefd                    0028CB RLA    
+gotoxy                    002B4C RLA    incax1                    002B87 RLA    
+incax2                    002B8E RLA    incax3                    002B95 RLA    
+incax4                    002B9A RLA    incaxy                    002B9C RLA    
+incsp1                    002BA5 RLA    incsp2                    002BB4 RLA    
+incsp3                    002BC2 RLA    incsp4                    002BC7 RLA    
+incsp6                    002BCC RLA    initcurunit               0041DF  LAI   
+initheap                  0041A9  LAI   initirq                   0041EB RLA    
+initlib                   0041B9 RLA    initmainargs              0041FE RLAI   
+initmcb                   004267  LAI   initstdin                 0042C7  LAI   
+initstdout                0042D3  LAI   irq_done                  002BD1  LAI   
+irq_init                  0041EB  LAI   ldaidx                    002C0C RLA    
+ldax0sp                   002C25 RLA    ldaxi                     002C18 RLA    
+ldaxidx                   002C1A RLA    ldaxysp                   002C27 RLA    
+leaa0sp                   002C2E RLA    leaaxsp                   002C30 RLA    
+mcb_spritememory          000340 RLA    mcb_spritepointer         0007F8 RLA    
+mouse_buttons             004156 RLA    mouse_getbox              004150 RLA    
+mouse_hide                004147 RLA    mouse_info                00415C RLA    
+mouse_irq                 004162  LAI   mouse_libref              004170 RLA    
+mouse_move                004153 RLA    mouse_setbox              00414D RLA    
+mouse_show                00414A RLA    mulax3                    00326E RLA    
+negax                     003283 RLA    negeax                    002C3A RLA    
+newline                   0012C3 RLA    opencmdchannel            0027FB RLA    
+plot                      0012E8 RLA    popa                      003593 RLA    
+popax                     002BAC RLA    popptr1                   00359F RLA    
+popsargsudiv16            003712 RLA    popsreg                   0035AD RLA    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+push1                     0035BD RLA    pusha                     0035C6 RLA    
+pusha0                    0035DA RLA    pushax                    0035DC RLA    
+pusheax                   002C61 RLA    pushw                     0035F2 RLA    
+pushw0sp                  003601 RLA    pushwysp                  003603 RLA    
+putchar                   0012F0 RLA    readdiskerror             002843 RLA    
+regbank                   000016 RLZ    regswap2                  003699 RLA    
+return0                   0036AF RLA    return1                   0036B3 RLA    
+rwcommon                  0036CC RLA    scratch                   0036E6 RLA    
+screensize                00FFED REA    shlax3                    0010DA RLA    
+shlax4                    0010E8 RLA    sp                        000002 RLZ    
+sreg                      000004 RLZ    staspidx                  003732 RLA    
+stax0sp                   003748 RLA    staxysp                   00374A RLA    
+subysp                    0037A5 RLA    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+tmp4                      000015 RLZ    tosaddax                  001099 RLA    
+tosdiva0                  0028B6 RLA    tosicmp                   002B5B RLA    
+tossubax                  003792 RLA    tosumula0                 003234 RLA    
+udiv16                    0037E7 RLA    unittab                   0040F8 RLA    
+writefndiskcmd            00287B RLA    zerobss                   0038F4 RLA    
+
+
+
+Exports list by value:
+----------------------
+__CALLIRQ__               000001 REA    __EXEHDR__                000001 REA    
+__STARTUP__               000001 REA    __INTERRUPTOR_COUNT__     000001 REA    
+__LOADADDR__              000001 REA    __ZP_START__              000002 RLA    
+sp                        000002 RLZ    __DESTRUCTOR_COUNT__      000003 REA    
+sreg                      000004 RLZ    __CONSTRUCTOR_COUNT__     000007 REA    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+regbank                   000016 RLZ    chlinechar                000040 REZ    
+cvlinechar                00005D REZ    ST                        000090 RLZ    
+devnum                    0000BA RLZ    CURS_X                    0000D3 RLZ    
+CURS_Y                    0000D6 RLZ    __BSS_SIZE__              0001CE REA    
+mcb_spritememory          000340 RLA    mcb_spritepointer         0007F8 RLA    
+__STACKSIZE__             000800 REA    __HEADER_LAST__           00080D RLA    
+__MAIN_START__            00080D RLA    _exit                     000825 RLA    
+_main                     00090F RLA    __directerrno             000CCF RLA    
+__mappederrno             000CD9 RLA    __printf                  000DDC RLA    
+__seterrno                00108E RLA    tosaddax                  001099 RLA    
+addeq0sp                  0010B3 RLA    addeqysp                  0010B5 RLA    
+addysp1                   0010C4 RLA    addysp                    0010C5 RLA    
+aslax1                    0010D2 RLA    shlax3                    0010DA RLA    
+shlax4                    0010E8 RLA    axlong                    0010F9 RLA    
+axulong                   0010FF RLA    _bordercolor              001106 RLA    
+_set_brk                  00110E RLA    _reset_brk                001133  LAI   
+callax                    001182 RLA    callmain                  001189 RLA    
+_cclearxy                 0011A0 RLA    _cgetc                    0011B5 RLA    
+_chlinexy                 0011FC RLA    _chline                   001201 RLA    
+_close                    001211 RLA    _textcolor                001249 RLA    
+_bgcolor                  001251 RLA    donelib                   001259 RLA    
+_cprintf                  001265 RLA    _cputcxy                  00128F RLA    
+_cputc                    001294 RLA    cputdirect                0012B3 RLA    
+newline                   0012C3 RLA    plot                      0012E8 RLA    
+putchar                   0012F0 RLA    _cputhex16                0012FC RLA    
+_cputhex8                 001302 RLA    _cputsxy                  001318 RLA    
+_cputs                    001322 RLA    ctypemask                 00133B RLA    
+ctypemaskdirect           00133F RLA    _cursor                   001359 RLA    
+_cvlinexy                 001363 RLA    _DbgEntry                 002347 RLA    
+_DbgDisAsm                0024B4 RLA    _DbgDisAsmLen             0024E3 RLA    
+_DbgMemDump               002618 RLA    _DbgIsRAM                 002684 RLA    
+_DbgInit                  0026AF RLA    _DbgGetBreakSlot          002743 RLA    
+_DbgIsBreak               002764 RLA    decax1                    002798 RLA    
+decaxy                    00279F RLA    decsp1                    0027A8 RLA    
+decsp2                    0027B1 RLA    decsp3                    0027BE RLA    
+decsp4                    0027CB RLA    decsp6                    0027D8 RLA    
+decsp8                    0027E5 RLA    opencmdchannel            0027FB RLA    
+closecmdchannel           002828 RLA    readdiskerror             002843 RLA    
+writefndiskcmd            00287B RLA    tosdiva0                  0028B6 RLA    
+freefd                    0028CB RLA    fnparse                   0028F4 RLA    
+fnset                     002956 RLA    fncomplete                002960 RLA    
+fnaddmode                 002968 RLA    _mod_free                 002979 REA    
+_free                     002979 RLA    gotoxy                    002B4C RLA    
+_gotoxy                   002B4F RLA    tosicmp                   002B5B RLA    
+incax1                    002B87 RLA    incax2                    002B8E RLA    
+incax3                    002B95 RLA    incax4                    002B9A RLA    
+incaxy                    002B9C RLA    incsp1                    002BA5 RLA    
+popax                     002BAC RLA    incsp2                    002BB4 RLA    
+incsp3                    002BC2 RLA    incsp4                    002BC7 RLA    
+incsp6                    002BCC RLA    irq_done                  002BD1  LAI   
+doneirq                   002BD1 RLA    _isalnum                  002BE0 RLA    
+_isdigit                  002BE8 RLA    _isxdigit                 002BF0 RLA    
+_kbhit                    002BF8 RLA    PLOT                      002C01 RLA    
+ldaidx                    002C0C RLA    ldaxi                     002C18 RLA    
+ldaxidx                   002C1A RLA    ldax0sp                   002C25 RLA    
+ldaxysp                   002C27 RLA    leaa0sp                   002C2E RLA    
+leaaxsp                   002C30 RLA    negeax                    002C3A RLA    
+pusheax                   002C61 RLA    _ltoa                     002C91 RLA    
+_ultoa                    002CD2 RLA    booleq                    002D14 RLA    
+_malloc                   002D3A RLA    _bzero                    002E7E RLA    
+_mod_load                 002FB6 RLA    _mouse_install            0030E0 RLA    
+_mouse_uninstall          00316A RLA    _mouse_clear_ptr          003178 RLA    
+_mouse_geterrormsg        003182 RLA    _mouse_hide               003195 RLA    
+_mouse_info               0031A1 RLA    _mouse_load_driver        0031A8 RLA    
+_mouse_move               003202 RLA    _mouse_show               003208 RLA    
+_mouse_unload             003216 RLA    tosumula0                 003234 RLA    
+mulax3                    00326E RLA    negax                     003283 RLA    
+closeallfiles             003291  LAI   _open                     0032A5 RLA    
+__osmaperrno              00334F RLA    _pen_adjust               003365 RLA    
+_pen_calibrate            003409 RLA    popa                      003593 RLA    
+popptr1                   00359F RLA    popsreg                   0035AD RLA    
+push1                     0035BD RLA    pusha                     0035C6 RLA    
+pusha0                    0035DA RLA    pushax                    0035DC RLA    
+pushw                     0035F2 RLA    pushw0sp                  003601 RLA    
+pushwysp                  003603 RLA    _read                     00361D RLA    
+regswap2                  003699 RLA    return0                   0036AF RLA    
+_doesclrscrafterexit      0036AF REA    return1                   0036B3 RLA    
+_revers                   0036B8 RLA    rwcommon                  0036CC RLA    
+scratch                   0036E6 RLA    _screensize               0036FF RLA    
+popsargsudiv16            003712 RLA    staspidx                  003732 RLA    
+stax0sp                   003748 RLA    staxysp                   00374A RLA    
+_strlen                   003753 RLA    _strlower                 003769 RLA    
+tossubax                  003792 RLA    subysp                    0037A5 RLA    
+_tolower                  0037B2 RLA    _toupper                  0037C4 RLA    
+udiv16                    0037E7 RLA    _vcprintf                 00386D RLA    
+_wherex                   00389D RLA    _write                    0038A2 RLA    
+zerobss                   0038F4 RLA    _mouse_def_pointercolor   003917 RLA    
+__hextab                  003A99 RLA    __longminstr              003AA9 RLA    
+OffsetTab                 003AB5 RLA    AdrFlagTab                003AF9 RLA    
+SymbolTab1                003B07 RLA    SymbolTab2                003B0D RLA    
+MnemoTab1                 003B13 RLA    MnemoTab2                 003B53 RLA    
+__ctype                   003B93 RLA    __ctypeidx                003B9E RLA    
+_mouse_def_callbacks      003F54 RLA    _mouse_stddrv             003FEC RLA    
+__DESTRUCTOR_TABLE__      00408B RLA    __INTERRUPTOR_TABLE__     004091 RLA    
+__heapptr                 004095 RLA    __heapend                 004097 RLA    
+__heapfirst               004099 RLA    __heaplast                00409B RLA    
+callirq                   0040A3 RLA    __argc                    0040C1 RLA    
+__argv                    0040C3 RLA    fdtab                     0040F0 RLA    
+unittab                   0040F8 RLA    fncmd                     004100 RLA    
+__filetype                004124 RLA    mouse_hide                004147 RLA    
+mouse_show                00414A RLA    _mouse_setbox             00414D RLA    
+mouse_setbox              00414D RLA    mouse_getbox              004150 RLA    
+_mouse_getbox             004150 RLA    mouse_move                004153 RLA    
+mouse_buttons             004156 RLA    _mouse_buttons            004156 REA    
+mouse_info                00415C RLA    mouse_irq                 004162  LAI   
+mouse_libref              004170 RLA    _pen_adjuster             004170 RLA    
+curunit                   004196 RLA    __ONCE_RUN__              0041A9 RLA    
+initheap                  0041A9  LAI   __BSS_RUN__               0041A9 RLA    
+cursor                    0041AB RLA    __oserror                 0041AC RLA    
+initlib                   0041B9 RLA    _brk_a                    0041D8 RLA    
+_brk_x                    0041D9 RLA    _brk_y                    0041DA RLA    
+_brk_sr                   0041DB RLA    _brk_pc                   0041DC RLA    
+initcurunit               0041DF  LAI   _DbgBreaks                0041EA RLA    
+irq_init                  0041EB  LAI   initirq                   0041EB RLA    
+initmainargs              0041FE RLAI   initmcb                   004267  LAI   
+_mouse_def_pointershape   004288 RLA    initstdin                 0042C7  LAI   
+initstdout                0042D3  LAI   __CONSTRUCTOR_TABLE__     0042E4 RLA    
+_DbgCS                    00431B RLA    _DbgHI                    00431D RLA    
+_DbgSP                    00432F RLA    __errno                   004349 RLA    
+fnunit                    00434B RLA    fnlen                     00434C RLA    
+fnisfile                  00434D RLA    _mouse_drv                004371 RLA    
+_mouse_hidden             004373 RLA    __MAIN_SIZE__             00C7F3 REA    
+__HIMEM__                 00D000 REA    _clrscr                   00E544 REA    
+READST                    00FFB7 RLA    SETLFS                    00FFBA RLA    
+SETNAM                    00FFBD RLA    OPEN                      00FFC0 RLA    
+CLOSE                     00FFC3 RLA    CHKIN                     00FFC6 RLA    
+CKOUT                     00FFC9 RLA    CLRCH                     00FFCC RLA    
+BASIN                     00FFCF RLA    BSOUT                     00FFD2 RLA    
+SCREEN                    00FFED RLA    screensize                00FFED REA    
+
+
+
+Imports list:
+-------------
+AdrFlagTab (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:13
+BASIN (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:47
+    read.o                    cbm/cbm.inc:47
+BSOUT (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:49
+    write.o                   cbm/cbm.inc:49
+    read.o                    cbm/cbm.inc:49
+    crt0.o                    c64/crt0.s:10
+CHKIN (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:44
+    read.o                    cbm/cbm.inc:44
+CKOUT (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:45
+    write.o                   cbm/cbm.inc:45
+CLOSE (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:36
+    close.o                   cbm/cbm.inc:36
+    open.o                    cbm/cbm.inc:36
+CLRCH (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:46
+    write.o                   cbm/cbm.inc:46
+    read.o                    cbm/cbm.inc:46
+CURS_X (conio.o):
+    wherex.o                  cbm/wherex.s:8
+    gotoxy.o                  cbm/gotoxy.s:9
+CURS_Y (conio.o):
+    gotoxy.o                  cbm/gotoxy.s:9
+MnemoTab1 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+MnemoTab2 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+OPEN (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:35
+    write.o                   cbm/cbm.inc:35
+    read.o                    cbm/cbm.inc:35
+    open.o                    cbm/cbm.inc:35
+OffsetTab (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:13
+PLOT (kplot.o):
+    cputc.o                   c64/cputc.s:11
+READST (kernal.o):
+    write.o                   cbm/cbm.inc:32
+    read.o                    cbm/cbm.inc:32
+SCREEN (kernal.o):
+    _scrsize.o                c64/_scrsize.s:8
+SETLFS (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:33
+    write.o                   cbm/cbm.inc:33
+    read.o                    cbm/cbm.inc:33
+    open.o                    cbm/cbm.inc:33
+SETNAM (kernal.o):
+    filename.o                cbm/cbm.inc:34
+    diskcmd.o                 cbm/cbm.inc:34
+ST (status.o):
+    crt0.o                    c64/crt0.s:13
+SymbolTab1 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+SymbolTab2 (asmtab.o):
+    dbgdasm.o                 dbg/dbgdasm.s:14
+_DbgBreaks (dbg.o):
+    dbgsupp.o                 dbg/dbgsupp.s:10
+_DbgCS (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:48
+_DbgDisAsm (dbgdasm.o):
+    dbg.o                     ../libwrk/c64/dbg.s:43
+_DbgDisAsmLen (dbgdasm.o):
+    dbg.o                     ../libwrk/c64/dbg.s:44
+_DbgEntry (dbg.o):
+    dbgsupp.o                 dbg/dbgsupp.s:9
+_DbgGetBreakSlot (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:52
+_DbgHI (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:49
+_DbgInit (dbgsupp.o):
+    mousedemo.o               mousedemo.s:89
+_DbgIsBreak (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:53
+_DbgIsRAM (dbgisram.o):
+    dbg.o                     ../libwrk/c64/dbg.s:45
+_DbgMemDump (dbgdump.o):
+    dbg.o                     ../libwrk/c64/dbg.s:46
+_DbgSP (dbgsupp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:47
+__BSS_RUN__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__CALLIRQ__ (callirq.o):
+    mouse-kernel.o            mouse/mouse-kernel.s:38
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:14
+__INTERRUPTOR_COUNT__ ([linker generated]):
+    callirq.o                 runtime/callirq.s:36
+__INTERRUPTOR_TABLE__ ([linker generated]):
+    callirq.o                 runtime/callirq.s:36
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    mousedemo.o               mousedemo.s:32
+__ZP_START__ ([linker generated]):
+    modload.o                 common/modload.s:42
+    dbgsupp.o                 dbg/dbgsupp.s:12
+__argc (callmain.o):
+    mainargs.o                c64/mainargs.s:26
+__argv (callmain.o):
+    mainargs.o                c64/mainargs.s:26
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__directerrno (_directerrno.o):
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__errno (errno.o):
+    _seterrno.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__filetype (filetype.o):
+    filename.o                cbm/filename.s:11
+__heapend (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:33
+__heapfirst (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+__heaplast (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+__heapptr (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+__hextab (_hextab.o):
+    cputhex.o                 conio/cputhex.s:10
+    ltoa.o                    common/ltoa.s:10
+    dbgdump.o                 dbg/dbgdump.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:13
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__mappederrno (_mappederrno.o):
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__oserror (_oserror.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__osmaperrno (oserror.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:8
+__printf (_printf.o):
+    vcprintf.o                conio/vcprintf.s:9
+__seterrno (_seterrno.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+_bgcolor (color.o):
+    dbg.o                     ../libwrk/c64/dbg.s:26
+    pencalib.o                ../libwrk/c64/pencalib.s:17
+    mousedemo.o               mousedemo.s:84
+_bordercolor (bordercolor.o):
+    dbg.o                     ../libwrk/c64/dbg.s:27
+    mousedemo.o               mousedemo.s:85
+_brk_a (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:38
+_brk_pc (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:42
+_brk_sr (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:41
+_brk_x (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:39
+_brk_y (break.o):
+    dbg.o                     ../libwrk/c64/dbg.s:40
+_bzero (memset.o):
+    modload.o                 common/modload.s:41
+_cclearxy (cclear.o):
+    dbg.o                     ../libwrk/c64/dbg.s:31
+    pencalib.o                ../libwrk/c64/pencalib.s:19
+    mousedemo.o               mousedemo.s:86
+_cgetc (cgetc.o):
+    dbg.o                     ../libwrk/c64/dbg.s:22
+    mousedemo.o               mousedemo.s:81
+_chline (chline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:28
+_chlinexy (chline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:29
+_close (close.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:14
+    open.o                    cbm/open.s:14
+    mouse_load.o              mouse/mouse_load.s:18
+_clrscr (clrscr.o):
+    dbg.o                     ../libwrk/c64/dbg.s:15
+    pencalib.o                ../libwrk/c64/pencalib.s:13
+    mousedemo.o               mousedemo.s:75
+_cprintf (cprintf.o):
+    mousedemo.o               mousedemo.s:80
+_cputc (cputc.o):
+    cputhex.o                 conio/cputhex.s:9
+    dbg.o                     ../libwrk/c64/dbg.s:19
+    vcprintf.o                conio/vcprintf.s:9
+    cputs.o                   conio/cputs.s:9
+_cputcxy (cputc.o):
+    dbg.o                     ../libwrk/c64/dbg.s:20
+_cputhex16 (cputhex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:33
+_cputhex8 (cputhex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:32
+_cputs (cputs.o):
+    mousedemo.o               mousedemo.s:78
+_cputsxy (cputs.o):
+    dbg.o                     ../libwrk/c64/dbg.s:21
+    pencalib.o                ../libwrk/c64/pencalib.s:14
+    mousedemo.o               mousedemo.s:79
+_cursor (cursor.o):
+    dbg.o                     ../libwrk/c64/dbg.s:23
+    mousedemo.o               mousedemo.s:82
+_cvlinexy (cvline.o):
+    dbg.o                     ../libwrk/c64/dbg.s:30
+    pencalib.o                ../libwrk/c64/pencalib.s:18
+_doesclrscrafterexit (doesclrscr.o):
+    mousedemo.o               mousedemo.s:90
+_exit (crt0.o):
+    dbg.o                     ../libwrk/c64/dbg.s:13
+    mousedemo.o               mousedemo.s:62
+_free (free.o):
+    modload.o                 common/modload.s:41
+    modfree.o                 common/modfree.s:36
+_gotoxy (gotoxy.o):
+    dbg.o                     ../libwrk/c64/dbg.s:17
+    mousedemo.o               mousedemo.s:77
+_isalnum (isalnum.o):
+    dbg.o                     ../libwrk/c64/dbg.s:34
+_isdigit (isdigit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:35
+_isxdigit (isxdigit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:36
+_kbhit (kbhit.o):
+    dbg.o                     ../libwrk/c64/dbg.s:16
+    mousedemo.o               mousedemo.s:76
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (mousedemo.o):
+    callmain.o                runtime/callmain.s:11
+_malloc (malloc.o):
+    modload.o                 common/modload.s:41
+_mod_free (modfree.o):
+    mouse_unload.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/modload.inc:66
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/modload.inc:66
+_mod_load (modload.o):
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/modload.inc:60
+_mouse_buttons (mouse_buttons.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:24
+_mouse_clear_ptr (mouse-kernel.o):
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:169
+_mouse_def_callbacks (mcbdefault.o):
+    mousedemo.o               mousedemo.s:63
+_mouse_def_pointercolor (mousedemo.o):
+    mcbdefault.o              c64/mcbdefault.s:13
+_mouse_def_pointershape (mcbpointershape.o):
+    mcbdefault.o              c64/mcbdefault.s:12
+_mouse_drv (mouse-kernel.o):
+    mouse_unload.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:148
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:148
+_mouse_getbox (mouse_getbox.o):
+    mousedemo.o               mousedemo.s:72
+_mouse_geterrormsg (mouse_geterrormsg.o):
+    mousedemo.o               mousedemo.s:68
+_mouse_hidden (mouse-kernel.o):
+    mouse_show.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:149
+    mouse_hide.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:149
+_mouse_hide (mouse_hide.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:21
+    mousedemo.o               mousedemo.s:69
+_mouse_info (mouse_info.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:25
+    mousedemo.o               mousedemo.s:73
+_mouse_install (mouse-kernel.o):
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:156
+_mouse_load_driver (mouse_load.o):
+    mousedemo.o               mousedemo.s:66
+_mouse_move (mouse_move.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:23
+_mouse_setbox (mouse_setbox.o):
+    mousedemo.o               mousedemo.s:71
+_mouse_show (mouse_show.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:22
+    mousedemo.o               mousedemo.s:70
+_mouse_stddrv (mouse_stddrv.o):
+    mousedemo.o               mousedemo.s:65
+_mouse_uninstall (mouse-kernel.o):
+    mouse_unload.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:157
+    mouse_load.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:157
+_mouse_unload (mouse_unload.o):
+    mousedemo.o               mousedemo.s:67
+_open (open.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:13
+    mouse_load.o              mouse/mouse_load.s:16
+_pen_adjust (penadjust.o):
+    mousedemo.o               mousedemo.s:74
+_pen_adjuster (mouseref.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:17
+_pen_calibrate (pencalib.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:18
+_read (read.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:16
+    mouse_load.o              mouse/mouse_load.s:17
+_revers (revers.o):
+    dbg.o                     ../libwrk/c64/dbg.s:24
+    pencalib.o                ../libwrk/c64/pencalib.s:15
+_screensize (scrsize.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:20
+    mousedemo.o               mousedemo.s:87
+_set_brk (break.o):
+    dbgsupp.o                 dbg/dbgsupp.s:9
+_strlen (strlen.o):
+    dbg.o                     ../libwrk/c64/dbg.s:14
+    _printf.o                 common/_printf.s:13
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_textcolor (color.o):
+    dbg.o                     ../libwrk/c64/dbg.s:25
+    pencalib.o                ../libwrk/c64/pencalib.s:16
+    mousedemo.o               mousedemo.s:83
+_tolower (tolower.o):
+    mousedemo.o               mousedemo.s:88
+_toupper (toupper.o):
+    dbg.o                     ../libwrk/c64/dbg.s:37
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vcprintf (vcprintf.o):
+    cprintf.o                 conio/cprintf.s:8
+_wherex (wherex.o):
+    dbg.o                     ../libwrk/c64/dbg.s:18
+_write (write.o):
+    penadjust.o               ../libwrk/c64/penadjust.s:15
+addeq0sp (addeqsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+addeqysp (addeqsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    open.o                    cbm/open.s:10
+    incsp3.o                  runtime/incsp3.s:8
+    cprintf.o                 conio/cprintf.s:8
+    mousedemo.o               mousedemo.s:1132
+addysp1 (addysp.o):
+    dbgdump.o                 dbg/dbgdump.s:8
+    sub.o                     runtime/sub.s:8
+aslax1 (aslax1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+booleq (makebool.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+callax (call.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+callirq (callirq.o):
+    irq.o                     c64/irq.s:6
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+chlinechar (clinechars.o):
+    chline.o                  cbm/chline.s:10
+closecmdchannel (diskcmd.o):
+    close.o                   cbm/close.s:9
+    scratch.o                 cbm/scratch.s:8
+    open.o                    cbm/open.s:12
+cputdirect (cputc.o):
+    chline.o                  cbm/chline.s:9
+    cclear.o                  cbm/cclear.s:9
+ctypemask (ctypemask.o):
+    isxdigit.o                common/isxdigit.s:15
+    isdigit.o                 common/isdigit.s:15
+    isalnum.o                 common/isalnum.s:15
+ctypemaskdirect (ctypemask.o):
+    toupper.o                 common/toupper.s:15
+    strlower.o                common/strlower.s:14
+    tolower.o                 common/tolower.s:15
+cursor (_cursor.o):
+    cursor.o                  conio/cursor.s:8
+    cgetc.o                   c64/cgetc.s:8
+curunit (filevars.o):
+    filename.o                cbm/filename.s:11
+cvlinechar (clinechars.o):
+    cvline.o                  cbm/cvline.s:10
+decax1 (decax1.o):
+    modload.o                 common/modload.s:40
+decaxy (decaxy.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+decsp1 (decsp1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp2 (decsp2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+decsp3 (decsp3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+decsp8 (decsp8.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+devnum (devnum.o):
+    filevars.o                cbm/filevars.s:9
+doneirq (irq.o):
+    callirq.o                 runtime/callirq.s:38
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+fdtab (filedes.o):
+    close.o                   cbm/filedes.inc:7
+    write.o                   cbm/filedes.inc:7
+    read.o                    cbm/filedes.inc:7
+    open.o                    cbm/filedes.inc:7
+fnaddmode (filename.o):
+    open.o                    cbm/open.s:11
+fncmd (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+    scratch.o                 cbm/scratch.s:9
+fncomplete (filename.o):
+    open.o                    cbm/open.s:11
+fnisfile (filename.o):
+    open.o                    cbm/open.s:13
+fnlen (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+fnparse (filename.o):
+    open.o                    cbm/open.s:11
+fnset (filename.o):
+    open.o                    cbm/open.s:11
+fnunit (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+    scratch.o                 cbm/scratch.s:9
+    open.o                    cbm/open.s:13
+freefd (filedes.o):
+    open.o                    cbm/filedes.inc:9
+gotoxy (gotoxy.o):
+    chline.o                  cbm/chline.s:9
+    cvline.o                  cbm/cvline.s:9
+    cputs.o                   conio/cputs.s:9
+    cputc.o                   c64/cputc.s:10
+    cclear.o                  cbm/cclear.s:9
+incax1 (incax1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incax2 (incax2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incax3 (incax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incax4 (incaxy.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+incaxy (incaxy.o):
+    incax3.o                  runtime/incax3.s:8
+incsp1 (incsp1.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+incsp2 (incsp2.o):
+    popsreg.o                 runtime/popsreg.s:8
+    mouse_move.o              mouse/mouse_move.s:12
+    mouse-kernel.o            mouse/mouse-kernel.s:7
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    staspidx.o                runtime/staspidx.s:8
+    popptr1.o                 runtime/popptr1.s:8
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    mouse_load.o              mouse/mouse_load.s:15
+    mousedemo.o               mousedemo.s:1132
+incsp3 (incsp3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    mousedemo.o               mousedemo.s:1132
+incsp4 (incsp4.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+incsp6 (incsp6.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+initirq (irq.o):
+    callirq.o                 runtime/callirq.s:37
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+initmainargs (mainargs.o):
+    mousedemo.o               mousedemo.s:33
+ldaidx (ldai.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+ldax0sp (ldaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+ldaxi (ldaxi.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+ldaxidx (ldaxi.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+ldaxysp (ldaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+leaa0sp (leaaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+leaaxsp (leaaxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+mcb_spritememory (mcbspritedata.o):
+    mcbdefault.o              c64/mcbdefault.s:14
+mcb_spritepointer (mcbspritedata.o):
+    mcbdefault.o              c64/mcbdefault.s:15
+mouse_buttons (mouse-kernel.o):
+    mouse_buttons.o           /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:181
+mouse_getbox (mouse-kernel.o):
+    mouse_getbox.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:179
+mouse_hide (mouse-kernel.o):
+    mouse_hide.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:176
+mouse_info (mouse-kernel.o):
+    mouse_info.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:183
+mouse_libref (mouseref.o):
+    mouse-kernel.o            mouse/mouse-kernel.s:7
+mouse_move (mouse-kernel.o):
+    mouse_move.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:180
+mouse_setbox (mouse-kernel.o):
+    mouse_setbox.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:178
+mouse_show (mouse-kernel.o):
+    mouse_show.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/mouse-kernel.inc:177
+mulax3 (mulax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    div.o                     runtime/div.s:11
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+newline (cputc.o):
+    cvline.o                  cbm/cvline.s:9
+opencmdchannel (diskcmd.o):
+    scratch.o                 cbm/scratch.s:8
+    open.o                    cbm/open.s:12
+plot (cputc.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popa (popa.o):
+    gotoxy.o                  cbm/gotoxy.s:8
+popax (incsp2.o):
+    memset.o                  common/memset.s:19
+    shelp.o                   runtime/shelp.s:11
+    ltoa.o                    common/ltoa.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:12
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+    rwcommon.o                cbm/rwcommon.s:9
+    open.o                    cbm/open.s:10
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    mul8.o                    runtime/mul8.s:9
+    ltoa.o                    common/ltoa.s:9
+    vcprintf.o                conio/vcprintf.s:8
+    scrsize.o                 conio/scrsize.s:9
+    rwcommon.o                cbm/rwcommon.s:9
+    dbgsupp.o                 dbg/dbgsupp.s:9
+popsargsudiv16 (shelp.o):
+    div.o                     runtime/div.s:11
+popsreg (popsreg.o):
+    mouse-kernel.o            mouse/mouse-kernel.s:7
+ptr1 (zeropage.o):
+    memset.o                  common/memset.s:20
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    call.o                    runtime/call.s:8
+    udiv.o                    runtime/udiv.s:10
+    strlower.o                common/strlower.s:13
+    shelp.o                   runtime/shelp.s:12
+    pushw.o                   runtime/pushw.s:9
+    mulax3.o                  runtime/mulax3.s:9
+    mul8.o                    runtime/mul8.s:10
+    mouse-kernel.o            mouse/mouse-kernel.s:8
+    ltoa.o                    common/ltoa.s:11
+    ldaxi.o                   runtime/ldaxi.s:8
+    ldai.o                    runtime/ldai.s:8
+    filename.o                cbm/filename.s:12
+    div.o                     runtime/div.s:12
+    diskcmd.o                 cbm/diskcmd.s:15
+    dbgisram.o                dbg/dbgisram.s:9
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    write.o                   cbm/write.s:11
+    vcprintf.o                conio/vcprintf.s:10
+    staspidx.o                runtime/staspidx.s:9
+    scrsize.o                 conio/scrsize.s:11
+    read.o                    cbm/read.s:13
+    popptr1.o                 runtime/popptr1.s:9
+    pencalib.o                ../libwrk/c64/pencalib.s:11
+    penadjust.o               ../libwrk/c64/penadjust.s:11
+    mouse_info.o              mouse/mouse_info.s:8
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    cputs.o                   conio/cputs.s:10
+    cprintf.o                 conio/cprintf.s:9
+    mousedemo.o               mousedemo.s:11
+ptr2 (zeropage.o):
+    memset.o                  common/memset.s:20
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    strlower.o                common/strlower.s:13
+    strlen.o                  common/strlen.s:12
+    ltoa.o                    common/ltoa.s:11
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    write.o                   cbm/write.s:11
+    vcprintf.o                conio/vcprintf.s:10
+    scrsize.o                 conio/scrsize.s:11
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s:20
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    ltoa.o                    common/ltoa.s:11
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    write.o                   cbm/write.s:11
+    vcprintf.o                conio/vcprintf.s:10
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+ptr4 (zeropage.o):
+    free.o                    common/free.s:62
+    udiv.o                    runtime/udiv.s:10
+    shelp.o                   runtime/shelp.s:12
+    mul8.o                    runtime/mul8.s:10
+    dbgdump.o                 dbg/dbgdump.s:10
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+pusha (pusha.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    mouse_load.o              mouse/mouse_load.s:14
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+pushax (pushax.o):
+    pushw.o                   runtime/pushw.s:8
+    modload.o                 common/modload.s:40
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    callmain.o                runtime/callmain.s:11
+    _printf.o                 common/_printf.s:11
+    vcprintf.o                conio/vcprintf.s:8
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    mouse_load.o              mouse/mouse_load.s:13
+    cprintf.o                 conio/cprintf.s:8
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+pushw (pushw.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+pushw0sp (pushwsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+pushwysp (pushwsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+    mousedemo.o               mousedemo.s:1132
+    mousedemo.o               mousedemo.s:1132
+putchar (cputc.o):
+    cvline.o                  cbm/cvline.s:9
+readdiskerror (diskcmd.o):
+    close.o                   cbm/close.s:9
+    open.o                    cbm/open.s:12
+regbank (zeropage.o):
+    regswap2.o                runtime/regswap2.s:8
+    modload.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+regswap2 (regswap2.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+return0 (return0.o):
+    mouse-kernel.o            mouse/mouse-kernel.s:7
+    dbgisram.o                dbg/dbgisram.s:8
+    mouse_unload.o            mouse/mouse_unload.s:11
+    doesclrscr.o              common/doesclrscr.s:10
+    dbgsupp.o                 dbg/dbgsupp.s:9
+return1 (return1.o):
+    dbgisram.o                dbg/dbgisram.s:8
+rwcommon (rwcommon.o):
+    write.o                   cbm/write.s:10
+    read.o                    cbm/read.s:11
+scratch (scratch.o):
+    open.o                    cbm/open.s:11
+screensize (_scrsize.o):
+    scrsize.o                 conio/scrsize.s:10
+shlax3 (aslax3.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+shlax4 (aslax4.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+sp (zeropage.o):
+    _heap.o                   common/_heap.s:9
+    memset.o                  common/memset.s:20
+    decsp4.o                  runtime/decsp4.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    regswap2.o                runtime/regswap2.s:8
+    popsreg.o                 runtime/popsreg.s:9
+    lpush.o                   runtime/lpush.s:13
+    leaaxsp.o                 runtime/leaaxsp.s:8
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    decsp8.o                  runtime/decsp8.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    add.o                     runtime/add.s:12
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    vcprintf.o                conio/vcprintf.s:10
+    subysp.o                  runtime/subysp.s:9
+    sub.o                     runtime/sub.s:9
+    staxsp.o                  runtime/staxsp.s:8
+    staspidx.o                runtime/staspidx.s:9
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    popa.o                    runtime/popa.s:8
+    pencalib.o                ../libwrk/c64/pencalib.s:10
+    penadjust.o               ../libwrk/c64/penadjust.s:10
+    incsp2.o                  runtime/incsp2.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp2.o                  runtime/decsp2.s:8
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    cprintf.o                 conio/cprintf.s:9
+    addysp.o                  runtime/addysp.s:8
+    mousedemo.o               mousedemo.s:10
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    udiv.o                    runtime/udiv.s:10
+    popsreg.o                 runtime/popsreg.s:9
+    mouse-kernel.o            mouse/mouse-kernel.s:8
+    ltoa.o                    common/ltoa.s:11
+    lpush.o                   runtime/lpush.s:13
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:10
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    icmp.o                    runtime/icmp.s:9
+staspidx (staspidx.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+stax0sp (staxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    penadjust.o               ../libwrk/c64/penadjust.s:116
+staxysp (staxsp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    mousedemo.o               mousedemo.s:1132
+subysp (subysp.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    mousedemo.o               mousedemo.s:1132
+tmp1 (zeropage.o):
+    chline.o                  cbm/chline.s:10
+    aslax4.o                  runtime/aslax4.s:8
+    aslax1.o                  runtime/aslax1.s:8
+    shelp.o                   runtime/shelp.s:12
+    mouse-kernel.o            mouse/mouse-kernel.s:8
+    ltoa.o                    common/ltoa.s:11
+    incaxy.o                  runtime/incaxy.s:8
+    filename.o                cbm/filename.s:12
+    div.o                     runtime/div.s:12
+    diskcmd.o                 cbm/diskcmd.s:15
+    decaxy.o                  runtime/decaxy.s:8
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    dbg.o                     ../libwrk/c64/dbg.s:11
+    cvline.o                  cbm/cvline.s:10
+    aslax3.o                  runtime/aslax3.s:8
+    add.o                     runtime/add.s:12
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    vcprintf.o                conio/vcprintf.s:10
+    staspidx.o                runtime/staspidx.s:9
+    read.o                    cbm/read.s:13
+    dbgsupp.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    cputs.o                   conio/cputs.s:10
+    cclear.o                  cbm/cclear.s:10
+    mousedemo.o               mousedemo.s:11
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s:12
+    mouse-kernel.o            mouse/mouse-kernel.s:8
+    div.o                     runtime/div.s:12
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    close.o                   cbm/close.s:10
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+    open.o                    cbm/open.s:15
+tmp3 (zeropage.o):
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+    read.o                    cbm/read.s:13
+    open.o                    cbm/open.s:15
+tmp4 (zeropage.o):
+    dbgdump.o                 dbg/dbgdump.s:10
+    dbgdasm.o                 dbg/dbgdasm.s:21
+tosaddax (add.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+tosdiva0 (div.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+tosicmp (icmp.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+    mousedemo.o               mousedemo.s:1132
+tossubax (sub.o):
+    dbg.o                     ../libwrk/c64/dbg.s:2888
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+tosumula0 (mul8.o):
+    pencalib.o                ../libwrk/c64/pencalib.s:226
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s:11
+unittab (filedes.o):
+    close.o                   cbm/filedes.inc:8
+    read.o                    cbm/filedes.inc:8
+    open.o                    cbm/filedes.inc:8
+writefndiskcmd (diskcmd.o):
+    scratch.o                 cbm/scratch.s:8
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

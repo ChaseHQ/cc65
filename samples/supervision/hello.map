@@ -1,0 +1,239 @@
+Modules list:
+-------------
+hello.o:
+    CODE              Offs=000000  Size=0001BD  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000038  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(add.o):
+    CODE              Offs=0001BD  Size=000018  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(addysp.o):
+    CODE              Offs=0001D5  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(condes.o):
+    CODE              Offs=0001E3  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(copydata.o):
+    CODE              Offs=0001EF  Size=00002D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(crt0.o):
+    CODE              Offs=00021C  Size=00003B  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000003  Align=00001  Fill=0000
+    FFF0              Offs=000000  Size=000008  Align=00001  Fill=0000
+    VECTORS           Offs=000000  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(decsp1.o):
+    CODE              Offs=000257  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(incaxy.o):
+    CODE              Offs=000260  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(incsp1.o):
+    CODE              Offs=00026B  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(incsp2.o):
+    CODE              Offs=000272  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(incsp5.o):
+    CODE              Offs=000287  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(ldaxsp.o):
+    CODE              Offs=00028C  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(memset.o):
+    CODE              Offs=000295  Size=00005D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(mul.o):
+    CODE              Offs=0002F2  Size=000045  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(mul8.o):
+    CODE              Offs=000337  Size=00003A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(popptr1.o):
+    CODE              Offs=000371  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(pusha.o):
+    CODE              Offs=00037F  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(pushax.o):
+    CODE              Offs=000395  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(staxspi.o):
+    CODE              Offs=0003AF  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(zerobss.o):
+    CODE              Offs=0003C9  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/supervision.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000000  000019  00001A  00001
+DATA                  000200  000224  000025  00001
+BSS                   000225  000227  000003  00001
+ONCE                  008000  00800B  00000C  00001
+CODE                  00800C  0083F7  0003EC  00001
+RODATA                0083F8  00842F  000038  00001
+FFF0                  00FFF0  00FFF7  000008  00001
+VECTORS               00FFFA  00FFFF  000006  00001
+
+
+Exports list by name:
+---------------------
+__BSS_RUN__               000225 RLA    __BSS_SIZE__              000003 REA    
+__CONSTRUCTOR_COUNT__     000000 REA    __CONSTRUCTOR_TABLE__     00800C RLA    
+__DATA_LOAD__             008430 RLA    __DATA_RUN__              000200 RLA    
+__DATA_SIZE__             000025 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      008430 RLA    __RAM_SIZE__              001D00 REA    
+__RAM_START__             000200 RLA    __STACKSIZE__             000100 REA    
+__STARTUP__               000001 REA    __bzero                   0082A1 RLA    
+_main                     0081B0 RLA    addysp                    0081E2 RLA    
+copydata                  0081FB RLA    decsp1                    008263 RLA    
+donelib                   0081EF RLA    incaxy                    00826E RLA    
+incsp1                    008277 RLA    incsp2                    008285 RLA    
+incsp5                    008293 RLA    initlib                   008000 RLA    
+ldaxysp                   00829A RLA    mul8x16                   008345 RLA    
+mul8x16a                  00834F RLA    popax                     00827E RLA    
+popptr1                   00837D RLA    ptr1                      000008 RLZ    
+ptr2                      00000A RLZ    ptr3                      00000C RLZ    
+ptr4                      00000E RLZ    pusha                     00838F RLA    
+pusha0                    0083A3 RLA    pushax                    0083A5 RLA    
+sp                        000000 RLZ    staxspidx                 0083BB RLA    
+tmp1                      000010 RLZ    tosaddax                  0081CB RLA    
+tosmula0                  008343 RLA    tosmulax                  0082FE RLA    
+zerobss                   0083D5 RLA    
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    sp                        000000 RLZ    
+__DESTRUCTOR_COUNT__      000000 REA    __STARTUP__               000001 REA    
+__BSS_SIZE__              000003 REA    ptr1                      000008 RLZ    
+ptr2                      00000A RLZ    ptr3                      00000C RLZ    
+ptr4                      00000E RLZ    tmp1                      000010 RLZ    
+__DATA_SIZE__             000025 REA    __STACKSIZE__             000100 REA    
+__RAM_START__             000200 RLA    __DATA_RUN__              000200 RLA    
+__BSS_RUN__               000225 RLA    __RAM_SIZE__              001D00 REA    
+initlib                   008000 RLA    __CONSTRUCTOR_TABLE__     00800C RLA    
+_main                     0081B0 RLA    tosaddax                  0081CB RLA    
+addysp                    0081E2 RLA    donelib                   0081EF RLA    
+copydata                  0081FB RLA    decsp1                    008263 RLA    
+incaxy                    00826E RLA    incsp1                    008277 RLA    
+popax                     00827E RLA    incsp2                    008285 RLA    
+incsp5                    008293 RLA    ldaxysp                   00829A RLA    
+__bzero                   0082A1 RLA    tosmulax                  0082FE RLA    
+tosmula0                  008343 RLA    mul8x16                   008345 RLA    
+mul8x16a                  00834F RLA    popptr1                   00837D RLA    
+pusha                     00838F RLA    pusha0                    0083A3 RLA    
+pushax                    0083A5 RLA    staxspidx                 0083BB RLA    
+zerobss                   0083D5 RLA    __DATA_LOAD__             008430 RLA    
+__DESTRUCTOR_TABLE__      008430 RLA    
+
+
+Imports list:
+-------------
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DATA_LOAD__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DATA_RUN__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DATA_SIZE__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__RAM_SIZE__ ([linker generated]):
+    crt0.o                    supervision/crt0.s:11
+__RAM_START__ ([linker generated]):
+    crt0.o                    supervision/crt0.s:11
+__STACKSIZE__ ([linker generated]):
+    crt0.o                    supervision/crt0.s:12
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/supervision.cfg:11
+__STARTUP__ (crt0.o):
+    hello.o                   hello.s:13
+__bzero (memset.o):
+    hello.o                   hello.s:366
+_main (hello.o):
+    crt0.o                    supervision/crt0.s:8
+addysp (addysp.o):
+    incsp5.o                  runtime/incsp5.s:8
+copydata (copydata.o):
+    crt0.o                    supervision/crt0.s:9
+decsp1 (decsp1.o):
+    hello.o                   hello.s:366
+donelib (condes.o):
+    crt0.o                    supervision/crt0.s:9
+incaxy (incaxy.o):
+    hello.o                   hello.s:366
+incsp1 (incsp1.o):
+    hello.o                   hello.s:366
+incsp2 (incsp2.o):
+    staxspi.o                 runtime/staxspi.s:9
+    popptr1.o                 runtime/popptr1.s:8
+    hello.o                   hello.s:366
+incsp5 (incsp5.o):
+    hello.o                   hello.s:366
+initlib (condes.o):
+    crt0.o                    supervision/crt0.s:9
+ldaxysp (ldaxsp.o):
+    hello.o                   hello.s:366
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+popax (incsp2.o):
+    memset.o                  common/memset.s:19
+popptr1 (popptr1.o):
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+ptr1 (zeropage.o):
+    copydata.o                common/copydata.s:9
+    zerobss.o                 common/zerobss.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    popptr1.o                 runtime/popptr1.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    memset.o                  common/memset.s:20
+    hello.o                   hello.s:11
+ptr2 (zeropage.o):
+    copydata.o                common/copydata.s:9
+    memset.o                  common/memset.s:20
+    hello.o                   hello.s:11
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s:20
+ptr4 (zeropage.o):
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+pusha (pusha.o):
+    hello.o                   hello.s:366
+    hello.o                   hello.s:366
+    hello.o                   hello.s:366
+pusha0 (pushax.o):
+    hello.o                   hello.s:366
+pushax (pushax.o):
+    hello.o                   hello.s:366
+    hello.o                   hello.s:366
+sp (zeropage.o):
+    addysp.o                  runtime/addysp.s:8
+    staxspi.o                 runtime/staxspi.s:10
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    memset.o                  common/memset.s:20
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    add.o                     runtime/add.s:12
+    hello.o                   hello.s:10
+staxspidx (staxspi.o):
+    hello.o                   hello.s:366
+tmp1 (zeropage.o):
+    copydata.o                common/copydata.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    mul.o                     runtime/mul.s:10
+    incaxy.o                  runtime/incaxy.s:8
+tosaddax (add.o):
+    hello.o                   hello.s:366
+tosmula0 (mul8.o):
+    hello.o                   hello.s:366
+tosmulax (mul.o):
+    hello.o                   hello.s:366
+zerobss (zerobss.o):
+    crt0.o                    supervision/crt0.s:10
+

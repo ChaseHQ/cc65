@@ -1,0 +1,165 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65'
+make -C src     --no-print-directory all
+ 
+BUILD_ID: Git e95db437a
+ 
+make[1]: Nothing to be done for 'all'.
+ 
+make -C libsrc  --no-print-directory all
+ 
+make --no-print-directory dani1
+ 
+echo dani1 - dani1/read.s
+../bin/ca65 -t dani1  --create-dep ../libwrk/dani1/read.d -o ../libwrk/dani1/read.o dani1/read.s
+ 
+../bin/ar65 a ../lib/dani1.lib ../libwrk/dani1/read.o
+ 
+make --no-print-directory apple2
+ 
+make[2]: Nothing to be done for 'apple2'.
+ 
+make --no-print-directory apple2enh
+ 
+make[2]: Nothing to be done for 'apple2enh'.
+ 
+make --no-print-directory atari
+ 
+make[2]: Nothing to be done for 'atari'.
+ 
+make --no-print-directory atarixl
+ 
+make[2]: Nothing to be done for 'atarixl'.
+ 
+make --no-print-directory atari2600
+ 
+make[2]: Nothing to be done for 'atari2600'.
+ 
+make --no-print-directory atari5200
+ 
+make[2]: Nothing to be done for 'atari5200'.
+ 
+make --no-print-directory atari7800
+ 
+make[2]: Nothing to be done for 'atari7800'.
+ 
+make --no-print-directory atmos
+ 
+make[2]: Nothing to be done for 'atmos'.
+ 
+make --no-print-directory creativision
+ 
+make[2]: Nothing to be done for 'creativision'.
+ 
+make --no-print-directory c128
+ 
+make[2]: Nothing to be done for 'c128'.
+ 
+make --no-print-directory c16
+ 
+make[2]: Nothing to be done for 'c16'.
+ 
+make --no-print-directory c64
+ 
+make[2]: Nothing to be done for 'c64'.
+ 
+make --no-print-directory cbm510
+ 
+make[2]: Nothing to be done for 'cbm510'.
+ 
+make --no-print-directory cbm610
+ 
+make[2]: Nothing to be done for 'cbm610'.
+ 
+make --no-print-directory cx16
+ 
+make[2]: Nothing to be done for 'cx16'.
+ 
+make --no-print-directory pet
+ 
+make[2]: Nothing to be done for 'pet'.
+ 
+make --no-print-directory plus4
+ 
+make[2]: Nothing to be done for 'plus4'.
+ 
+make --no-print-directory vic20
+ 
+make[2]: Nothing to be done for 'vic20'.
+ 
+make --no-print-directory geos-apple
+ 
+make[2]: Nothing to be done for 'geos-apple'.
+ 
+make --no-print-directory geos-cbm
+ 
+make[2]: Nothing to be done for 'geos-cbm'.
+ 
+make --no-print-directory gamate
+ 
+make[2]: Nothing to be done for 'gamate'.
+ 
+make --no-print-directory lynx
+ 
+make[2]: Nothing to be done for 'lynx'.
+ 
+make --no-print-directory nes
+ 
+make[2]: Nothing to be done for 'nes'.
+ 
+make --no-print-directory none
+ 
+make[2]: Nothing to be done for 'none'.
+ 
+make --no-print-directory osic1p
+ 
+make[2]: Nothing to be done for 'osic1p'.
+ 
+make --no-print-directory pce
+ 
+make[2]: Nothing to be done for 'pce'.
+ 
+make --no-print-directory sim6502
+ 
+make[2]: Nothing to be done for 'sim6502'.
+ 
+make --no-print-directory sim65c02
+ 
+make[2]: Nothing to be done for 'sim65c02'.
+ 
+make --no-print-directory supervision
+ 
+make[2]: Nothing to be done for 'supervision'.
+ 
+make --no-print-directory sym1
+ 
+make[2]: Nothing to be done for 'sym1'.
+ 
+make --no-print-directory telestrat
+ 
+make[2]: Nothing to be done for 'telestrat'.
+ 
+make -C doc     --no-print-directory all
+ 
+make[1]: Nothing to be done for 'all'.
+ 
+make -C util    --no-print-directory all
+ 
+make -C atari --no-print-directory atari
+ 
+make[2]: Nothing to be done for 'atari'.
+ 
+make -C gamate --no-print-directory gamate
+ 
+make[2]: Nothing to be done for 'gamate'.
+ 
+make -C zlib --no-print-directory zlib
+ 
+echo "deflater needs zlib installed, use 'make deflater' to build"
+ 
+make -C samples --no-print-directory all
+ 
+make[1]: Nothing to be done for 'all'.
+ 
+make: Leaving directory '/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65'
+ 

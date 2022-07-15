@@ -1,0 +1,1184 @@
+Modules list:
+-------------
+multidemo.o:
+    CODE              Offs=000000  Size=00051A  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=00028A  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000018  Align=00001  Fill=0000
+    OVERLAY1          Offs=000000  Size=000007  Align=00001  Fill=0000
+    OVERLAY2          Offs=000000  Size=000007  Align=00001  Fill=0000
+    OVERLAY3          Offs=000000  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_directerrno.o):
+    CODE              Offs=00051A  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_file.o):
+    DATA              Offs=000018  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_heap.o):
+    DATA              Offs=000036  Size=00000A  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_hextab.o):
+    RODATA            Offs=00028A  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_longminstr.o):
+    RODATA            Offs=00029A  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_mappederrno.o):
+    CODE              Offs=000524  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_oserror.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_printf.o):
+    CODE              Offs=000534  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=000040  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(_seterrno.o):
+    CODE              Offs=0008D9  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(add.o):
+    CODE              Offs=0008E2  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(addysp.o):
+    CODE              Offs=0008FE  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(axlong.o):
+    CODE              Offs=00090C  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(c_load.o):
+    CODE              Offs=000919  Size=00001D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(c_setlfs.o):
+    CODE              Offs=000936  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(c_setnam.o):
+    CODE              Offs=000944  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(callmain.o):
+    CODE              Offs=000957  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000043  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cbm_filetype.o):
+    CODE              Offs=00096E  Size=000013  Align=00001  Fill=0000
+    RODATA            Offs=0002A6  Size=000014  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(cbm_load.o):
+    CODE              Offs=000981  Size=000044  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(close.o):
+    CODE              Offs=0009C5  Size=000038  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(closedir.o):
+    CODE              Offs=0009FD  Size=00001D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(condes.o):
+    CODE              Offs=000A1A  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000047  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000010  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00001C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctype.o):
+    RODATA            Offs=0002BA  Size=00008B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ctypemask.o):
+    CODE              Offs=000A26  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(curdevice.o):
+    CODE              Offs=000A44  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decax1.o):
+    CODE              Offs=000A4A  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decax4.o):
+    CODE              Offs=000A51  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp1.o):
+    CODE              Offs=000A58  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp2.o):
+    CODE              Offs=000A61  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp3.o):
+    CODE              Offs=000A6E  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp4.o):
+    CODE              Offs=000A7B  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp6.o):
+    CODE              Offs=000A88  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(decsp8.o):
+    CODE              Offs=000A95  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(devnum.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(dir.o):
+    CODE              Offs=000AA2  Size=000041  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(diskcmd.o):
+    CODE              Offs=000AE3  Size=0000C4  Align=00001  Fill=0000
+    BSS               Offs=00002C  Size=000017  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(doesclrscr.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(em-kernel.o):
+    RODATA            Offs=000345  Size=000051  Align=00001  Fill=0000
+    BSS               Offs=000043  Size=000002  Align=00001  Fill=0000
+    DATA              Offs=00006C  Size=000018  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(em_copyfrom.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(em_copyto.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(em_load.o):
+    CODE              Offs=000BA7  Size=00005A  Align=00001  Fill=0000
+    DATA              Offs=000084  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(em_pagecount.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(errno.o):
+    BSS               Offs=000045  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(fgetc.o):
+    CODE              Offs=000C01  Size=00008A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filedes.o):
+    CODE              Offs=000C8B  Size=00000E  Align=00001  Fill=0000
+    DATA              Offs=00008E  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filename.o):
+    CODE              Offs=000C99  Size=0000A0  Align=00001  Fill=0000
+    BSS               Offs=000047  Size=000003  Align=00001  Fill=0000
+    DATA              Offs=00009E  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filetype.o):
+    DATA              Offs=0000C2  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(filevars.o):
+    INIT              Offs=00001C  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=000036  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(free.o):
+    CODE              Offs=000D39  Size=0001D3  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(fwrite.o):
+    CODE              Offs=000F0C  Size=00007B  Align=00001  Fill=0000
+    BSS               Offs=00004A  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(getchar.o):
+    CODE              Offs=000F87  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(icmp.o):
+    CODE              Offs=000F90  Size=00002E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax1.o):
+    CODE              Offs=000FBE  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incax2.o):
+    CODE              Offs=000FC5  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incaxy.o):
+    CODE              Offs=000FCC  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp1.o):
+    CODE              Offs=000FD7  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp2.o):
+    CODE              Offs=000FDE  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp3.o):
+    CODE              Offs=000FF4  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp5.o):
+    CODE              Offs=000FF9  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp6.o):
+    CODE              Offs=000FFE  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(incsp8.o):
+    CODE              Offs=001003  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(kernal.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxi.o):
+    CODE              Offs=001008  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ldaxsp.o):
+    CODE              Offs=001015  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(leaaxsp.o):
+    CODE              Offs=00101E  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(libref.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lneg.o):
+    CODE              Offs=00102A  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(lpush.o):
+    CODE              Offs=001048  Size=000021  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(ltoa.o):
+    CODE              Offs=001069  Size=000095  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(makebool.o):
+    CODE              Offs=0010FE  Size=00002C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(malloc.o):
+    CODE              Offs=00112A  Size=00010E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(memcpy.o):
+    CODE              Offs=001238  Size=00003C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(memset.o):
+    CODE              Offs=001274  Size=00005D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(modfree.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(modload.o):
+    CODE              Offs=0012D1  Size=000205  Align=00001  Fill=0000
+    RODATA            Offs=000396  Size=000008  Align=00001  Fill=0000
+    BSS               Offs=00004C  Size=000023  Align=00001  Fill=0000
+    DATA              Offs=0000C3  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mul.o):
+    CODE              Offs=0014D6  Size=000045  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(mul8.o):
+    CODE              Offs=00151B  Size=00003A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(open.o):
+    CODE              Offs=001555  Size=0000BE  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(opendir.o):
+    CODE              Offs=001613  Size=000108  Align=00001  Fill=0000
+    RODATA            Offs=00039E  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(oserror.o):
+    CODE              Offs=00171B  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0003A0  Size=00005A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(overlayaddr.o):
+    OVL1ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL2ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL3ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL4ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL5ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL6ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL7ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL8ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+    OVL9ADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popa.o):
+    CODE              Offs=001731  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(popptr1.o):
+    CODE              Offs=00173D  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(printf.o):
+    CODE              Offs=00174B  Size=000033  Align=00001  Fill=0000
+    BSS               Offs=00006F  Size=000001  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(push1.o):
+    CODE              Offs=00177E  Size=000005  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pusha.o):
+    CODE              Offs=001783  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushax.o):
+    CODE              Offs=001799  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(pushwsp.o):
+    CODE              Offs=0017B3  Size=00001C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(read.o):
+    CODE              Offs=0017CF  Size=00007C  Align=00001  Fill=0000
+    BSS               Offs=000070  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=000042  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(readdir.o):
+    CODE              Offs=00184B  Size=0001D5  Align=00001  Fill=0000
+    RODATA            Offs=0003FA  Size=000008  Align=00001  Fill=0000
+    BSS               Offs=000071  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(realloc.o):
+    CODE              Offs=001A20  Size=000145  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(regswap2.o):
+    CODE              Offs=001B65  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(return0.o):
+    CODE              Offs=001B7B  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(rwcommon.o):
+    CODE              Offs=001B7F  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(scratch.o):
+    CODE              Offs=001B99  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(status.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(staxsp.o):
+    CODE              Offs=001BB2  Size=00000B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strcpy.o):
+    CODE              Offs=001BBD  Size=00001F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(stricmp.o):
+    CODE              Offs=001BDC  Size=000043  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlen.o):
+    CODE              Offs=001C1F  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strlower.o):
+    CODE              Offs=001C35  Size=000027  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(strrchr.o):
+    CODE              Offs=001C5C  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(subeqsp.o):
+    CODE              Offs=001C80  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(subysp.o):
+    CODE              Offs=001C95  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(udiv.o):
+    CODE              Offs=001CA2  Size=00004F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(vfprintf.o):
+    CODE              Offs=001CF1  Size=000061  Align=00001  Fill=0000
+    DATA              Offs=0000C6  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(write.o):
+    CODE              Offs=001D52  Size=000052  Align=00001  Fill=0000
+    ONCE              Offs=00004E  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zerobss.o):
+    CODE              Offs=001DA4  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  002606  001DC7  00001
+RODATA                002607  002A0A  000404  00001
+DATA                  002A0B  002AD8  0000CE  00001
+INIT                  002AD9  002AF5  00001D  00001
+BSS                   002AF6  002B7F  00008A  00001
+ONCE                  002AF6  002B5C  000067  00001
+OVL1ADDR              00BFFE  00BFFF  000002  00001
+OVL2ADDR              00BFFE  00BFFF  000002  00001
+OVL3ADDR              00BFFE  00BFFF  000002  00001
+OVL4ADDR              00BFFE  00BFFF  000002  00001
+OVL5ADDR              00BFFE  00BFFF  000002  00001
+OVL6ADDR              00BFFE  00BFFF  000002  00001
+OVL7ADDR              00BFFE  00BFFF  000002  00001
+OVL8ADDR              00BFFE  00BFFF  000002  00001
+OVL9ADDR              00BFFE  00BFFF  000002  00001
+OVERLAY1              00C000  00C006  000007  00001
+OVERLAY2              00C000  00C006  000007  00001
+OVERLAY3              00C000  00C006  000007  00001
+
+
+Exports list by name:
+---------------------
+BASIN                     00FFCF RLA    BSOUT                     00FFD2 RLA    
+CHKIN                     00FFC6 RLA    CKOUT                     00FFC9 RLA    
+CLOSE                     00FFC3 RLA    CLRCH                     00FFCC RLA    
+LOAD                      00FFD5 RLA    OPEN                      00FFC0 RLA    
+READST                    00FFB7 RLA    SETLFS                    00FFBA RLA    
+SETNAM                    00FFBD RLA    ST                        000090 RLZ    
+__BSS_RUN__               002AF6 RLA    __BSS_SIZE__              00008A REA    
+__CONSTRUCTOR_COUNT__     000004 REA    __CONSTRUCTOR_TABLE__     002B55 RLA    
+__DESTRUCTOR_COUNT__      000001 REA    __DESTRUCTOR_TABLE__      002A09 RLA    
+__EXEHDR__                000001 REA    __HEADER_LAST__           00080D RLA    
+__HIMEM__                 00D000 REA    __LOADADDR__              000001 REA    
+__MAIN_SIZE__             00B7F3 REA    __MAIN_START__            00080D RLA    
+__ONCE_RUN__              002AF6 RLA    __OVERLAY1_LOAD__         00C000 RLA    
+__OVERLAY1_SIZE__         000007 REA    __OVERLAY2_LOAD__         00C000 RLA    
+__OVERLAY2_SIZE__         000007 REA    __OVERLAY3_LOAD__         00C000 RLA    
+__OVERLAY3_SIZE__         000007 REA    __OVERLAYADDR__           000001 REA    
+__OVERLAYSIZE__           001000 REA    __OVERLAYSTART__          00C000 REA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+__ZP_START__              000002 RLA    __cbm_filetype            0011AE RLA    
+__ctype                   0028C1 RLA    __ctypeidx                0028CC RLA    
+__directerrno             000D5A RLA    __dirread                 0012E7 RLA    
+__dirread1                0012E2 RLA    __errno                   002B3B RLA    
+__filetype                002ACD RLA    __heapend                 002A45 RLA    
+__heapfirst               002A47 RLA    __heaplast                002A49 RLA    
+__heapptr                 002A43 RLA    __hextab                  002891 RLA    
+__longminstr              0028A1 RLA    __mappederrno             000D64 RLA    
+__oserror                 002AF6 RLA    __osmaperrno              001F5B RLA    
+__printf                  000E67 RLA    __seterrno                001119 RLA    
+_bzero                    001AB4 RLA    _cbm_k_load               001159 RLA    
+_cbm_k_setlfs             001176 RLA    _cbm_k_setnam             001184 RLA    
+_cbm_load                 0011C1 RLA    _close                    001205 RLA    
+_closedir                 00123D RLA    _doesclrscrafterexit      0023BB REA    
+_em_copyfrom              002A89 REA    _em_copyto                002A8C REA    
+_em_drv                   002B39 RLA    _em_install               002950 RLA    
+_em_load_driver           0013E7 RLA    _em_pagecount             002A7D REA    
+_exit                     000825 RLA    _fgetc                    001441 RLA    
+_free                     001579 RLA    _fwrite                   00174C RLA    
+_getchar                  0017C7 RLA    _getcurrentdevice         001284 RLA    
+_ltoa                     0018C1 RLA    _main                     000CE8 RLA    
+_malloc                   00196A RLA    _memcpy                   001A78 RLA    
+_mod_free                 001579 REA    _mod_load                 001BEC RLA    
+_open                     001DA9 RLA    _opendir                  001E53 RLA    
+_printf                   001F8B RLA    _read                     00200F RLA    
+_readdir                  00208B RLA    _realloc                  002260 RLA    
+_stdin                    002A3B RLA    _stdout                   002A3D RLA    
+_strcasecmp               00241C RLA    _strcpy                   0023FD RLA    
+_strlen                   00245F RLA    _strlower                 002475 RLA    
+_strrchr                  00249C RLA    _ultoa                    001902 RLA    
+_vfprintf                 002569 RLA    _write                    002592 RLA    
+addysp                    00113F RLA    axlong                    00114C RLA    
+axulong                   001152 RLA    booleq                    001944 RLA    
+boolne                    00193E RLA    callmain                  001197 RLA    
+closeallfiles             001D95  LAI   closecmdchannel           001359 RLA    
+ctypemaskdirect           00126A RLA    curunit                   002AF5 RLA    
+decax1                    00128A RLA    decax4                    001291 RLA    
+decsp1                    001298 RLA    decsp2                    0012A1 RLA    
+decsp3                    0012AE RLA    decsp4                    0012BB RLA    
+decsp6                    0012C8 RLA    decsp8                    0012D5 RLA    
+devnum                    0000BA RLZ    donelib                   00125A RLA    
+em_clear_ptr              002993 RLA    em_libref                 000825 RLA    
+emd_copyfrom              002A89 RLA    emd_copyto                002A8C RLA    
+emd_pagecount             002A7D RLA    fdtab                     002A99 RLA    
+fnaddmode                 001568 RLA    fncmd                     002AA9 RLA    
+fncomplete                001560 RLA    fnisfile                  002B3F RLA    
+fnlen                     002B3E RLA    fnparse                   0014F4 RLA    
+fnset                     001556 RLA    fnunit                    002B3D RLA    
+freefd                    0014CB RLA    incax1                    0017FE RLA    
+incax2                    001805 RLA    incax4                    00180C RLA    
+incsp1                    001817 RLA    incsp2                    001826 RLA    
+incsp3                    001834 RLA    incsp5                    001839 RLA    
+incsp6                    00183E RLA    incsp8                    001843 RLA    
+initcurunit               002B2C  LAI   initheap                  002AF6  LAI   
+initlib                   002B06 RLA    initstdin                 002B38  LAI   
+initstdout                002B44  LAI   ldax0sp                   001855 RLA    
+ldaxidx                   00184A RLA    ldaxysp                   001857 RLA    
+leaa0sp                   00185E RLA    mul8x16                   001D5D RLA    
+mul8x16a                  001D67 RLA    negeax                    00186A RLA    
+opencmdchannel            00132C RLA    popa                      001F71 RLA    
+popax                     00181E RLA    popptr1                   001F7D RLA    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+push0                     001FD9 RLA    push1                     001FBE RLA    
+pusha                     001FC7 RLA    pusha0                    001FDB RLA    
+pushax                    001FDD RLA    pusheax                   001891 RLA    
+pushw0sp                  001FF3 RLA    pushwysp                  001FF5 RLA    
+readdiskerror             001374 RLA    regbank                   000016 RLZ    
+regsave                   000006 RLZ    regswap2                  0023A5 RLA    
+return0                   0023BB RLA    rwcommon                  0023BF RLA    
+scratch                   0023D9 RLA    sp                        000002 RLZ    
+sreg                      000004 RLZ    stax0sp                   0023F2 RLA    
+staxysp                   0023F4 RLA    subeqysp                  0024C2 RLA    
+subysp                    0024D5 RLA    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+tosaddax                  001124 RLA    tosicmp                   0017D2 RLA    
+tosmula0                  001D5B RLA    tosudivax                 0024E4 RLA    
+tosumula0                 001D5B RLA    tosumulax                 001D16 RLA    
+unittab                   002AA1 RLA    writefndiskcmd            0013AC RLA    
+zerobss                   0025E4 RLA    
+
+
+Exports list by value:
+----------------------
+__STARTUP__               000001 REA    __DESTRUCTOR_COUNT__      000001 REA    
+__LOADADDR__              000001 REA    __OVERLAYADDR__           000001 REA    
+__EXEHDR__                000001 REA    sp                        000002 RLZ    
+__ZP_START__              000002 RLA    __CONSTRUCTOR_COUNT__     000004 REA    
+sreg                      000004 RLZ    regsave                   000006 RLZ    
+__OVERLAY2_SIZE__         000007 REA    __OVERLAY1_SIZE__         000007 REA    
+__OVERLAY3_SIZE__         000007 REA    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+regbank                   000016 RLZ    __BSS_SIZE__              00008A REA    
+ST                        000090 RLZ    devnum                    0000BA RLZ    
+__STACKSIZE__             000800 REA    __MAIN_START__            00080D RLA    
+__HEADER_LAST__           00080D RLA    em_libref                 000825 RLA    
+_exit                     000825 RLA    _main                     000CE8 RLA    
+__directerrno             000D5A RLA    __mappederrno             000D64 RLA    
+__printf                  000E67 RLA    __OVERLAYSIZE__           001000 REA    
+__seterrno                001119 RLA    tosaddax                  001124 RLA    
+addysp                    00113F RLA    axlong                    00114C RLA    
+axulong                   001152 RLA    _cbm_k_load               001159 RLA    
+_cbm_k_setlfs             001176 RLA    _cbm_k_setnam             001184 RLA    
+callmain                  001197 RLA    __cbm_filetype            0011AE RLA    
+_cbm_load                 0011C1 RLA    _close                    001205 RLA    
+_closedir                 00123D RLA    donelib                   00125A RLA    
+ctypemaskdirect           00126A RLA    _getcurrentdevice         001284 RLA    
+decax1                    00128A RLA    decax4                    001291 RLA    
+decsp1                    001298 RLA    decsp2                    0012A1 RLA    
+decsp3                    0012AE RLA    decsp4                    0012BB RLA    
+decsp6                    0012C8 RLA    decsp8                    0012D5 RLA    
+__dirread1                0012E2 RLA    __dirread                 0012E7 RLA    
+opencmdchannel            00132C RLA    closecmdchannel           001359 RLA    
+readdiskerror             001374 RLA    writefndiskcmd            0013AC RLA    
+_em_load_driver           0013E7 RLA    _fgetc                    001441 RLA    
+freefd                    0014CB RLA    fnparse                   0014F4 RLA    
+fnset                     001556 RLA    fncomplete                001560 RLA    
+fnaddmode                 001568 RLA    _mod_free                 001579 REA    
+_free                     001579 RLA    _fwrite                   00174C RLA    
+_getchar                  0017C7 RLA    tosicmp                   0017D2 RLA    
+incax1                    0017FE RLA    incax2                    001805 RLA    
+incax4                    00180C RLA    incsp1                    001817 RLA    
+popax                     00181E RLA    incsp2                    001826 RLA    
+incsp3                    001834 RLA    incsp5                    001839 RLA    
+incsp6                    00183E RLA    incsp8                    001843 RLA    
+ldaxidx                   00184A RLA    ldax0sp                   001855 RLA    
+ldaxysp                   001857 RLA    leaa0sp                   00185E RLA    
+negeax                    00186A RLA    pusheax                   001891 RLA    
+_ltoa                     0018C1 RLA    _ultoa                    001902 RLA    
+boolne                    00193E RLA    booleq                    001944 RLA    
+_malloc                   00196A RLA    _memcpy                   001A78 RLA    
+_bzero                    001AB4 RLA    _mod_load                 001BEC RLA    
+tosumulax                 001D16 RLA    tosmula0                  001D5B RLA    
+tosumula0                 001D5B RLA    mul8x16                   001D5D RLA    
+mul8x16a                  001D67 RLA    closeallfiles             001D95  LAI   
+_open                     001DA9 RLA    _opendir                  001E53 RLA    
+__osmaperrno              001F5B RLA    popa                      001F71 RLA    
+popptr1                   001F7D RLA    _printf                   001F8B RLA    
+push1                     001FBE RLA    pusha                     001FC7 RLA    
+push0                     001FD9 RLA    pusha0                    001FDB RLA    
+pushax                    001FDD RLA    pushw0sp                  001FF3 RLA    
+pushwysp                  001FF5 RLA    _read                     00200F RLA    
+_readdir                  00208B RLA    _realloc                  002260 RLA    
+regswap2                  0023A5 RLA    return0                   0023BB RLA    
+_doesclrscrafterexit      0023BB REA    rwcommon                  0023BF RLA    
+scratch                   0023D9 RLA    stax0sp                   0023F2 RLA    
+staxysp                   0023F4 RLA    _strcpy                   0023FD RLA    
+_strcasecmp               00241C RLA    _strlen                   00245F RLA    
+_strlower                 002475 RLA    _strrchr                  00249C RLA    
+subeqysp                  0024C2 RLA    subysp                    0024D5 RLA    
+tosudivax                 0024E4 RLA    _vfprintf                 002569 RLA    
+_write                    002592 RLA    zerobss                   0025E4 RLA    
+__hextab                  002891 RLA    __longminstr              0028A1 RLA    
+__ctype                   0028C1 RLA    __ctypeidx                0028CC RLA    
+_em_install               002950 RLA    em_clear_ptr              002993 RLA    
+__DESTRUCTOR_TABLE__      002A09 RLA    _stdin                    002A3B RLA    
+_stdout                   002A3D RLA    __heapptr                 002A43 RLA    
+__heapend                 002A45 RLA    __heapfirst               002A47 RLA    
+__heaplast                002A49 RLA    _em_pagecount             002A7D REA    
+emd_pagecount             002A7D RLA    _em_copyfrom              002A89 REA    
+emd_copyfrom              002A89 RLA    emd_copyto                002A8C RLA    
+_em_copyto                002A8C REA    fdtab                     002A99 RLA    
+unittab                   002AA1 RLA    fncmd                     002AA9 RLA    
+__filetype                002ACD RLA    curunit                   002AF5 RLA    
+initheap                  002AF6  LAI   __oserror                 002AF6 RLA    
+__BSS_RUN__               002AF6 RLA    __ONCE_RUN__              002AF6 RLA    
+initlib                   002B06 RLA    initcurunit               002B2C  LAI   
+initstdin                 002B38  LAI   _em_drv                   002B39 RLA    
+__errno                   002B3B RLA    fnunit                    002B3D RLA    
+fnlen                     002B3E RLA    fnisfile                  002B3F RLA    
+initstdout                002B44  LAI   __CONSTRUCTOR_TABLE__     002B55 RLA    
+__MAIN_SIZE__             00B7F3 REA    __OVERLAY2_LOAD__         00C000 RLA    
+__OVERLAY1_LOAD__         00C000 RLA    __OVERLAY3_LOAD__         00C000 RLA    
+__OVERLAYSTART__          00C000 REA    __HIMEM__                 00D000 REA    
+READST                    00FFB7 RLA    SETLFS                    00FFBA RLA    
+SETNAM                    00FFBD RLA    OPEN                      00FFC0 RLA    
+CLOSE                     00FFC3 RLA    CHKIN                     00FFC6 RLA    
+CKOUT                     00FFC9 RLA    CLRCH                     00FFCC RLA    
+BASIN                     00FFCF RLA    BSOUT                     00FFD2 RLA    
+LOAD                      00FFD5 RLA    
+
+
+Imports list:
+-------------
+BASIN (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:47
+    read.o                    cbm/cbm.inc:47
+BSOUT (kernal.o):
+    write.o                   cbm/cbm.inc:49
+    diskcmd.o                 cbm/cbm.inc:49
+    read.o                    cbm/cbm.inc:49
+    crt0.o                    c64/crt0.s:10
+CHKIN (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:44
+    read.o                    cbm/cbm.inc:44
+CKOUT (kernal.o):
+    write.o                   cbm/cbm.inc:45
+    diskcmd.o                 cbm/cbm.inc:45
+CLOSE (kernal.o):
+    diskcmd.o                 cbm/cbm.inc:36
+    close.o                   cbm/cbm.inc:36
+    open.o                    cbm/cbm.inc:36
+CLRCH (kernal.o):
+    write.o                   cbm/cbm.inc:46
+    diskcmd.o                 cbm/cbm.inc:46
+    read.o                    cbm/cbm.inc:46
+LOAD (kernal.o):
+    c_load.o                  cbm/cbm.inc:37
+OPEN (kernal.o):
+    write.o                   cbm/cbm.inc:35
+    diskcmd.o                 cbm/cbm.inc:35
+    read.o                    cbm/cbm.inc:35
+    open.o                    cbm/cbm.inc:35
+READST (kernal.o):
+    write.o                   cbm/cbm.inc:32
+    read.o                    cbm/cbm.inc:32
+SETLFS (kernal.o):
+    write.o                   cbm/cbm.inc:33
+    diskcmd.o                 cbm/cbm.inc:33
+    c_setlfs.o                cbm/cbm.inc:33
+    read.o                    cbm/cbm.inc:33
+    open.o                    cbm/cbm.inc:33
+SETNAM (kernal.o):
+    filename.o                cbm/cbm.inc:34
+    diskcmd.o                 cbm/cbm.inc:34
+    c_setnam.o                cbm/cbm.inc:34
+ST (status.o):
+    crt0.o                    c64/crt0.s:13
+__BSS_RUN__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:17
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:17
+__HIMEM__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:11
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:18
+__OVERLAY1_LOAD__ ([linker generated]):
+    multidemo.o               multidemo.s:69
+__OVERLAY1_SIZE__ ([linker generated]):
+    multidemo.o               multidemo.s:70
+__OVERLAY2_LOAD__ ([linker generated]):
+    multidemo.o               multidemo.s:71
+__OVERLAY2_SIZE__ ([linker generated]):
+    multidemo.o               multidemo.s:72
+__OVERLAY3_LOAD__ ([linker generated]):
+    multidemo.o               multidemo.s:73
+__OVERLAY3_SIZE__ ([linker generated]):
+    multidemo.o               multidemo.s:74
+__OVERLAYADDR__ (overlayaddr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:7
+__OVERLAYSIZE__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:36
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:11
+__OVERLAYSTART__ ([linker generated]):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:36
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:35
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:34
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:33
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:32
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:31
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:30
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:29
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:28
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:27
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:26
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:24
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:23
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:22
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:21
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:20
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:19
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:18
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:17
+__STACKSIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/c64-overlay.cfg:18
+__STARTUP__ (crt0.o):
+    multidemo.o               multidemo.s:28
+__ZP_START__ ([linker generated]):
+    modload.o                 common/modload.s:42
+__cbm_filetype (cbm_filetype.o):
+    readdir.o                 ../libwrk/c64/readdir.s:14
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__directerrno (_directerrno.o):
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__dirread (dir.o):
+    readdir.o                 ../libwrk/c64/readdir.s:16
+    opendir.o                 ../libwrk/c64/opendir.s:18
+__dirread1 (dir.o):
+    readdir.o                 ../libwrk/c64/readdir.s:17
+__errno (errno.o):
+    dir.o                     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    _seterrno.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    readdir.o                 ../libwrk/c64/readdir.s:13
+    opendir.o                 ../libwrk/c64/opendir.s:16
+__filetype (filetype.o):
+    filename.o                cbm/filename.s:11
+__heapend (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:33
+    realloc.o                 ../libwrk/c64/realloc.s:18
+__heapfirst (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:34
+__heaplast (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:35
+__heapptr (_heap.o):
+    malloc.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+    realloc.o                 ../libwrk/c64/realloc.s:17
+    free.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/_heap.inc:32
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s:10
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__mappederrno (_mappederrno.o):
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    close.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:10
+__oserror (_oserror.o):
+    write.o                   /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    c_load.o                  cbm/c_load.s:10
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    read.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+    open.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:7
+__osmaperrno (oserror.o):
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:8
+__printf (_printf.o):
+    vfprintf.o                common/vfprintf.s:10
+__seterrno (_seterrno.o):
+    fwrite.o                  /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+    _mappederrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+    _directerrno.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/errno.inc:9
+_bzero (memset.o):
+    modload.o                 common/modload.s:41
+_cbm_k_load (c_load.o):
+    cbm_load.o                ../libwrk/c64/cbm_load.s:13
+_cbm_k_setlfs (c_setlfs.o):
+    cbm_load.o                ../libwrk/c64/cbm_load.s:14
+_cbm_k_setnam (c_setnam.o):
+    cbm_load.o                ../libwrk/c64/cbm_load.s:15
+_cbm_load (cbm_load.o):
+    multidemo.o               multidemo.s:67
+_close (close.o):
+    open.o                    cbm/open.s:14
+    em_load.o                 em/em_load.s:18
+    closedir.o                cbm/closedir.s:13
+_closedir (closedir.o):
+    multidemo.o               multidemo.s:61
+_doesclrscrafterexit (doesclrscr.o):
+    multidemo.o               multidemo.s:66
+_em_copyfrom (em_copyfrom.o):
+    multidemo.o               multidemo.s:64
+_em_copyto (em_copyto.o):
+    multidemo.o               multidemo.s:65
+_em_drv (em-kernel.o):
+    em_load.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:74
+_em_install (em-kernel.o):
+    em_load.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:98
+_em_load_driver (em_load.o):
+    multidemo.o               multidemo.s:62
+_em_pagecount (em_pagecount.o):
+    multidemo.o               multidemo.s:63
+_exit (crt0.o):
+    libref.o                  c64/libref.s:11
+_fgetc (fgetc.o):
+    getchar.o                 ../libwrk/c64/getchar.s:14
+_free (free.o):
+    realloc.o                 ../libwrk/c64/realloc.s:15
+    modload.o                 common/modload.s:41
+    modfree.o                 common/modfree.s:36
+    closedir.o                cbm/closedir.s:13
+    multidemo.o               multidemo.s:58
+_fwrite (fwrite.o):
+    vfprintf.o                common/vfprintf.s:10
+_getchar (getchar.o):
+    multidemo.o               multidemo.s:55
+_getcurrentdevice (curdevice.o):
+    multidemo.o               multidemo.s:68
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (multidemo.o):
+    callmain.o                runtime/callmain.s:11
+_malloc (malloc.o):
+    realloc.o                 ../libwrk/c64/realloc.s:13
+    opendir.o                 ../libwrk/c64/opendir.s:13
+    modload.o                 common/modload.s:41
+_memcpy (memcpy.o):
+    realloc.o                 ../libwrk/c64/realloc.s:16
+    opendir.o                 ../libwrk/c64/opendir.s:14
+_mod_free (modfree.o):
+    em_load.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/modload.inc:66
+_mod_load (modload.o):
+    em_load.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/modload.inc:60
+_open (open.o):
+    opendir.o                 ../libwrk/c64/opendir.s:15
+    em_load.o                 em/em_load.s:16
+_opendir (opendir.o):
+    multidemo.o               multidemo.s:59
+_printf (printf.o):
+    multidemo.o               multidemo.s:56
+_read (read.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:14
+    dir.o                     cbm/dir.s:12
+    em_load.o                 em/em_load.s:17
+_readdir (readdir.o):
+    multidemo.o               multidemo.s:60
+_realloc (realloc.o):
+    multidemo.o               multidemo.s:57
+_stdin (_file.o):
+    getchar.o                 ../libwrk/c64/getchar.s:13
+_stdout (_file.o):
+    printf.o                  common/printf.s:8
+_strcasecmp (stricmp.o):
+    multidemo.o               multidemo.s:54
+_strcpy (strcpy.o):
+    multidemo.o               multidemo.s:52
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s:13
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_strrchr (strrchr.o):
+    multidemo.o               multidemo.s:53
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vfprintf (vfprintf.o):
+    printf.o                  common/printf.s:8
+_write (write.o):
+    fwrite.o                  common/fwrite.s:10
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    fwrite.o                  common/fwrite.s:11
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    printf.o                  common/printf.s:8
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    open.o                    cbm/open.s:10
+    incsp8.o                  runtime/incsp8.s:8
+    incsp5.o                  runtime/incsp5.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    multidemo.o               multidemo.s:1348
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+booleq (makebool.o):
+    cbm_load.o                ../libwrk/c64/cbm_load.s:61
+boolne (makebool.o):
+    multidemo.o               multidemo.s:1348
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+closecmdchannel (diskcmd.o):
+    close.o                   cbm/close.s:9
+    scratch.o                 cbm/scratch.s:8
+    open.o                    cbm/open.s:12
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s:14
+    stricmp.o                 common/stricmp.s:17
+curunit (filevars.o):
+    filename.o                cbm/filename.s:11
+    curdevice.o               cbm/curdevice.s:8
+decax1 (decax1.o):
+    modload.o                 common/modload.s:40
+decax4 (decax4.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+decsp1 (decsp1.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+decsp2 (decsp2.o):
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    multidemo.o               multidemo.s:1348
+decsp3 (decsp3.o):
+    multidemo.o               multidemo.s:1348
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    multidemo.o               multidemo.s:1348
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+    realloc.o                 ../libwrk/c64/realloc.s:194
+decsp8 (decsp8.o):
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+devnum (devnum.o):
+    filevars.o                cbm/filevars.s:9
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+em_clear_ptr (em-kernel.o):
+    em_load.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:91
+em_libref (libref.o):
+    em-kernel.o               em/em-kernel.s:7
+emd_copyfrom (em-kernel.o):
+    em_copyfrom.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:85
+emd_copyto (em-kernel.o):
+    em_copyto.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:86
+emd_pagecount (em-kernel.o):
+    em_pagecount.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/em-kernel.inc:81
+fdtab (filedes.o):
+    write.o                   cbm/filedes.inc:7
+    close.o                   cbm/filedes.inc:7
+    read.o                    cbm/filedes.inc:7
+    open.o                    cbm/filedes.inc:7
+fnaddmode (filename.o):
+    open.o                    cbm/open.s:11
+fncmd (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+    scratch.o                 cbm/scratch.s:9
+fncomplete (filename.o):
+    open.o                    cbm/open.s:11
+fnisfile (filename.o):
+    open.o                    cbm/open.s:13
+fnlen (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+fnparse (filename.o):
+    open.o                    cbm/open.s:11
+fnset (filename.o):
+    open.o                    cbm/open.s:11
+fnunit (filename.o):
+    diskcmd.o                 cbm/diskcmd.s:14
+    scratch.o                 cbm/scratch.s:9
+    open.o                    cbm/open.s:13
+freefd (filedes.o):
+    open.o                    cbm/filedes.inc:9
+incax1 (incax1.o):
+    opendir.o                 ../libwrk/c64/opendir.s:158
+incax2 (incax2.o):
+    opendir.o                 ../libwrk/c64/opendir.s:158
+incax4 (incaxy.o):
+    readdir.o                 ../libwrk/c64/readdir.s:259
+incsp1 (incsp1.o):
+    multidemo.o               multidemo.s:1348
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+incsp3 (incsp3.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    multidemo.o               multidemo.s:1348
+incsp5 (incsp5.o):
+    cbm_load.o                ../libwrk/c64/cbm_load.s:61
+incsp6 (incsp6.o):
+    fwrite.o                  common/fwrite.s:11
+    vfprintf.o                common/vfprintf.s:9
+incsp8 (incsp8.o):
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+ldax0sp (ldaxsp.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+ldaxidx (ldaxi.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+ldaxysp (ldaxsp.o):
+    fwrite.o                  common/fwrite.s:11
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    cbm_load.o                ../libwrk/c64/cbm_load.s:61
+leaa0sp (leaaxsp.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    opendir.o                 ../libwrk/c64/opendir.s:158
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+opencmdchannel (diskcmd.o):
+    scratch.o                 cbm/scratch.s:8
+    open.o                    cbm/open.s:12
+popa (popa.o):
+    c_setlfs.o                cbm/c_setlfs.s:12
+    c_load.o                  cbm/c_load.s:11
+popax (incsp2.o):
+    memset.o                  common/memset.s:19
+    memcpy.o                  common/memcpy.s:14
+    ltoa.o                    common/ltoa.s:9
+    _printf.o                 common/_printf.s:11
+    strrchr.o                 common/strrchr.s:9
+    strcpy.o                  common/strcpy.s:8
+    rwcommon.o                cbm/rwcommon.s:9
+    open.o                    cbm/open.s:10
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    mul.o                     runtime/mul.s:9
+    memcpy.o                  common/memcpy.s:14
+    ltoa.o                    common/ltoa.s:9
+    stricmp.o                 common/stricmp.s:15
+    rwcommon.o                cbm/rwcommon.s:9
+    mul8.o                    runtime/mul8.s:9
+ptr1 (zeropage.o):
+    write.o                   cbm/write.s:11
+    udiv.o                    runtime/udiv.s:10
+    strlower.o                common/strlower.s:13
+    mul.o                     runtime/mul.s:10
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    malloc.o                  common/malloc.s:108
+    ltoa.o                    common/ltoa.s:11
+    ldaxi.o                   runtime/ldaxi.s:8
+    fwrite.o                  common/fwrite.s:14
+    filename.o                cbm/filename.s:12
+    em-kernel.o               em/em-kernel.s:8
+    diskcmd.o                 cbm/diskcmd.s:15
+    dir.o                     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    c_setnam.o                cbm/c_setnam.s:10
+    c_load.o                  cbm/c_load.s:12
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    vfprintf.o                common/vfprintf.s:11
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    strcpy.o                  common/strcpy.s:9
+    readdir.o                 ../libwrk/c64/readdir.s:11
+    read.o                    cbm/read.s:13
+    printf.o                  common/printf.s:9
+    popptr1.o                 runtime/popptr1.s:9
+    opendir.o                 ../libwrk/c64/opendir.s:11
+    mul8.o                    runtime/mul8.s:10
+    free.o                    common/free.s:62
+    closedir.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    multidemo.o               multidemo.s:11
+ptr2 (zeropage.o):
+    write.o                   cbm/write.s:11
+    strlower.o                common/strlower.s:13
+    strlen.o                  common/strlen.s:12
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    malloc.o                  common/malloc.s:108
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    stricmp.o                 common/stricmp.s:16
+    strcpy.o                  common/strcpy.s:9
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+    free.o                    common/free.s:62
+ptr3 (zeropage.o):
+    write.o                   cbm/write.s:11
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    malloc.o                  common/malloc.s:108
+    ltoa.o                    common/ltoa.s:11
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+    free.o                    common/free.s:62
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    mul.o                     runtime/mul.s:10
+    mul8.o                    runtime/mul8.s:10
+    free.o                    common/free.s:62
+push0 (pushax.o):
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+    vfprintf.o                common/vfprintf.s:9
+pusha (pusha.o):
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    cbm_load.o                ../libwrk/c64/cbm_load.s:61
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    em_load.o                 em/em_load.s:14
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+pushax (pushax.o):
+    fwrite.o                  common/fwrite.s:11
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    dir.o                     cbm/dir.s:11
+    callmain.o                runtime/callmain.s:11
+    _printf.o                 common/_printf.s:11
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    printf.o                  common/printf.s:8
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    modload.o                 common/modload.s:40
+    em_load.o                 em/em_load.s:13
+    cbm_load.o                ../libwrk/c64/cbm_load.s:61
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+pushw0sp (pushwsp.o):
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+pushwysp (pushwsp.o):
+    fwrite.o                  common/fwrite.s:11
+    vfprintf.o                common/vfprintf.s:9
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+readdiskerror (diskcmd.o):
+    close.o                   cbm/close.s:9
+    open.o                    cbm/open.s:12
+regbank (zeropage.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:10
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+    regswap2.o                runtime/regswap2.s:8
+    realloc.o                 ../libwrk/c64/realloc.s:10
+    readdir.o                 ../libwrk/c64/readdir.s:10
+    opendir.o                 ../libwrk/c64/opendir.s:10
+    modload.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:14
+regsave (zeropage.o):
+    multidemo.o               multidemo.s:10
+regswap2 (regswap2.o):
+    fgetc.o                   ../libwrk/c64/fgetc.s:95
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    opendir.o                 ../libwrk/c64/opendir.s:158
+return0 (return0.o):
+    em-kernel.o               em/em-kernel.s:7
+    doesclrscr.o              common/doesclrscr.s:10
+rwcommon (rwcommon.o):
+    write.o                   cbm/write.s:10
+    read.o                    cbm/read.s:11
+scratch (scratch.o):
+    open.o                    cbm/open.s:11
+sp (zeropage.o):
+    popa.o                    runtime/popa.s:8
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    lpush.o                   runtime/lpush.s:13
+    leaaxsp.o                 runtime/leaaxsp.s:8
+    fgetc.o                   ../libwrk/c64/fgetc.s:10
+    dir.o                     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    decsp6.o                  runtime/decsp6.s:8
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    _heap.o                   common/_heap.s:9
+    vfprintf.o                common/vfprintf.s:11
+    subysp.o                  runtime/subysp.s:9
+    subeqsp.o                 runtime/subeqsp.s:8
+    staxsp.o                  runtime/staxsp.s:8
+    regswap2.o                runtime/regswap2.s:8
+    realloc.o                 ../libwrk/c64/realloc.s:10
+    readdir.o                 ../libwrk/c64/readdir.s:10
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    printf.o                  common/printf.s:9
+    popptr1.o                 runtime/popptr1.s:9
+    opendir.o                 ../libwrk/c64/opendir.s:10
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp8.o                  runtime/decsp8.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    cbm_load.o                ../libwrk/c64/cbm_load.s:10
+    addysp.o                  runtime/addysp.s:8
+    add.o                     runtime/add.s:12
+    multidemo.o               multidemo.s:10
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    udiv.o                    runtime/udiv.s:10
+    ltoa.o                    common/ltoa.s:11
+    lpush.o                   runtime/lpush.s:13
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    icmp.o                    runtime/icmp.s:9
+stax0sp (staxsp.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+staxysp (staxsp.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+    opendir.o                 ../libwrk/c64/opendir.s:158
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+    multidemo.o               multidemo.s:1348
+subeqysp (subeqsp.o):
+    realloc.o                 ../libwrk/c64/realloc.s:194
+subysp (subysp.o):
+    readdir.o                 ../libwrk/c64/readdir.s:259
+    opendir.o                 ../libwrk/c64/opendir.s:158
+tmp1 (zeropage.o):
+    mul.o                     runtime/mul.s:10
+    ltoa.o                    common/ltoa.s:11
+    incaxy.o                  runtime/incaxy.s:8
+    filename.o                cbm/filename.s:12
+    diskcmd.o                 cbm/diskcmd.s:15
+    dir.o                     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    c_setlfs.o                cbm/c_setlfs.s:13
+    _printf.o                 /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    realloc.o                 ../libwrk/c64/realloc.s:11
+    readdir.o                 ../libwrk/c64/readdir.s:11
+    read.o                    cbm/read.s:13
+    add.o                     runtime/add.s:12
+    multidemo.o               multidemo.s:11
+tmp2 (zeropage.o):
+    close.o                   cbm/close.s:10
+    strrchr.o                 common/strrchr.s:10
+    stricmp.o                 common/stricmp.s:16
+    rwcommon.o                cbm/rwcommon.s:10
+    read.o                    cbm/read.s:13
+    open.o                    cbm/open.s:15
+tmp3 (zeropage.o):
+    read.o                    cbm/read.s:13
+    open.o                    cbm/open.s:15
+tosaddax (add.o):
+    multidemo.o               multidemo.s:1348
+tosicmp (icmp.o):
+    multidemo.o               multidemo.s:1348
+tosmula0 (mul8.o):
+    multidemo.o               multidemo.s:1348
+tosudivax (udiv.o):
+    fwrite.o                  common/fwrite.s:12
+tosumula0 (mul8.o):
+    multidemo.o               multidemo.s:1348
+tosumulax (mul.o):
+    fwrite.o                  common/fwrite.s:12
+unittab (filedes.o):
+    close.o                   cbm/filedes.inc:8
+    read.o                    cbm/filedes.inc:8
+    open.o                    cbm/filedes.inc:8
+writefndiskcmd (diskcmd.o):
+    scratch.o                 cbm/scratch.s:8
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

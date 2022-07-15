@@ -1,0 +1,568 @@
+Modules list:
+-------------
+mandelbrot.o:
+    CODE              Offs=000000  Size=000256  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(addysp.o):
+    CODE              Offs=000256  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(asreax1.o):
+    CODE              Offs=000264  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(asreax2.o):
+    CODE              Offs=000274  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(axlong.o):
+    CODE              Offs=00028D  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(bootldr.o):
+    BOOTLDR           Offs=000000  Size=0000CB  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(callirq.o):
+    DATA              Offs=000000  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(callmain.o):
+    CODE              Offs=00029A  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000004  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(condes.o):
+    CODE              Offs=0002B1  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000022  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(crt0.o):
+    RODATA            Offs=000000  Size=00002C  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=00006D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(decax1.o):
+    CODE              Offs=0002BD  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(decsp4.o):
+    CODE              Offs=0002C4  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(decsp6.o):
+    CODE              Offs=0002D1  Size=00000D  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(defdir.o):
+    DIRECTORY         Offs=000000  Size=000008  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=000040  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(extzp.o):
+    EXTZP             Offs=000000  Size=000019  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(icmp.o):
+    CODE              Offs=0002DE  Size=00002E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(incsp2.o):
+    CODE              Offs=00030C  Size=000015  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(irq.o):
+    CODE              Offs=000321  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00000D  Align=00001  Fill=0000
+    LOWCODE           Offs=000000  Size=000010  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(ladd.o):
+    CODE              Offs=000322  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(lmul.o):
+    CODE              Offs=000346  Size=000059  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(lpush.o):
+    CODE              Offs=00039F  Size=00001E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(lsub.o):
+    CODE              Offs=0003BD  Size=000024  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(negabs.o):
+    CODE              Offs=0003E1  Size=000012  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(popa.o):
+    CODE              Offs=0003F3  Size=00000A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(popptr1.o):
+    CODE              Offs=0003FD  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(pusha.o):
+    CODE              Offs=00040B  Size=000016  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(pushax.o):
+    CODE              Offs=000421  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi-kernel.o):
+    CODE              Offs=00043B  Size=00007F  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000004  Align=00001  Fill=0000
+    BSS               Offs=00000E  Size=000028  Align=00001  Fill=0000
+    DATA              Offs=000047  Size=000039  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_clear.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_colors.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_done.o):
+    CODE              Offs=0004BA  Size=00000E  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_getcolorcount.o):
+    CODE              Offs=0004C8  Size=000006  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_getset.o):
+    CODE              Offs=0004CE  Size=00001F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_getxres.o):
+    CODE              Offs=0004ED  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_getyres.o):
+    CODE              Offs=0004F4  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_init.o):
+    CODE              Offs=0004FB  Size=000058  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_irq.o):
+    DATA              Offs=000080  Size=000003  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_popxy.o):
+    CODE              Offs=000553  Size=000007  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_setcolor.o):
+    CODE              Offs=00055A  Size=000013  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_setpixel.o):
+    CODE              Offs=00056D  Size=000009  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_settextstyle.o):
+    CODE              Offs=000576  Size=000042  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(tgi_stat_stddrv.o):
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(udiv.o):
+    CODE              Offs=0005B8  Size=00004F  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(umod.o):
+    CODE              Offs=000607  Size=000011  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(umul8x16r24.o):
+    CODE              Offs=000618  Size=00002B  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(zerobss.o):
+    CODE              Offs=000643  Size=000023  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+/cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/lib/lynx.lib(lynx-160-102-16-tgi.o):
+    CODE              Offs=000666  Size=00039E  Align=00001  Fill=0000
+    RODATA            Offs=000030  Size=000324  Align=00001  Fill=0000
+    BSS               Offs=000036  Size=0000BD  Align=00001  Fill=0000
+    DATA              Offs=000083  Size=000090  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+DIRECTORY             000000  000007  000008  00001
+EXEHDR                000000  00003F  000040  00001
+ZEROPAGE              000000  000019  00001A  00001
+EXTZP                 00001A  000032  000019  00001
+BOOTLDR               000200  0002CA  0000CB  00001
+STARTUP               000200  00026C  00006D  00001
+LOWCODE               00026D  00027C  000010  00001
+ONCE                  00027D  000297  00001B  00001
+CODE                  000298  000C9B  000A04  00001
+RODATA                000C9C  000FF3  000358  00001
+DATA                  000FF4  001106  000113  00001
+BSS                   001107  0011F9  0000F3  00001
+
+
+Exports list by name:
+---------------------
+_FileBlockByte            00002F RLZ    _FileBlockOffset          000027 RLZ    
+_FileCurrBlock            00002E RLZ    _FileDestAddr             00002A RLZ    
+_FileDestPtr              000031 RLZ    _FileEntry                000026 RLZ    
+_FileFileLen              00002C RLZ    _FileStartBlock           000026 RLZ    
+__BANK0BLOCKSIZE__        000400 REA    __BANK1BLOCKSIZE__        000000 REA    
+__BOOTLDR__               000001 REA    __BSS_LOAD__              001107 RLA    
+__BSS_RUN__               001107 RLA    __BSS_SIZE__              0000F3 REA    
+__CALLIRQ__               000001 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__CONSTRUCTOR_TABLE__     000296 RLA    __DEFDIR__                000001 REA    
+__DESTRUCTOR_COUNT__      000001 REA    __DESTRUCTOR_TABLE__      000FF0 RLA    
+__EXEHDR__                000001 REA    __INTERRUPTOR_COUNT__     000001 REA    
+__INTERRUPTOR_TABLE__     000FF2 RLA    __MAIN_SIZE__             00B638 REA    
+__MAIN_START__            000200 RLA    __STACKSIZE__             000800 REA    
+__STARTOFDIRECTORY__      0000CB REA    __STARTUP_LOAD__          000200 RLA    
+__STARTUP__               000001 REA    __iodat                   00001A RLZ    
+__iodir                   00001B RLZ    __sprsys                  00001D RLZ    
+__viddma                  00001C RLZ    _abs                      000679 RLA    
+_lynx_160_102_16_tgi      001077 RLA    _main                     0004B8 RLA    
+_tgi_clear                00104D REA    _tgi_color                00111D RLA    
+_tgi_colorcount           001136 RLA    _tgi_done                 000752 RLA    
+_tgi_error                001117 RLA    _tgi_flags                00113C RLA    
+_tgi_font                 00111E RLA    _tgi_fontheight           001139 RLA    
+_tgi_fontwidth            001138 RLA    _tgi_getcolorcount        000760 RLA    
+_tgi_getxres              000785 RLA    _tgi_getyres              00078C RLA    
+_tgi_gmode                001118 RLA    _tgi_init                 000793 RLA    
+_tgi_install              0006D3 RLA    _tgi_setcolor             0007F2 RLA    
+_tgi_setpixel             000805 RLA    _tgi_settextstyle         00080E RLA    
+_tgi_static_stddrv        001077 RLA    _tgi_textdir              00111F RLA    
+_tgi_textscalew           001122 RLA    _tgi_xmax                 00112E RLA    
+_tgi_xres                 001132 RLA    _tgi_ymax                 001130 RLA    
+_tgi_yres                 001134 RLA    addysp                    0004EF RLA    
+addysp1                   0004EE RLA    asreax1                   0004FC RLA    
+asreax2                   00050C RLA    axlong                    000525 RLA    
+callirq                   000FF4 RLA    callmain                  000532 RLA    
+decax1                    000555 RLA    decsp4                    00055C RLA    
+decsp6                    000569 RLA    doneirq                   0005B9 RLA    
+donelib                   000549 RLA    incsp2                    0005AB RLA    
+initirq                   000289 RLA    initlib                   00027D RLA    
+irq_done                  0005B9  LAI   irq_init                  000289  LAI   
+popa                      00068B RLA    popax                     0005A4 RLA    
+popptr1                   000695 RLA    ptr1                      000008 RLZ    
+ptr2                      00000A RLZ    ptr3                      00000C RLZ    
+ptr4                      00000E RLZ    pusha                     0006A7 RLA    
+pusha0                    0006BB RLA    pushax                    0006BD RLA    
+pusheax                   00063E RLA    regbank                   000014 RLZ    
+sp                        000000 RLZ    sreg                      000002 RLZ    
+tgi_clear                 00104D RLA    tgi_color_white           00000F REZ    
+tgi_done                  001044 RLA    tgi_getdefpalette         00105F RLA    
+tgi_geterror              001047 RLA    tgi_getset                000766 RLA    
+tgi_init                  001041 RLA    tgi_inv_arg               000729 RLA    
+tgi_irq                   001074  LAI   tgi_libref                001074 RLA    
+tgi_popxy                 0007EB RLA    tgi_setcolor              001056 RLA    
+tgi_setdrawpage           001053 RLA    tgi_setpalette            001059 RLA    
+tgi_setpixel              001062 RLA    tgi_setviewpage           001050 RLA    
+tmp1                      000010 RLZ    tmp2                      000011 RLZ    
+tmp3                      000012 RLZ    tmp4                      000013 RLZ    
+tosaddeax                 0005C0 RLA    tosicmp                   000578 RLA    
+tosmuleax                 0005E2 RLA    tossubeax                 000659 RLA    
+tosudivax                 000852 RLA    tosumoda0                 00089F RLA    
+udiv16                    000861 RLA    umul8x16r24               0008B0 RLA    
+zerobss                   0008DB RLA    
+
+
+Exports list by value:
+----------------------
+sp                        000000 RLZ    __BANK1BLOCKSIZE__        000000 REA    
+__INTERRUPTOR_COUNT__     000001 REA    __BOOTLDR__               000001 REA    
+__STARTUP__               000001 REA    __CALLIRQ__               000001 REA    
+__CONSTRUCTOR_COUNT__     000001 REA    __DEFDIR__                000001 REA    
+__DESTRUCTOR_COUNT__      000001 REA    __EXEHDR__                000001 REA    
+sreg                      000002 RLZ    ptr1                      000008 RLZ    
+ptr2                      00000A RLZ    ptr3                      00000C RLZ    
+ptr4                      00000E RLZ    tgi_color_white           00000F REZ    
+tmp1                      000010 RLZ    tmp2                      000011 RLZ    
+tmp3                      000012 RLZ    tmp4                      000013 RLZ    
+regbank                   000014 RLZ    __iodat                   00001A RLZ    
+__iodir                   00001B RLZ    __viddma                  00001C RLZ    
+__sprsys                  00001D RLZ    _FileStartBlock           000026 RLZ    
+_FileEntry                000026 RLZ    _FileBlockOffset          000027 RLZ    
+_FileDestAddr             00002A RLZ    _FileFileLen              00002C RLZ    
+_FileCurrBlock            00002E RLZ    _FileBlockByte            00002F RLZ    
+_FileDestPtr              000031 RLZ    __STARTOFDIRECTORY__      0000CB REA    
+__BSS_SIZE__              0000F3 REA    __STARTUP_LOAD__          000200 RLA    
+__MAIN_START__            000200 RLA    initlib                   00027D RLA    
+initirq                   000289 RLA    irq_init                  000289  LAI   
+__CONSTRUCTOR_TABLE__     000296 RLA    __BANK0BLOCKSIZE__        000400 REA    
+_main                     0004B8 RLA    addysp1                   0004EE RLA    
+addysp                    0004EF RLA    asreax1                   0004FC RLA    
+asreax2                   00050C RLA    axlong                    000525 RLA    
+callmain                  000532 RLA    donelib                   000549 RLA    
+decax1                    000555 RLA    decsp4                    00055C RLA    
+decsp6                    000569 RLA    tosicmp                   000578 RLA    
+popax                     0005A4 RLA    incsp2                    0005AB RLA    
+doneirq                   0005B9 RLA    irq_done                  0005B9  LAI   
+tosaddeax                 0005C0 RLA    tosmuleax                 0005E2 RLA    
+pusheax                   00063E RLA    tossubeax                 000659 RLA    
+_abs                      000679 RLA    popa                      00068B RLA    
+popptr1                   000695 RLA    pusha                     0006A7 RLA    
+pusha0                    0006BB RLA    pushax                    0006BD RLA    
+_tgi_install              0006D3 RLA    tgi_inv_arg               000729 RLA    
+_tgi_done                 000752 RLA    _tgi_getcolorcount        000760 RLA    
+tgi_getset                000766 RLA    _tgi_getxres              000785 RLA    
+_tgi_getyres              00078C RLA    _tgi_init                 000793 RLA    
+tgi_popxy                 0007EB RLA    _tgi_setcolor             0007F2 RLA    
+__STACKSIZE__             000800 REA    _tgi_setpixel             000805 RLA    
+_tgi_settextstyle         00080E RLA    tosudivax                 000852 RLA    
+udiv16                    000861 RLA    tosumoda0                 00089F RLA    
+umul8x16r24               0008B0 RLA    zerobss                   0008DB RLA    
+__DESTRUCTOR_TABLE__      000FF0 RLA    __INTERRUPTOR_TABLE__     000FF2 RLA    
+callirq                   000FF4 RLA    tgi_init                  001041 RLA    
+tgi_done                  001044 RLA    tgi_geterror              001047 RLA    
+tgi_clear                 00104D RLA    _tgi_clear                00104D REA    
+tgi_setviewpage           001050 RLA    tgi_setdrawpage           001053 RLA    
+tgi_setcolor              001056 RLA    tgi_setpalette            001059 RLA    
+tgi_getdefpalette         00105F RLA    tgi_setpixel              001062 RLA    
+tgi_libref                001074 RLA    tgi_irq                   001074  LAI   
+_lynx_160_102_16_tgi      001077 RLA    _tgi_static_stddrv        001077 RLA    
+__BSS_RUN__               001107 RLA    __BSS_LOAD__              001107 RLA    
+_tgi_error                001117 RLA    _tgi_gmode                001118 RLA    
+_tgi_color                00111D RLA    _tgi_font                 00111E RLA    
+_tgi_textdir              00111F RLA    _tgi_textscalew           001122 RLA    
+_tgi_xmax                 00112E RLA    _tgi_ymax                 001130 RLA    
+_tgi_xres                 001132 RLA    _tgi_yres                 001134 RLA    
+_tgi_colorcount           001136 RLA    _tgi_fontwidth            001138 RLA    
+_tgi_fontheight           001139 RLA    _tgi_flags                00113C RLA    
+__MAIN_SIZE__             00B638 REA    
+
+
+Imports list:
+-------------
+_FileBlockByte (extzp.o):
+    bootldr.o                 lynx/extzp.inc:26
+_FileBlockOffset (extzp.o):
+    bootldr.o                 lynx/extzp.inc:21
+_FileCurrBlock (extzp.o):
+    bootldr.o                 lynx/extzp.inc:25
+_FileDestAddr (extzp.o):
+    bootldr.o                 lynx/extzp.inc:23
+_FileDestPtr (extzp.o):
+    bootldr.o                 lynx/extzp.inc:27
+_FileEntry (extzp.o):
+    bootldr.o                 lynx/extzp.inc:19
+_FileFileLen (extzp.o):
+    bootldr.o                 lynx/extzp.inc:24
+_FileStartBlock (extzp.o):
+    bootldr.o                 lynx/extzp.inc:20
+__BANK0BLOCKSIZE__ ([linker generated]):
+    exehdr.o                  lynx/exehdr.s:6
+    defdir.o                  lynx/defdir.s:10
+    bootldr.o                 lynx/bootldr.s:8
+__BANK1BLOCKSIZE__ ([linker generated]):
+    exehdr.o                  lynx/exehdr.s:7
+__BOOTLDR__ (bootldr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/lynx.cfg:7
+__BSS_LOAD__ ([linker generated]):
+    defdir.o                  lynx/defdir.s:9
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CALLIRQ__ (callirq.o):
+    tgi_irq.o                 lynx/tgi_irq.s:11
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DEFDIR__ (defdir.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/lynx.cfg:8
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/lynx.cfg:6
+__INTERRUPTOR_COUNT__ ([linker generated]):
+    callirq.o                 runtime/callirq.s:36
+__INTERRUPTOR_TABLE__ ([linker generated]):
+    callirq.o                 runtime/callirq.s:36
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    lynx/crt0.s:25
+__MAIN_START__ ([linker generated]):
+    defdir.o                  lynx/defdir.s:8
+    crt0.o                    lynx/crt0.s:25
+__STACKSIZE__ ([linker generated]):
+    crt0.o                    lynx/crt0.s:25
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/lynx.cfg:15
+__STARTOFDIRECTORY__ ([linker generated]):
+    defdir.o                  lynx/defdir.s:7
+    [linker generated]        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/cfg/lynx.cfg:13
+__STARTUP_LOAD__ ([linker generated]):
+    defdir.o                  lynx/defdir.s:9
+__STARTUP__ (crt0.o):
+    mandelbrot.o              mandelbrot.s:13
+__iodat (extzp.o):
+    crt0.o                    lynx/extzp.inc:11
+    bootldr.o                 lynx/extzp.inc:11
+__iodir (extzp.o):
+    crt0.o                    lynx/extzp.inc:12
+__sprsys (extzp.o):
+    lynx-160-102-16-tgi.o     lynx/tgi/../extzp.inc:14
+    crt0.o                    lynx/extzp.inc:14
+__viddma (extzp.o):
+    lynx-160-102-16-tgi.o     lynx/tgi/../extzp.inc:13
+    crt0.o                    lynx/extzp.inc:13
+_abs (negabs.o):
+    mandelbrot.o              mandelbrot.s:14
+_lynx_160_102_16_tgi (lynx-160-102-16-tgi.o):
+    tgi_stat_stddrv.o         lynx/tgi_stat_stddrv.s:10
+_main (mandelbrot.o):
+    callmain.o                runtime/callmain.s:11
+_tgi_clear (tgi_clear.o):
+    mandelbrot.o              mandelbrot.s:18
+_tgi_color (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:120
+_tgi_colorcount (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:132
+    tgi_getcolorcount.o       /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:132
+_tgi_done (tgi_done.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:193
+    tgi-kernel.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:193
+_tgi_error (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:116
+_tgi_flags (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:137
+_tgi_font (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:121
+_tgi_fontheight (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:135
+_tgi_fontwidth (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:134
+_tgi_getcolorcount (tgi_getcolorcount.o):
+    mandelbrot.o              mandelbrot.s:19
+_tgi_getxres (tgi_getxres.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:209
+    mandelbrot.o              mandelbrot.s:21
+_tgi_getyres (tgi_getyres.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:210
+    mandelbrot.o              mandelbrot.s:22
+_tgi_gmode (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:117
+    tgi_done.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:117
+_tgi_init (tgi_init.o):
+    mandelbrot.o              mandelbrot.s:17
+_tgi_install (tgi-kernel.o):
+    mandelbrot.o              mandelbrot.s:16
+_tgi_setcolor (tgi_setcolor.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:224
+    mandelbrot.o              mandelbrot.s:20
+_tgi_setpixel (tgi_setpixel.o):
+    mandelbrot.o              mandelbrot.s:23
+_tgi_settextstyle (tgi_settextstyle.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:230
+_tgi_static_stddrv (tgi_stat_stddrv.o):
+    mandelbrot.o              mandelbrot.s:15
+_tgi_textdir (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:122
+_tgi_textscalew (tgi-kernel.o):
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:124
+_tgi_xmax (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:130
+_tgi_xres (tgi-kernel.o):
+    tgi_getset.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:128
+    tgi_getxres.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:128
+_tgi_ymax (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:131
+_tgi_yres (tgi-kernel.o):
+    tgi_getset.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:129
+    tgi_getyres.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:129
+addysp (addysp.o):
+    mandelbrot.o              mandelbrot.s:324
+addysp1 (addysp.o):
+    lsub.o                    runtime/lsub.s:11
+    lmul.o                    runtime/lmul.s:9
+    ladd.o                    runtime/ladd.s:8
+asreax1 (asreax1.o):
+    mandelbrot.o              mandelbrot.s:324
+asreax2 (asreax2.o):
+    mandelbrot.o              mandelbrot.s:324
+axlong (axlong.o):
+    mandelbrot.o              mandelbrot.s:324
+callirq (callirq.o):
+    irq.o                     lynx/irq.s:6
+callmain (callmain.o):
+    crt0.o                    lynx/crt0.s:23
+decax1 (decax1.o):
+    tgi_init.o                tgi/tgi_init.s:11
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+decsp6 (decsp6.o):
+    mandelbrot.o              mandelbrot.s:324
+doneirq (irq.o):
+    callirq.o                 runtime/callirq.s:38
+donelib (condes.o):
+    crt0.o                    lynx/crt0.s:21
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+initirq (irq.o):
+    callirq.o                 runtime/callirq.s:37
+initlib (condes.o):
+    crt0.o                    lynx/crt0.s:21
+popa (popa.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:10
+popax (incsp2.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:10
+popptr1 (popptr1.o):
+    tgi_popxy.o               tgi/tgi_popxy.s:10
+    umod.o                    runtime/umod.s:8
+    udiv.o                    runtime/udiv.s:9
+ptr1 (zeropage.o):
+    tgi_getset.o              tgi/tgi_getset.s:12
+    popptr1.o                 runtime/popptr1.s:9
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    udiv.o                    runtime/udiv.s:10
+    tgi_settextstyle.o        /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    tgi_init.o                tgi/tgi_init.s:12
+    tgi-kernel.o              tgi/tgi-kernel.s:8
+    lmul.o                    runtime/lmul.s:10
+ptr2 (zeropage.o):
+    tgi_popxy.o               tgi/tgi_popxy.s:11
+    tgi_getset.o              tgi/tgi_getset.s:12
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+ptr3 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    lmul.o                    runtime/lmul.s:10
+ptr4 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:12
+    umod.o                    runtime/umod.s:9
+    udiv.o                    runtime/udiv.s:10
+    lmul.o                    runtime/lmul.s:10
+pusha (pusha.o):
+    tgi_init.o                tgi/tgi_init.s:11
+pusha0 (pushax.o):
+    mandelbrot.o              mandelbrot.s:324
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+    tgi_init.o                tgi/tgi_init.s:11
+    mandelbrot.o              mandelbrot.s:324
+pusheax (lpush.o):
+    mandelbrot.o              mandelbrot.s:324
+regbank (zeropage.o):
+    mandelbrot.o              mandelbrot.s:10
+sp (zeropage.o):
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    popa.o                    runtime/popa.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    pushax.o                  runtime/pushax.s:8
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ladd.o                    runtime/ladd.s:9
+    icmp.o                    runtime/icmp.s:9
+    decsp6.o                  runtime/decsp6.s:8
+    crt0.o                    /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    mandelbrot.o              mandelbrot.s:10
+sreg (zeropage.o):
+    umul8x16r24.o             /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:11
+    umod.o                    runtime/umod.s:9
+    udiv.o                    runtime/udiv.s:10
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ladd.o                    runtime/ladd.s:9
+    icmp.o                    runtime/icmp.s:9
+    axlong.o                  runtime/axlong.s:9
+    asreax2.o                 runtime/asreax2.s:8
+    asreax1.o                 runtime/asreax1.s:8
+    mandelbrot.o              mandelbrot.s:10
+tgi_clear (tgi-kernel.o):
+    tgi_clear.o               /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:156
+tgi_color_white (tgi_colors.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:110
+tgi_done (tgi-kernel.o):
+    tgi_done.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:153
+tgi_getdefpalette (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:162
+tgi_geterror (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:154
+tgi_getset (tgi_getset.o):
+    tgi_setpixel.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:176
+tgi_init (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:152
+tgi_inv_arg (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:178
+tgi_libref (tgi_irq.o):
+    tgi-kernel.o              tgi/tgi-kernel.s:7
+tgi_popxy (tgi_popxy.o):
+    tgi_getset.o              /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:182
+tgi_setcolor (tgi-kernel.o):
+    tgi_setcolor.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:159
+tgi_setdrawpage (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:158
+tgi_setpalette (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:160
+tgi_setpixel (tgi-kernel.o):
+    tgi_setpixel.o            /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:163
+tgi_setviewpage (tgi-kernel.o):
+    tgi_init.o                /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/tgi-kernel.inc:157
+tmp1 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    ladd.o                    runtime/ladd.s:9
+    asreax2.o                 runtime/asreax2.s:8
+    asreax1.o                 runtime/asreax1.s:8
+tmp2 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    lmul.o                    runtime/lmul.s:10
+tmp3 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    lmul.o                    runtime/lmul.s:10
+tmp4 (zeropage.o):
+    lynx-160-102-16-tgi.o     /cygdrive/c/Users/Craig Vella/Documents/GitHub/cc65/asminc/zeropage.inc:13
+    lmul.o                    runtime/lmul.s:10
+tosaddeax (ladd.o):
+    mandelbrot.o              mandelbrot.s:324
+tosicmp (icmp.o):
+    mandelbrot.o              mandelbrot.s:324
+tosmuleax (lmul.o):
+    mandelbrot.o              mandelbrot.s:324
+tossubeax (lsub.o):
+    mandelbrot.o              mandelbrot.s:324
+tosudivax (udiv.o):
+    mandelbrot.o              mandelbrot.s:324
+tosumoda0 (umod.o):
+    mandelbrot.o              mandelbrot.s:324
+udiv16 (udiv.o):
+    umod.o                    runtime/umod.s:8
+umul8x16r24 (umul8x16r24.o):
+    tgi_settextstyle.o        tgi/tgi_settextstyle.s:9
+zerobss (zerobss.o):
+    crt0.o                    lynx/crt0.s:22
+
