@@ -18,6 +18,7 @@ CURSOR_BLI   := $001A        ; Cursor blink on/off
 V_INPUTBUFFER:= $0200        ; 255 Byte Input Buffer
 V_SYSVAR1    := $0010        ; ZP Sysvar 1
 V_SYSVAR2    := $0012        ; ZP Sysvar 2
+V_DRTCVAR1   := $0028        ; DRTC-Var-1
 
 ; ---------------------------------------------------------------------------
 ; Monitor Functions
@@ -31,3 +32,4 @@ DVGA_CUR_CR      := $C3A8  ; Carriage Return
 DVGA_PUT_CHAR    := $C3A2  ; Put a char out to screen
 SYS_GETSTR       := $C247  ; Get String, stores it int V_INPUTBUFFER
 SYS_STR_COPY     := $C0E5  ; Copy String @ V_SYSVAR1 to V_SYSVAR2
+DRTC_GET_CLK     := $CA3E  ; Get Clock and store @ V_DRTCVAR1 PTR

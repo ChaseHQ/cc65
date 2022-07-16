@@ -1,6 +1,9 @@
 {
     "makefile.extensionOutputFolder": "./.vscode",
     "files.associations": {
-        "dcursor.h": "c"
+        "dcursor.h": "c",
+        "danitime.h": "c",
+        "time.h": "c",
+        "errno.h": "c"
     }
 }

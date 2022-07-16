@@ -4,6 +4,7 @@
 */
 
 #include <dani1/dcursor.h>
+#include <string.h>
 
 #define CURSOR_LOC ((unsigned char*)0x0018)
 #define CURSOR_BLI ((unsigned char*)0x001A)
@@ -35,4 +36,10 @@ unsigned char getcxy(unsigned char x, unsigned char y) {
     unsigned int loc = 0x8000;
     loc |= ((40*y)+x);
     return ((unsigned char*)loc)[0];
+}
+
+unsigned char textCenter(char * string) {
+   int center = 19 - (strlen(string) / 2);
+   if (center < 0) return 0;
+   return (unsigned char)center;
 }
