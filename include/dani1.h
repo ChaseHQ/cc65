@@ -36,30 +36,7 @@
 #  error This module may only be used when compiling for the DANI-I
 #endif
 
-/*****************************************************************************/
-/*                                   Data                                    */
-/*****************************************************************************/
-
-/*****************************************************************************/
-/*                                 Hardware                                  */
-/*****************************************************************************/
-
-// #define RIOT3    (*(struct __6530*)0x1700)    // U25
-// #define RIOT2    (*(struct __6530*)0x1740)    // U28
-
-/*****************************************************************************/
-/*                                   Code                                    */
-/*****************************************************************************/
-
-/* Read from tape */
-//int __fastcall__ loadt (unsigned char);
-
-/* Write to tape */
-//int __fastcall__ dumpt (unsigned char, const void*, const void*);
-
-void __fastcall__ blankscreen(void);               // Blankscreen with Monitor Method
 char * __fastcall__ gets(char * str);              // Get string with Monitor method
 unsigned char __fastcall__ agetch(void);           // Nonblocking getch call
 
-/* End of danii.h */
 #endif
